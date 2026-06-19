@@ -1,0 +1,10698 @@
+      const QD = {
+        "Intensiv mevachilik": [
+          {
+            question:
+              "Intensiv tipdagi ko’chatzorning ikkinchi dalasida bajariladigan ishlarni tartib bilan ko’rsating?",
+            options: [
+              "Payvandust uchini kesish, kurtak o’stirish, shakl berish",
+              "Kurtak payvandlash, shaklga solish, ulangan kurtak yuqorisidan kesish",
+              "Ulangan kurtak yuqorsisidan kesish, payvandlash, shakl berish",
+              "Shakl berish, qayta payvandlash, bog’lash",
+            ],
+            correct: "Payvandust uchini kesish, kurtak o’stirish, shakl berish",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Pervenets Samarkanda olma navi ta’mi qanday?.",
+            options: [
+              "Judayam shirin suvli",
+              "Judayam tahir suvli",
+              "O’rtacha suvli",
+              "Kam suvli",
+            ],
+            correct: "Judayam shirin suvli",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv tipdagi meva o’simliklarini suvga kam talabi bo’yicha ko’rsating?",
+            options: [
+              "Behi, o’rik, yong’oq",
+              "olma, olcha, anor, bodom",
+              "anor,zaytun, yong’oq",
+              "qulupnay, smorodina, olxo’ri",
+            ],
+            correct: "Behi, o’rik, yong’oq",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Suvni kam talab qiladigan Intensiv meva daraxtlari qaysilar?",
+            options: [
+              "Behi, o’rik, yong’oq, anor, gilos, unabi",
+              "olma, olcha, anor, bodom, malina, anjir, zaytun, yong’oq",
+              "anor,zaytun, yong’oq, gilos, qulupnay, pekan",
+              "qulupnay, smorodina, olxo’ri, olma, gilos, o’rik, bodom, pista",
+            ],
+            correct: "Behi, o’rik, yong’oq, anor, gilos, unabi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Urug’li meva ekinlariga misol ko’rsating?",
+            options: [
+              "Olma, nok, behi",
+              "Apelsin, mandarin",
+              "Qaroli, shaftoli, o’rik",
+              "Yong’oq, pekan, pista",
+            ],
+            correct: "Olma, nok, behi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Danakli mevalarga misol keltiring?",
+            options: [
+              "O’rik,olxo’ri",
+              "Shaftoli,anor",
+              "Olxo’ri,do’lana",
+              "Olma,anjir",
+            ],
+            correct: "O’rik,olxo’ri",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Intensiv navlarini qachon kurtak payvand qilish mumkin?",
+            options: ["Avgust", "May", "Iyun", "Sentyabr"],
+            correct: "Avgust",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "O’zbekiston sharoitida olma uchun o’rta bo’yli payvandtag?",
+            options: [
+              "Dusen olmasi",
+              "Kavkaz olmasi",
+              "Sibir olmasi",
+              "Xitoy olmasi",
+            ],
+            correct: "Dusen olmasi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Urug’li meva ekinlariga misol ko’rsating?",
+            options: [
+              "Olma, nok, behi",
+              "Apelsin, mandarin",
+              "Qaroli, shaftoli, o’rik",
+              "Yong’oq, pekan, pista",
+            ],
+            correct: "Olma, nok, behi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "O’rta bo’yli intensiv tipdagi payvandtaglarni ko’rsating?",
+            options: [
+              "MM 106, MM102",
+              "Sivers olmasi",
+              "Qizil olma",
+              "M 9, M26",
+            ],
+            correct: "MM 106, MM102",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv tipdagi olmani past bo’yli payvantaglarini ko’rsating?",
+            options: [
+              "M9, M26, M27",
+              "Qizil olma",
+              "MM 106, MM102, MM 104",
+              "Sivers olmasi",
+            ],
+            correct: "M9, M26, M27",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Meva o’simliklarini intensiv navlarini kurtak payvand qilish uchun qulay muddatni ko’rsating?",
+            options: ["Avgust", "May", "Iyun", "Sentyabr"],
+            correct: "Avgust",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "O’zbekiston sharoitida olma uchun qaysi xili vegatetiv usulda ko’paytirilib o’rta bo’yli payvandtag sifatida qo’llaniladi?",
+            options: [
+              "Dusen olmasi",
+              "Kavkaz olmasi",
+              "Sibir olmasi",
+              "Xitoy olmasi",
+            ],
+            correct: "Dusen olmasi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chatzorda GOST bo’yicha olmani kuchli o’sadigan payvandtaglarda yetishtiriladigan ko’chatlarni tanasini balandligi qancha bo’lishi kerak? (sm)",
+            options: ["60-80", "40-60", "30-50", "70-90"],
+            correct: "60-80",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chatzorda GOST bo’yicha olmani pakana o’sadigan payvandtaglarda yetishtiriladigan ko’chatlarni tanasini balandligi qancha bo’lishi kerak? (sm)",
+            options: ["40-50", "70-80", "50-60", "35-40"],
+            correct: "40-50",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chatzorda kurtaklar payvand vaqtida payvandtagga qanday o’rnatiladi?",
+            options: [
+              "«T» kesigiga",
+              "«P» kesigiga",
+              "«M» kesigiga",
+              "«S» kesigiga",
+            ],
+            correct: "«T» kesigiga",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Ko’chatzorni sug’orish normasini ko’rsating? (m3)",
+            options: ["350-500", "800-1000", "700-900", "1200-1500"],
+            correct: "350-500",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Bo’z tuproqlarda ko’chatzor necha marotaba sug’oriladi?",
+            options: ["10-12 marta", "4-5 marta", "7-10 marta", "5-8 marta"],
+            correct: "10-12 marta",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chatzorda qalamchalar yaxshi ildizlanishi uchun qanday o’stiruvchi modda qo’llaniladi?",
+            options: [
+              "indolilmoy kislotasi",
+              "Gibbeksid",
+              "indolil uksus kislotasi",
+              "Gibberellin",
+            ],
+            correct: "indolilmoy kislotasi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Mevali o’simliklarning umumiy gulidan necha foizi yaxshi changlanib saqlanib qolsa mo’l hosil olish mumkin?",
+            options: ["20-25", "10-15", "5-7", "3-5"],
+            correct: "20-25",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chatzorni shag’al toshli yerlarda necha marotabagacha sug’orish kerak?",
+            options: ["17-18 marta", "9-10 marta", "12-13 marta", "6-8 marta"],
+            correct: "17-18 marta",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Qalamcha payvand qilish muddatini ko’rsating?",
+            options: ["Bahorda", "Qishda", "Yozda", "Kuzda"],
+            correct: "Bahorda",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chat o’tkazish taxtasining uzunligi qancha bo’lishi kerak?",
+            options: ["1,5-2,0 m", "2-3 m", "5-3 m", "3-4 m"],
+            correct: "1,5-2,0 m",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chat o’tkaziladigan chuqurlarning kengligi qancha bo’lishi kerak?",
+            options: ["50-60 sm", "60-80 sm", "80-90 sm", "20-30 sm"],
+            correct: "50-60 sm",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "4 x1,5 m sxemada ekilgan intensiv bog’ga 1 gektar maydonga necha tup ko’chat joylashadi?",
+            options: ["1666 ta", "1500 ta", "1250 ta", "1800 ta"],
+            correct: "1666 ta",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Bog’da meva ko’chatlarini joylashtirishning eng ko’p tarqalgan usuli?",
+            options: [
+              "to’g’ri burchakli to’rtburchak usuli",
+              "shaxmat usuli",
+              "Kontur usuli",
+              "kvadratlab usuli",
+            ],
+            correct: "to’g’ri burchakli to’rtburchak usuli",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Ko’chat o’tkaziladigan chuqurlarning kengligi?",
+            options: ["50-60 sm", "60-80 sm", "80-90 sm", "20-30 sm"],
+            correct: "50-60 sm",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Meva ekinlarida shox shabbalarining yoki uning ayrim qismlarini strukturali o’xshashligi qanday ataladi?",
+            options: [
+              "Qutublilik",
+              "Yaruslik",
+              "Morfologik parallelism",
+              "Tsiklik almashinish",
+            ],
+            correct: "Qutublilik",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Eng kalta meva shoxchasi qanday aytiladi?",
+            options: [
+              "halqali shoxcha",
+              "nayzasimon shoxcha",
+              "ingichka shoxcha",
+              "to’p meva shoxcha",
+            ],
+            correct: "halqali shoxcha",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Meva daraxtlari shoxlarining tiplari qanday bo’ladi?",
+            options: [
+              "O’suv va hosil",
+              "O’suv shoxlar",
+              "To’p shoxlar",
+              "Hosil shoxlar",
+            ],
+            correct: "O’suv va hosil",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Qaysi novdalarda hosil kurtaklari bo’lmaydi?",
+            options: [
+              "o’suvchi novdalar",
+              "to’p meva shoxchalar",
+              "regenerativ novdalar",
+              "konkurent novdalar",
+            ],
+            correct: "o’suvchi novdalar",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Meva ekinlari mevasi qanday qismlardan tashkil topgan?",
+            options: [
+              "Meva qati (perikarp) va urug’dan",
+              "Urug’ va meva po’stidan",
+              "Urug’dan",
+              "Meva eti va po’stdan",
+            ],
+            correct: "Meva qati (perikarp) va urug’dan",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Eng erta gullaydigan meva ekini qaysisi?",
+            options: ["Bodom", "Qaroli", "Anjir", "Anor"],
+            correct: "Bodom",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv bog’barpo qilishda eng yaxshi o’tmishdosh ekinlar qaysi hisoblanadi?",
+            options: [
+              "Ko’p yillik dukkaklilar",
+              "Sabzavotlar",
+              "Bir yillik dukkaklilar",
+              "Barcha javoblar to’g’ri",
+            ],
+            correct: "Ko’p yillik dukkaklilar",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Qanday tuproqlar intensiv meva bog’i barpo qilish uchun yaroqsiz hisoblanadi ?",
+            options: [
+              "Sho’rxok, botqoq tuproqlar",
+              "Bo’z tuproqlar",
+              "O’tloq botqoq tuproqlar",
+              "Toshloq tuproqlar",
+            ],
+            correct: "Sho’rxok, botqoq tuproqlar",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv meva bog’lari kvartallari o’rtasidagi yo’laklarning eni qancha bolishi kerak ?",
+            options: ["3-5 m", "1,5-2 m", "8-10 m", "14-16 m"],
+            correct: "3-5 m",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Hosilga kirgan meva bog’larida azot va fosforning normasini 2 barobarga oshirish (N-240, P2O5-120 kg/ga) faol ildizlarning paydo bo’lishini qanchaga oshiradi?",
+            options: [
+              "1,5 barobarga",
+              "1,7 barobarga",
+              "2,0 barobarga",
+              "2,3 barobarga",
+            ],
+            correct: "1,5 barobarga",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Palmeta shakl berish usuli qaysi meva daraxtida qo’llaniladi?",
+            options: ["olma", "Gilos", "Shaftoli", "o’rik"],
+            correct: "olma",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Meva ekinlari hosili necha marta va qachon chamalanadi?",
+            options: [
+              "2-marta – gullash paytida va g’o’ra paytida",
+              "1 - marta gullash paytida",
+              "2 marta – hosil shoxida shakllangan meva kurtagida va gullashida",
+              "3 marta – kurtagiga, guliga va mevasiga qarab",
+            ],
+            correct: "2-marta – gullash paytida va g’o’ra paytida",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Behi navlarini aniqlang?",
+            options: [
+              "Aromatnaya, Izobilnaya, Samarkandskaya krupnoplodnaya",
+              "Vosxod, Drogana jeltaya",
+              "Lyubskaya 15, Samarkandskaya, Podbelskaya",
+              "Desertny, Achchiq-dona, Qazoqi",
+            ],
+            correct: "Aromatnaya, Izobilnaya, Samarkandskaya krupnoplodnaya",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Meva ekinlari payvantaglarini kovlab olishning eng qulay muddatini ko’rsating?",
+            options: ["Kuzda", "Vegetasiya davri oxirida", "Bahorda", "Yozda"],
+            correct: "Kuzda",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Urug’ko’chatlar kovlab olingandan so’ng qancha balandlikda kesiladi?",
+            options: ["10- 15 sm", "40-50 sm", "60-70 sm", "25-30 sm"],
+            correct: "10- 15 sm",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Urug’li meva ekinlarida kurtak payvandlarning tutganligi qancha kundan so’ng aniqlanadi?",
+            options: [
+              "5-6 kundan so’ng",
+              "7-8 kundan so’ng",
+              "9-10 kundan so’ng",
+              "12-15 kundan so’ng",
+            ],
+            correct: "5-6 kundan so’ng",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chatzorga payvand qilingan ko’chatlarni ekish bilan ko’chat yetishtirish necha yilga cho’ziladi?",
+            options: ["2 yilga", "3 yilga", "4 yilga", "5 yilga"],
+            correct: "2 yilga",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "M9 payvand tagiga ulangan olma navlari ko’chati o’tkazilgandan so’ng nechanchi yili hosil beradi?",
+            options: ["2 yili", "5 yili", "4 yili", "6 yili"],
+            correct: "2 yili",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv bog’lar to’liq hosilga kirganda qancha hosil olinadi?",
+            options: ["30-40 t", "10-15 t", "5-6 t", "10-12 t"],
+            correct: "30-40 t",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv bog’lardagi daraxtlar to’liq hosilga kirganda bir daraxtdan necha kg hosil olinadi?",
+            options: ["15-20 kg", "5-6 kg", "5-10 kg", "40-50 kg"],
+            correct: "15-20 kg",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv bog’larning mevasining sifati yuqori bo’lishining sababini ko’rsating?",
+            options: [
+              "tanasiga yorug’lik tushishi, havo aylanishi yaxshi bo’lganligi",
+              "havo aylanishi yaxshi bo’lganligi,ko’chat sonining ko’pligi",
+              "havo aylanishi yaxshi bo’lganligi,sug’orish tizimi",
+              "havo aylanishi yaxshi bo’lganligi,o’g’itlar ta’siri",
+            ],
+            correct:
+              "tanasiga yorug’lik tushishi, havo aylanishi yaxshi bo’lganligi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Yangi ekilgan ko’chatlarni dastlabki davrida nima bilan ta’minlashga katta e’tibor berish zarur?",
+            options: [
+              "suv bilan ta’minlashga",
+              "azot bilan ta’minlashga",
+              "fosfor bilan ta’minlashga",
+              "kaliy bilan ta’minlashga",
+            ],
+            correct: "suv bilan ta’minlashga",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "MM–106 payvandtagga ulangan o’rta o’suvchi olma ko’chatlari uchun o’tqazish sxemasi?",
+            options: [
+              "6 x 4 m, 6 x 5 m",
+              "6 x 2 m, 6 x 3 m",
+              "5 x 4 m, 6 x 6 m",
+              "7x 5 m, 7x 6 m",
+            ],
+            correct: "6 x 4 m, 6 x 5 m",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "MM–106 payvandtagga ulangan o’rta o’suvchi nok ko’chatlari uchun o’tqazish sxemasi?",
+            options: [
+              "5 x 3 m, 5 x 4 m",
+              "3 x 3 m, 4 x 4 m",
+              "5 x 4 m, 6 x 4 m",
+              "6 x 4 m, 5 x 5 m",
+            ],
+            correct: "5 x 3 m, 5 x 4 m",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv bog’larda hosilning salmog’i ko’proq nimaga bog’liq?",
+            options: [
+              "Maydondagi ko’chat soniga",
+              "Maydondagi qator orasiga",
+              "Tuproq mexanik tarkibiga",
+              "Maydondagi ko’chat naviga",
+            ],
+            correct: "Maydondagi ko’chat soniga",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Hosilni sifatiga ta’sir qiluvchi asosiy tashqi factor?",
+            options: [
+              "Yorug’lik",
+              "Urug’lik",
+              "Mikroelementlar",
+              "Agrotexnika",
+            ],
+            correct: "Yorug’lik",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "CHuqurga ko’chat ekishdan oldin qancha fosforli o’g’iti solinadi?.",
+            options: ["350–400 g", "600-700 g", "1200-1300 g", "1500-2000 g"],
+            correct: "350–400 g",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "CHuqurga ko’chat ekishdan oldin qancha kaliy o’g’iti solinadi?.",
+            options: ["30–40 g", "7 0-100 g", "150-200 g", "200-300 g"],
+            correct: "30–40 g",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "CHuqurga ko’chat ekishdan oldin qancha chirigan go’ng solinadi?",
+            options: ["8–10 kg", "20-30 kg", "15-20 kg", "3-5 kg"],
+            correct: "8–10 kg",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Ko’chatni ekishdan oldin ildizi nimaga botirib ekiladi?",
+            options: [
+              "shatmoqqa (yangi mol go’ngi tuproq bilan 1:1 nisbatda qaymoqsimon qilib tayyorlanadi)",
+              "Suvga",
+              "maxsus suyiqlikka",
+              "Biostimulyatorga",
+            ],
+            correct:
+              "shatmoqqa (yangi mol go’ngi tuproq bilan 1:1 nisbatda qaymoqsimon qilib tayyorlanadi)",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chatning ildiz payvand qilingan joyi tuproqdan necha sm yuqorida bo’lishi kerak?.",
+            options: ["4–5 sm", "10-15 sm", "8-12 sm", "15-20 sm"],
+            correct: "4–5 sm",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ekilgan ko’chatlar vegetatsiya davrida atroflari nega yumshatib turiladi?.",
+            options: [
+              "qatqaloq bo’lib qolmasligi uchun",
+              "zararkunandalarni yo’qatish uchun",
+              "kasalliklarga qarshi",
+              "tez o’sishi uchun",
+            ],
+            correct: "qatqaloq bo’lib qolmasligi uchun",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ekilgan ko’chatlar vegetatsiya davrida tuproq sharoitiga qarab o’rtacha necha marta sug’oriladi?.",
+            options: [
+              "10–12 martadan 16–20 martagacha",
+              "6–10 martadan 14–15 martagacha",
+              "8–10 martadan 15–16 martagacha",
+              "14–15 martadan 18–19 martagacha",
+            ],
+            correct: "10–12 martadan 16–20 martagacha",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ekilgan ko’chatlar vegetatsiya davrida har sug’orishdan so’ng qanday agrotexnik tadbir o’tkaziladi?.",
+            options: [
+              "tuproq kultivatsiya qilinadi",
+              "tuproq baranalanadi",
+              "s ug’orish egatlari olinadi",
+              "ma’danli o’g’it beriladi",
+            ],
+            correct: "tuproq kultivatsiya qilinadi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Pervenets Samarkanda olma navi pishish muddatiga ko’ra qaysi guruhga mansub?.",
+            options: ["ertapishar", "o’rtapishar", "Kechpishar", "qishgi nav"],
+            correct: "ertapishar",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ekilgan ko’chatlarni sxemasiga qarab temir beton ustunlar sarfi…?",
+            options: [
+              "qator orasi 3 m bo’lsa, 429 dona, 3,5 m – 370 dona, 4 m bo’lganda – 325 dona",
+              "qator orasi 3 m bo’lsa, 440 dona, 3,5 m – 360 dona, 4 m bo’lganda – 325 dona",
+              "qator orasi 3 m bo’lsa, 429 dona, 3,5 m – 380 dona, 4 m bo’lganda – 225 dona",
+              "qator orasi 3 m bo’lsa, 450 dona, 3,5 m – 380 dona, 4 m bo’lganda – 225 dona",
+            ],
+            correct:
+              "qator orasi 3 m bo’lsa, 429 dona, 3,5 m – 370 dona, 4 m bo’lganda – 325 dona",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Yosh ekilgan ko’chatlar yaxshi rivojlanib o’sishi uchun birinchi marta qachon har bir ko’chat atrofiga 100–120 g. dan azotli o’g’it solinadi?.",
+            options: [
+              "aprel oyining ikkinchi yarmida",
+              "mart oyining ikkinchi yarmida",
+              "may oyining yarmida",
+              "aprel oyining boshida",
+            ],
+            correct: "aprel oyining ikkinchi yarmida",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Yosh ekilgan ko’chatlar yaxshi rivojlanib, o’sishi uchun ikkinchi marta qachon har bir ko’chat atrofiga 100–120 g. dan azotli o’g’it solinadi?.",
+            options: [
+              "iyun oyida",
+              "may oyida",
+              "may oyi boshida",
+              "iyul oyida",
+            ],
+            correct: "iyun oyida",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Tomchilatib sug’orish sistemasi mavjud bo’lgan bog’larda barcha mineral ozuqalarni qaysi usulda berish maqsadga muvofiqdir?",
+            options: [
+              "suv orqali tomchilatib berish",
+              "suv orqali egatlab berish",
+              "tuproqqa solish orqali berish",
+              "suv orqali yomg’irlatib berish",
+            ],
+            correct: "suv orqali tomchilatib berish",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chatlarning o’g’itni o’zlashtirish samaradorligi qaysi usulda berilganda yaxshi bo’ladi?.",
+            options: [
+              "suv orqali topchilatib berilganda",
+              "suv orqali yomg’irlatib berilganda",
+              "suv orqali egatlab berilganda",
+              "tuproq orqali berilganda",
+            ],
+            correct: "suv orqali topchilatib berilganda",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Yosh pakana payvandtagli bog’lar orasiga birinchi yili qanday ekinlar ekiladi?",
+            options: [
+              "sabzavot, poliz, kartoshka ekinlari",
+              "poliz, kartoshka ekinlari",
+              "Sabzavot va dukkakli ekinlar",
+              "sabzavot, poliz, moyli ekinlar",
+            ],
+            correct: "sabzavot, poliz, kartoshka ekinlari",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Birinchi yili yosh ko’chatlar qishga yaxshi tayyorlanishi bois qaysi davrdan boshlab sug’orish tavsiya etilmaydi?.",
+            options: [
+              "sentyabr oyining ikkinchi yarmidan",
+              "sentyabr oyining birinchi yarmidan",
+              "sentyabr oyining oxiridan",
+              "Oktyabr oyining birinchi yarmidan",
+            ],
+            correct: "sentyabr oyining ikkinchi yarmidan",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Qaysi muddatlarda ko’chatlarning qator orasi chopilib, yumshatiladi, begona o’tlardan tozalanadi?.",
+            options: [
+              "oktyabr-noyabr oylarida",
+              "noyabr – dekabr oylarida",
+              "sentyabr-oktyabr oylarida",
+              "avgust-sentyabr oylarida",
+            ],
+            correct: "oktyabr-noyabr oylarida",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Stark erlist olma navi respublikamizga qayerdan kirib kelgan?.",
+            options: [
+              "AQSHdan kirib kelgan",
+              "Kanadadan kirib kelgan",
+              "Angliyadan kirib kelgan",
+              "Vengeriyadan kirib kelgan",
+            ],
+            correct: "AQSHdan kirib kelgan",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Stark erlist olma navi pishish muddatiga ko’ra qaysi guruhga mansub?.",
+            options: ["ertapishar", "o’rtapishar", "kechpishar", "qishgi nav"],
+            correct: "ertapishar",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Borovinka Tashkentskaya olma navi pishish muddatiga ko’ra qaysi guruhga mansub?.",
+            options: ["ertapishar", "o’rtapishar", "Kechpishar", "qishgi nav"],
+            correct: "ertapishar",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Kuzgi olma navlarini ko’rsating...?",
+            options: [
+              "Parmen zimniy zolotoy,Golden Delishes",
+              "Borovinka Tashkentskaya, Stark erlist",
+              "Stark erlist,Renet Simirenko",
+              "King devid, Pervenets Samarkanda",
+            ],
+            correct: "Parmen zimniy zolotoy,Golden Delishes",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Parmen zimniy zolotoy navi qaysi mevaning navi?.",
+            options: [
+              "Kuzgi olmaning",
+              "Yozgi olmaning",
+              "Kuzgi nokning",
+              "Kuzgi behining",
+            ],
+            correct: "Kuzgi olmaning",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Parmen zimniy zolotoy navi olmasining ko’rinishi...?",
+            options: [
+              "dumaloq sal cho’ziqroq, sarg’ish oltin rangga ega",
+              "sarg’ish oltin rangga ega",
+              "dumaloq sal cho’ziqroq",
+              "Konussmon qizil",
+            ],
+            correct: "dumaloq sal cho’ziqroq, sarg’ish oltin rangga ega",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Parmen zimniy zolotoy navi olmasining o’rtacha vazni qancha?.",
+            options: ["90-120 g", "80-100 g", "100-150 g", "200-220 g"],
+            correct: "90-120 g",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Golden Delishes navi olmasining o’rtacha vazni qancha?.",
+            options: ["130-150 g", "180-250 g", "230-300 g", "150-200 g"],
+            correct: "130-150 g",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Golden Delishes navi olmasining ko’rinishi...?",
+            options: [
+              "konussimon dumaloq shaklda",
+              "konussimon cho’ziq shaklda",
+              "konussimon qisqa shaklda",
+              "konussimon uzunchoq shaklda",
+            ],
+            correct: "konussimon dumaloq shaklda",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Golden Delishes navi olmasining ko’rinishi...?",
+            options: [
+              "sarg’ish oltin rangda",
+              "sarg’ish qizil rangda",
+              "sarg’ish yashil rangda",
+              "qizil oltin rangda",
+            ],
+            correct: "sarg’ish oltin rangda",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "O’zbekistonda ishlab chiqarishda keng qo’llaniladigan qishki olma navi...?",
+            options: [
+              "Renet Simirenko",
+              "Gold spur",
+              "Golden Delishes",
+              "Nafis",
+            ],
+            correct: "Renet Simirenko",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Olmaning Nafis navi qaysi o’zbek olimi tomonidan yaratilgan?.",
+            options: [
+              "A.X.Xamroxodjaev tomonidan",
+              "M.Mirzayev tomonidan",
+              "A.Mahmudov",
+              "O.Qodirxo’jayev",
+            ],
+            correct: "A.X.Xamroxodjaev tomonidan",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Gorizontal novdalardan hosil bo’lgan novdalar necha sm uzunlikka yetganda ularni nam tuproq bilan 10–12 sm qalinligida qo’lda qumlanadi?.",
+            options: [
+              "20–25 sm uzunlikka yetganda",
+              "25–35 sm uzunlikka yetganda",
+              "40–45 sm uzunlikka yetganda",
+              "50–55 sm uzunlikka yetganda",
+            ],
+            correct: "20–25 sm uzunlikka yetganda",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Novdalar gorizontal ko’paytirilganda yoz davomida (o’sish jarayonida) yana necha marta qumlab ko’miladi?.",
+            options: [
+              "ikki-uch marotaba",
+              "bir-ikki marotaba",
+              "uch-to’rt marotaba",
+              "besh-olti marotaba",
+            ],
+            correct: "ikki-uch marotaba",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Novdalar gorizontal ko’paytirilganda marzalar balandligi necha sm.ni tashkil qiladi?.",
+            options: [
+              "25–30 sm ni",
+              "35–40 sm ni",
+              "30–35 sm ni",
+              "45–50 sm ni",
+            ],
+            correct: "25–30 sm ni",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Novdalar gorizontal ko’paytirilganda kuzda ona tuplarining qumlangan tuproqlari tushirilib, novdalarning atrofi ochiladi va ildiz otgan novdalarni asosiy gorizontal novdadan necha sm.qoldirib kesiladi?.",
+            options: ["1–1,5 sm", "2–2,5 sm", "3–3,5 sm", "4–4,5 sm"],
+            correct: "1–1,5 sm",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Kurtak payvand necha usulda qilinadi?.",
+            options: ["3 usulda", "4 usulda", "5 usulda", "6 usulda"],
+            correct: "3 usulda",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Kurtak payvand qilish usullarini ko’rsating…?",
+            options: [
+              "yog’ochligi bilan, yog’ochsizlik va naychasi bilan",
+              "yog’ochligi bilan va naychasi bilan",
+              "yog’ochsizlik va naychasi bilan",
+              "yog’ochligi va yog’ochsizlik bilan",
+            ],
+            correct: "yog’ochligi bilan, yog’ochsizlik va naychasi bilan",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Olma uchun eng yaxshi payvandtag …?",
+            options: [
+              "Mahalliy sivers yovvoyi olmasi",
+              "Mahalliy o’rmon yovvoyi olmasi",
+              "Mahalliy tog’ olmasi",
+              "Mahalliy yovvoyi behi",
+            ],
+            correct: "Mahalliy sivers yovvoyi olmasi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Oddiy qalamcha payvand qilishda nimaga e’tibor berish kerak?",
+            options: [
+              "Payvandtag va payvandust bir xil yo’g’onlikda bo’lishi kerak",
+              "Payvandtag va payvandust har xil yo’g’onlikda bo’lishi mumkin",
+              "Payvandtag va payvandust bir xil yo’g’onlikda bo’lishi shart emas",
+              "Payvandtag va payvandust navdasi yetilgan bo’lishi kerak",
+            ],
+            correct:
+              "Payvandtag va payvandust bir xil yo’g’onlikda bo’lishi kerak",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Qalamcha payvandda nimaga e’tibor berish kerak?",
+            options: [
+              "payvandustning kambiy qatlami payvandtagining kambiy qatlamiga tegib turishi lozim",
+              "payvandustning yog’och qatlami payvandtagining kambiy qatlamiga tegib turishi lozim",
+              "payvandustning yog’och qatlami payvandtagining yog’och qatlamiga tegib turishi lozim",
+              "payvandustning kambiy qatlami payvandtagining yog’och qatlamiga tegib turishi lozim",
+            ],
+            correct:
+              "payvandustning kambiy qatlami payvandtagining kambiy qatlamiga tegib turishi lozim",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chatlarni kovlab olish uchun tayyor ekanligi ularning qaysi belgilariga qarab aniqlanadi?.",
+            options: [
+              "uchki barglariga qarab",
+              "pastki barglariga qarab",
+              "uchki shoxlariga qarab",
+              "Yon shoxlariga qarab",
+            ],
+            correct: "uchki barglariga qarab",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv bog’da qator oralariga nurlarni qaytaruvchi mato qo’yishning qanday afzalligi bor?.",
+            options: [
+              "mevalar rangi yaxshi bo’ladi",
+              "mevalar kata bo’ladi",
+              "mevalar ko’p bo’ladi",
+              "mevalar mazasi yaxshi bo’ladi",
+            ],
+            correct: "mevalar rangi yaxshi bo’ladi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Intensiv bog’da mulchalashdan maqsad…?",
+            options: [
+              "tuproq unumdorligini oshirish",
+              "tuproq donodorligini oshirish",
+              "tuproq hajm massasini oshirish",
+              "tuproq zichligini oshirish",
+            ],
+            correct: "tuproq unumdorligini oshirish",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Mulchalash muddatini ko’rsating?",
+            options: [
+              "bahorda, o’tqazilgan daraxtlar tanasi atrofiga 70–80 sm kenglikda, 10–15 sm qalinlikda quruq xashakdan yoki somondan mulcha yopiladi",
+              "kuzda, o’tqazilgan daraxtlar tanasi atrofiga 70–80 sm kenglikda, 10–15 sm qalinlikda quruq xashakdan yoki somondan mulcha yopiladi.",
+              "yozda, o’tqazilgan daraxtlar tanasi atrofiga 70–80 sm kenglikda, 10–15 sm qalinlikda quruq xashakdan yoki somondan mulcha yopiladi.",
+              "qishda, o’tqazilgan daraxtlar tanasi atrofiga 70–80 sm kenglikda, 10–15 sm qalinlikda quruq xashakdan yoki somondan mulcha yopiladi.",
+            ],
+            correct:
+              "bahorda, o’tqazilgan daraxtlar tanasi atrofiga 70–80 sm kenglikda, 10–15 sm qalinlikda quruq xashakdan yoki somondan mulcha yopiladi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Intensiv bog’da mulchalashning ahamiyati...?",
+            options: [
+              "tuproq namini saqlaydi, ko’chatlarning tutishi uchun qulay sharoit yaratadi",
+              "tuproq g’ovakligini saqlaydi, qulay sharoit yaratadi",
+              "tuproq namini saqlaydi, o’g’itlardan foydalanishda qulay sharoit yaratadi",
+              "o’g’itlardan foydalanishda qulay sharoit yaratadi",
+            ],
+            correct:
+              "tuproq namini saqlaydi, ko’chatlarning tutishi uchun qulay sharoit yaratadi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Intensiv bog’da mulchalashning ahamiyati...?",
+            options: [
+              "tuproqni qurib qolishidan saqlaydi va natijada suv yerga chuqurroq singadi.",
+              "tuproqni mexanik tarkibini yaxshilaydi",
+              "tuproqni qurib qolishidan saqlaydi va natijada suv yerga singmaydi",
+              "tuproqni saqlaydi va natijada mikroorganizmlar ko’payadi",
+            ],
+            correct:
+              "tuproqni qurib qolishidan saqlaydi va natijada suv yerga chuqurroq singadi.",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Intensiv bog’da mulchalashning ahamiyati...?",
+            options: [
+              "begona o’tlarni o’stirmaydi, chirib ketib, tuproqni organik moddalarga boyitadi",
+              "tuproqni organik moddalarga boyitadi.",
+              "begona o’tlarni o’stirmaydi,tuproq hajm massasini oshiradi.",
+              "tuproqni solishtirma massasini oshiradi va organik moddalarga boyitadi.",
+            ],
+            correct:
+              "begona o’tlarni o’stirmaydi, chirib ketib, tuproqni organik moddalarga boyitadi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Novda bu...?",
+            options: [
+              "shu yil o’sishni boshlagan va bir yoshga to’lmagan o’simta",
+              "o’sishni boshlagan va bir yoshga to’lgan o’simta",
+              "o’sishni boshlagan va ikki yoshga to’lmagan o’simta",
+              "shu yil o’sishni boshlagan va bir yoshga to’lgan shox",
+            ],
+            correct:
+              "shu yil o’sishni boshlagan va bir yoshga to’lmagan o’simta",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Novdalarning qaysi qismi doim o’sishda davom etadi?.",
+            options: [
+              "uchki kurtagi",
+              "yon kurtagi",
+              "hosil kurtagi",
+              "novda kurtagi",
+            ],
+            correct: "uchki kurtagi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Mevali novda bu...?",
+            options: [
+              "shu yil o’sgan kalta va kuchsiz novda.",
+              "shu yil o’sgan uzun va kuchli novda.",
+              "O’tgan yil o’sgan kalta va kuchsiz novda.",
+              "Barg qo’ltig’idan o’sgan novda.",
+            ],
+            correct: "shu yil o’sgan kalta va kuchsiz novda.",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Shox bu...?",
+            options: [
+              "bir yoshdan katta, yon va mevali novdalar.",
+              "bir yoshdan kichik, yon novdalar.",
+              "bir yoshdan katta, mevali novdalar.",
+              "Ikki yoshdan katta, yon va mevali novdalar.",
+            ],
+            correct: "bir yoshdan katta, yon va mevali novdalar.",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Mevali shox bu...?",
+            options: [
+              "turli yoshdagi meva tuguvchi shoxlar.",
+              "turli yoshdagi o’suvchi shoxlar.",
+              "turli yoshdagi lider shoxlar.",
+              "turli yoshdagi yon shoxlar.",
+            ],
+            correct: "turli yoshdagi meva tuguvchi shoxlar.",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Daraxtlarni yoshartirish deganda...?",
+            options: [
+              "soya tashlayotgan shoxlarni va keraksiz novdalarni kesish tushiniladi",
+              "soya tashlamaydigan shoxlarni va yon novdalarni kesish tushiniladi",
+              "lider shoxlarni va o’suvchi novdalarni kesish tushiniladi",
+              "yon shoxlarni va qurigan novdalarni kesish tushiniladi",
+            ],
+            correct:
+              "soya tashlayotgan shoxlarni va keraksiz novdalarni kesish tushiniladi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Iyun oyida novdalarni kesishdan maqsad nima?.",
+            options: [
+              "daraxtning tepa qismida o’sishni nazorat qilish",
+              "daraxtning yon qismida o’sishni nazorat qilish",
+              "daraxtning pastki qismida o’sishni nazorat qilish",
+              "daraxtning hosilli novdalarida o’sishni nazorat qilish",
+            ],
+            correct: "daraxtning tepa qismida o’sishni nazorat qilish",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Birinchi yilda daraxtlarni shakllantirish uchun nima qilinadi?.",
+            options: [
+              "lider shoxning quyi qismida 5dona meva novdalari va kurtak yon shoxlar shakllantiriladi",
+              "lider shoxning yuqori qismida 5dona meva novdalari va kurtak yon shoxlar shakllantiriladi",
+              "lider shoxning yon qismida 5dona meva novdalari shakllantiriladi",
+              "lider shoxning quyi qismida kurtak yon shoxlar shakllantiriladi",
+            ],
+            correct:
+              "lider shoxning quyi qismida 5dona meva novdalari va kurtak yon shoxlar shakllantiriladi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Bog’ni uzoq muddatli hosildor hayotga tayyorlash ishlari bu...?",
+            options: [
+              "Shoxlarni egish, halqalash va kurtaksizlas",
+              "Shoxlarni egish va kurtaksizlash",
+              "Shoxlarni halqalash va kurtaksizlash",
+              "Shoxlarni kesish va kurtaksizlash",
+            ],
+            correct: "Shoxlarni egish, halqalash va kurtaksizlas",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Halqalash bu-?",
+            options: [
+              "lider shox aylanasi bo’ylab faqat po’stloqni kesishdir",
+              "Yon shox aylanasi bo’ylab faqat po’stloqni kesishdir",
+              "lider shox aylanasi bo’ylab yon novdani kesishdir",
+              "lider shox va yon shoxlarni kesishdir",
+            ],
+            correct: "lider shox aylanasi bo’ylab faqat po’stloqni kesishdir",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Halqalash qanday baqtda amalga oshiriladi?.",
+            options: [
+              "kurtaklar bo’rtayotgan vaqtda",
+              "kurtaklar bo’rtmasdan oldin",
+              "kurtaklar o’sgandan keyin",
+              "Shoxlar paydo bo’lgan vaqtda",
+            ],
+            correct: "kurtaklar bo’rtayotgan vaqtda",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Halqalashning vazifasi nima?.",
+            options: [
+              "novdalar o’sishiga yordam berish",
+              "shoxlar o’sishiga yordam berish",
+              "Kurtaklar paydo bo’lishiga yordam berish",
+              "Ildizlar o’sishiga yordam berish",
+            ],
+            correct: "novdalar o’sishiga yordam berish",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Kurtaksizlash bu-?",
+            options: [
+              "bahorda novdaning uchki kurtagini qoldirib, pastdagi 5ta kurtakni olib tashlashdir",
+              "yozda uchki kurtagini qoldirib, pastdagi 5 ta kurtakni qo’lda olib tashlashdir",
+              "kuzda uchki kurtagini qoldirib, pastdagi 5 ta kurtakni qo’lda olib tashlashdir",
+              "kuzda uchki novdani qoldirib, pastdagi 5 ta kurtakni qo’lda olib tashlashdir",
+            ],
+            correct:
+              "bahorda novdaning uchki kurtagini qoldirib, pastdagi 5ta kurtakni olib tashlashdir",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Mineral o’g’itning eritilgan holda berilsa...?",
+            options: [
+              "Ko’chat ozuqa moddalar bilan yaxshi to’yinadi",
+              "Ko’chat mineral moddalar bilan yaxshi to’yinadi",
+              "Ko’chat makroelementlar bilan yaxshi to’yinadi",
+              "Ko’chat ozuqa moddalaningr bir qismini o’zlashtiradi",
+            ],
+            correct: "Ko’chat ozuqa moddalar bilan yaxshi to’yinadi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Mineral o’g’it eritilgan holda berilsa...?",
+            options: [
+              "suv o’simlikning faqat ildiziga boradi.",
+              "suv o’simlikning barglariga boradi.",
+              "suv o’simlikning shoxlariga boradi.",
+              "suv o’simlikning kurtaklariga boradi",
+            ],
+            correct: "suv o’simlikning faqat ildiziga boradi.",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Mineral o’g’it eritilgan holda berilsa...?",
+            options: [
+              "Tuproq eroziyasi bartaraf etiladi",
+              "Tuproq eroziyasi kamayadi",
+              "Tuproq zarrachalari yemiriladi",
+              "Tuproq sho’rlanishi bartaraf etiladi",
+            ],
+            correct: "Tuproq eroziyasi bartaraf etiladi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Daraxt dastlabki yillarida qaysi o’g’itlarga talabi katta bo’ladi?.",
+            options: [
+              "azot va fosforga",
+              "azot va kaliyga",
+              "kaliy va fosforga",
+              "sulfat va kaliy ga",
+            ],
+            correct: "azot va fosforga",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Meva berish davri boshlangandan keyin qaysi o’g’itga bo’lgan talab ortadi?.",
+            options: ["kaliyga", "fosforga", "azotga", "Chirindiga"],
+            correct: "kaliyga",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Fosfor tuproqda azot yoki kaliyga nisbatan qanday siljiydi?.",
+            options: [
+              "juda sekin siljiydi.",
+              "juda tez siljiydi.",
+              "sekin siljiydi.",
+              "o’rtacha siljiydi.",
+            ],
+            correct: "juda sekin siljiydi.",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Bir asalari o’zining qisqa hayoti davomida nechta gulni changlatadi?.",
+            options: ["337,000 ta", "300,000 ta", "100,000 ta", "250,000 ta"],
+            correct: "337,000 ta",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Bir chiqishda asalari nechta gulga qo’nadi?.",
+            options: [
+              "50–100 ga yaqin",
+              "70–120 ga yaqin",
+              "110–150 ga yaqin",
+              "80–120 ga yaqin",
+            ],
+            correct: "50–100 ga yaqin",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Asalari uyalarini bog’da qayerlarga qo’yiladi?.",
+            options: [
+              "quyosh nurlari tushadigan joyga",
+              "quyosh nurlari tushmaydigan joyga",
+              "daraxt ostiga",
+              "bog’ atrofiga",
+            ],
+            correct: "quyosh nurlari tushadigan joyga",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Asalari uyalarini bog’ga qachon olib kelinadi?.",
+            options: [
+              "Birinchi gullar ochilish davrida",
+              "Birinchi shoxchalar chiqishi davrida",
+              "Shonalash davrida",
+              "Kurtaklar paydo bo’lganda",
+            ],
+            correct: "Birinchi gullar ochilish davrida",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "1-gektar bog’ga qancha asalari uyasi qo’yiladi?.",
+            options: ["3 ta", "5 ta", "6 ta", "2 ta"],
+            correct: "3 ta",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Changlatuvchi navlar qanday tanlanadi?.",
+            options: [
+              "asosiy navlar bilan bir vaqtda gullashi shart",
+              "asosiy navlardan oldin gullashi shart",
+              "asosiy navlardan keyin gullashi shart",
+              "asosiy navlar bilan bir vaqtda pishishi kerak",
+            ],
+            correct: "asosiy navlar bilan bir vaqtda gullashi shart",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Barg bitlari qanday zararlaydi?.",
+            options: [
+              "barglarni burishtirib qo’yadi",
+              "barglarni sarg’aytirib qo’yadi",
+              "barglarni qoraytirib qo’yadi",
+              "barglarni quritib qo’yadi",
+            ],
+            correct: "barglarni burishtirib qo’yadi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Olma biti qanday mevalarni zararlaydi?.",
+            options: [
+              "olma, nok va behi",
+              "olma, va behi",
+              "olma, nok va olcha",
+              "olma, gilos va behi",
+            ],
+            correct: "olma, nok va behi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Barg bitlariga qarshi agrotexnik kurash choralari...?",
+            options: [
+              "Zararlangan shoxlar qirqilib bog’dan chetga chiqarib tashlanadi",
+              "Zararlangan shoxlar qirqiladi",
+              "Zararlangan shoxlar qirqilib ko’miladi",
+              "Zararlangan shoxlarga dori sepiladi",
+            ],
+            correct:
+              "Zararlangan shoxlar qirqilib bog’dan chetga chiqarib tashlanadi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Bitlar daraxtni necha fiyizini zararlaganda kimyoviy kurash choralarini qo’llash tavsiya etiladi?.",
+            options: [
+              "60 % dan ortiq",
+              "20 % dan ortiq",
+              "30 % dan ortiq",
+              "40 % dan ortiq",
+            ],
+            correct: "60 % dan ortiq",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Kemiruvchi xashoratlarga qarshi kushandalar...?",
+            options: [
+              "gabrobrakon",
+              "trixogramma,oltinko’z",
+              "oltinko’z, brakon",
+              "brakon,xon qizi",
+            ],
+            correct: "gabrobrakon",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Nok qandalasi qaysi mevalarni zararlaydi?",
+            options: [
+              "Olma, nok, behi, gilos, olcha, olxo’ri, o’rik",
+              "Olma, nok, olxo’ri, o’rik",
+              "Olma, gilos, olcha, olxo’ri, o’rik",
+              "Olma, nok, behi, gilos, olcha",
+            ],
+            correct: "Olma, nok, behi, gilos, olcha, olxo’ri, o’rik",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Oddiy orgimchakkana qaysi mevani ko’p zararlaydi?.",
+            options: ["Olmani", "gilosni", "Nokni", "Behini"],
+            correct: "Olmani",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Olma qurti necha turdan ortiq mevali daraxtlarnizararlaydi?",
+            options: ["30", "40", "24", "12"],
+            correct: "30",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Olma qurtiga qarshi agrotexnik kurash choralari...?",
+            options: [
+              "Kuzda xazon barglarni to’plab ko’mib yuborish",
+              "Bahorda shoxlarni to’plab ko’mib yuborish",
+              "Kuzda shoxchalarni to’plab ko’mib yuborish",
+              "Yozda barglarni to’plab ko’mib yuborish",
+            ],
+            correct: "Kuzda xazon barglarni to’plab ko’mib yuborish",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Olma qurtiga qarshi agrotexnik kurash choralari...?",
+            options: [
+              "daraxt tanasini po’stloqlardan tozalash",
+              "daraxt shoxlarini po’stloqlardan tozalash",
+              "daraxt barglarini tozalash",
+              "daraxt shoxlarini qirqish",
+            ],
+            correct: "daraxt tanasini po’stloqlardan tozalash",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Olma qurtiga qarshi agrotexnik kurash choralari...?",
+            options: [
+              "daraxtlar tanasini oqlash",
+              "Yon shoxlarni oqlash",
+              "Tuproqni yumshatish",
+              "Ma’danli o’g’itlar berish",
+            ],
+            correct: "daraxtlar tanasini oqlash",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Olma qurtiga qarshi agrotexnik kurash choralari...?",
+            options: [
+              "Kuzda kasallangan mevalarni terib yo’qotish",
+              "Kuzda kasallangan mevalarni terib yig’ib olish",
+              "Kuzda meva shoxlarini qisqartirish",
+              "Kuzda kasallangan mevalarni alohida saqlash",
+            ],
+            correct: "Kuzda kasallangan mevalarni terib yo’qotish",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Olma qurtiga qarshi kurash choralari...?",
+            options: [
+              "bahorda kurtak yozishdan oldin 3 % li bordo suyuqligini purkash",
+              "bahorda kurtak yozishdan oldin 1 % li OOQ suyuqligini purkash",
+              "Bog’ni begona o’tlardan tozalash",
+              "Bog’ni sug’orish",
+            ],
+            correct:
+              "bahorda kurtak yozishdan oldin 3 % li bordo suyuqligini purkash",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Insiv bog’larda zararkunandalariga qarshi biologik kurash choralari bu...?",
+            options: [
+              "kushanda xashoratlarni ko’paytirib bog’larga qo’yib yuborish",
+              "Iaboratoriyada xashoratlarni ko’paytirish",
+              "Bog’larni qora shudgor qilib qo’yish",
+              "Begona o’tlardan tozalash",
+            ],
+            correct:
+              "kushanda xashoratlarni ko’paytirib bog’larga qo’yib yuborish",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "So’ruvchi xashoratlarga qarshi kushandalar...?",
+            options: [
+              "trixogramma,oltinko’z",
+              "oltinko’z, brakon",
+              "brakon,xon qizi",
+              "Asalarilar",
+            ],
+            correct: "trixogramma,oltinko’z",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Bakterial kuyish kasalligi belgilari…?",
+            options: [
+              "gullari, novdalari va mevalari so’lib, qorayib qoladi",
+              "gullari, novdalari va mevalari sarg’oyib qoladi",
+              "novdalari va mevalari so’lib, qurib qoladi",
+              "gullari va mevalari so’lib qoladi",
+            ],
+            correct: "gullari, novdalari va mevalari so’lib, qorayib qoladi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv bog’larda birinchi yil yakunida daraxtlarda yerdan 50–80 sm masofa oralig’ida birinchi yarusda nechtata yon shox shakllandi?",
+            options: ["6 ta", "4 ta", "8 ta", "7 ta"],
+            correct: "6 ta",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv bog’larda ikkinchi yilda 6-ta yarus shoxlada nimalar shakllantiriladi?.",
+            options: [
+              "mevali kurtaklar va novdalar",
+              "kurtaklar va novdalar",
+              "o’suvchi novdalar",
+              "mevali kurtaklar",
+            ],
+            correct: "mevali kurtaklar va novdalar",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv bog’larda uchinchi yil qilinadigan ishlar bu...?",
+            options: [
+              "Bog’ni uzoq muddatli hosildor hayotga tayyorlash",
+              "Bog’ni hosildor hayotga tayyorlash",
+              "Bog’ni ekologik hosil olishga tayyorlash",
+              "Mevali daraxtlarni umrini uzaytirishga qaratilgan",
+            ],
+            correct: "Bog’ni uzoq muddatli hosildor hayotga tayyorlash",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Bog’ni uzoq muddatli hosildor hayotga tayyorlashda bajariladigan tadbirlar...?",
+            options: [
+              "Shoxlarni egish, halqalash va kurtaksizlash",
+              "Shoxlarni egish va kurtaksizlash",
+              "Shoxlarni halqalash va kurtaksizlash",
+              "Shoxlarni egish va halqalash",
+            ],
+            correct: "Shoxlarni egish, halqalash va kurtaksizlash",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Un shudring kasalligi meva daraxtlarining qaysi qismlarini zararlaydi?.",
+            options: [
+              "Barg, novda va gullarni",
+              "Barg va gullarni",
+              "Barg va novdani",
+              "Novda va ildizlarni",
+            ],
+            correct: "Barg, novda va gullarni",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Shaftoli mevasini qaysi kasallik ko’p zararlaydi?.",
+            options: [
+              "un shudring",
+              "bakterial rak",
+              "Parsha",
+              "qo’ng’ir cherish",
+            ],
+            correct: "un shudring",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Un shudring kasalligi meva daraxtlarining hosildorligini necha foyizga pasaytiradi?.",
+            options: [
+              "30–50 % gacha.",
+              "20–30 % gacha.",
+              "10–20 % gacha.",
+              "40–55 % gacha.",
+            ],
+            correct: "30–50 % gacha.",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Parsha (qo’tir) kasalligi meva daraxtlarining qaysi qismlarini zararlaydi?.",
+            options: [
+              "mevalar, novdalar va barglarni",
+              "Mevalar va barglarni",
+              "Novdalar va barglarni",
+              "mevalar, yon shoxlar va barglarni",
+            ],
+            correct: "mevalar, novdalar va barglarni",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Parsha (qo’tir) kasalligi meva daraxtlarining qaysi yoshdagilarini zararlaydi?.",
+            options: [
+              "katta yoshdagilarini",
+              "Yosh ko’chatlarni",
+              "Yon shoxlarini",
+              "Lider shoxni",
+            ],
+            correct: "katta yoshdagilarini",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Parsha (qo’tir) kasalligiga qarshi kurashda kuzda barg to’kilishidan so’ng va bahorda kurtak yozishdan oldin qanday suyuqlik bilan ishlanadi?.",
+            options: [
+              "1-foyizli ohak-oltingugurt qaynatmasini (OOQ) purkash.",
+              "3-foyizli ohak-oltingugurt qaynatmasini (OOQ) purkash",
+              "2-foyizli oltingugurt qaynatmasini (OQ) purkash",
+              "3-foyizli bordo suyiqligi purkash",
+            ],
+            correct: "1-foyizli ohak-oltingugurt qaynatmasini (OOQ) purkash.",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Parsha (qo’tir) kasalligiga qarshi tinim davrida kurashda qanday suyuqlik bilan ishlanadi?.",
+            options: [
+              "ISO va mis kuporosi",
+              "Mis kuporosi",
+              "ISO va bordo suyiqligi",
+              "Oxak-oltingugurt qaynatmasi",
+            ],
+            correct: "ISO va mis kuporosi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Fitoftoroz kasalligi qanday sharoitda rivojlanadi?.",
+            options: [
+              "shtamb atrofida namlikning uzoq muddat turishida",
+              "shtamb atrofi uzoq muddat quruq turishida",
+              "shtamb atrofida brgona o’tlarning bo’lishi sababli",
+              "Dalafda namlikning uzoq muddat turishida",
+            ],
+            correct: "shtamb atrofida namlikning uzoq muddat turishida",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Fitoftoroz kasalligining belgilarini ko’rsating?",
+            options: [
+              "daraxtlarning barglari so’lib quriydi",
+              "daraxtlarning barglari quriydi",
+              "daraxtlarning barglari to’kiladi",
+              "daraxtlarning kurtaklari so’lib quriydi",
+            ],
+            correct: "daraxtlarning barglari so’lib quriydi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Olma mevasining chirish kasalliklari qaysi baqtda namayon bo’ladi?",
+            options: [
+              "ma‘lum muddat saqlagandan so’ng",
+              "Hosil yig’ilgandan so’ng",
+              "Hosil yig’ililishdan oldin",
+              "Hosilni saqlashdan oldin",
+            ],
+            correct: "ma‘lum muddat saqlagandan so’ng",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chat ekish uchun reja tortishda pakana payvandtagga ulangan nok ko’chatlari uchun o’tqazish sxemasi?",
+            options: ["3,5 x 2 m", "3 x 2 m", "2,5 x 3 m", "3,5 x 4 m"],
+            correct: "3,5 x 2 m",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "MM–106 payvandtagga ulangan o’rta o’suvchi olma ko’chatlari uchun o’tqazish sxemasi?",
+            options: [
+              "6 x 4 m, 6 x 5 m",
+              "6 x 2 m, 6 x 3 m",
+              "5 x 4 m, 6 x 6 m",
+              "7x 5 m, 7x 6 m",
+            ],
+            correct: "6 x 4 m, 6 x 5 m",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "MM–106 payvandtagga ulangan o’rta o’suvchi nok ko’chatlari uchun o’tqazish sxemasi?",
+            options: [
+              "5 x 3 m, 5 x 4 m",
+              "3 x 3 m, 4 x 4 m",
+              "5 x 4 m, 6 x 4 m",
+              "6 x 4 m, 5 x 5 m",
+            ],
+            correct: "5 x 3 m, 5 x 4 m",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv bog’larda hosilning salmog’i ko’proq nimaga bog’liq?",
+            options: [
+              "Maydondagi ko’chat soniga",
+              "Maydondagi qator orasiga",
+              "Tuproq mexanik tarkibiga",
+              "Maydondagi ko’chat naviga",
+            ],
+            correct: "Maydondagi ko’chat soniga",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Eng kalta meva shoxchasi qanday aytiladi?",
+            options: [
+              "halqali shoxcha",
+              "nayzasimon shoxcha",
+              "ingichka shoxcha",
+              "to’p meva shoxcha",
+            ],
+            correct: "halqali shoxcha",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Meva daraxtlari shoxlarining tiplari qanday bo’ladi?",
+            options: [
+              "O’suv va hosil",
+              "O’suv shoxlar",
+              "To’p shoxlar",
+              "Hosil shoxlar",
+            ],
+            correct: "O’suv va hosil",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Intensiv tipdagi pakana olmalar necha yil yashaydi?",
+            options: ["25-30", "40-50", "10-15", "5-6"],
+            correct: "25-30",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Shaftoli uchun eng yaxshi intensiv payvandtaglarini ko’rsating?.",
+            options: [
+              "oq shaftolini mahalliy formalari, achchiq bodom",
+              "Farg’ona shaftolisi, tyorn",
+              "David shaftolisi, mir shaftolisi",
+              "Oddiy shaftoli, shaftolini mo’g’ul turi",
+            ],
+            correct: "oq shaftolini mahalliy formalari, achchiq bodom",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Olma va nokning gul kurtaklari yil fasllarini qaysi oyida shakllanadi?",
+            options: ["iyun", "Aprel", "Iyul", "Avgust"],
+            correct: "iyun",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "CHuqurga ko’chat ekishdan oldin qancha chirigan go’ng solinadi?.",
+            options: ["8–10 kg", "20-30 kg", "15-20 kg", "3-5 kg"],
+            correct: "8–10 kg",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chatni ekishdan oldin ildizi nimaga botirib ekiladi?.",
+            options: [
+              "shatmoqqa (yangi mol go’ngi tuproq bilan 1:1 nisbatda qaymoqsimon qilib tayyorlanadi)",
+              "Suvga",
+              "maxsus suyiqlikka",
+              "Biostimulyatorga",
+            ],
+            correct:
+              "shatmoqqa (yangi mol go’ngi tuproq bilan 1:1 nisbatda qaymoqsimon qilib tayyorlanadi)",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chatning ildiz payvand qilingan joyi tuproqdan necha sm yuqorida bo’lishi kerak?.",
+            options: ["4–5 sm", "10-15 sm", "8-12 sm", "15-20 sm"],
+            correct: "4–5 sm",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Meva ko’chatzorlarini asosiy qismlarini nomlang?",
+            options: [
+              "ko’paytirish bo’limi, shakl berish bo’limi, ona ko’chatzor bo’limi, ixota va daraxtzor bo’limi",
+              "daraxtzor bo’limi, urug’ ko’chatzor bo’limi, butozorlar bo’limi, ona ko’chatzor bo’limi",
+              "urug’ ko’chatzor bo’limi, ko’chatzor bo’limi, o’rmon ko’chatzor bo’limi, rezavor mevalar bo’limi",
+              "rezavor mevalar bo’limi, butasimonlar bo’limi, daraxtzorlar bo’limi, ko’paytirish",
+            ],
+            correct:
+              "ko’paytirish bo’limi, shakl berish bo’limi, ona ko’chatzor bo’limi, ixota va daraxtzor bo’limi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Urug’ko’chatlarni kurtak payvand qilinadigan qulay joyini aniqlang?",
+            options: [
+              "ildiz bo’gzidan 5-6 sm balandlikda",
+              "ildiz bo’gzi ostiga",
+              "ildiz bo’gzidan 15 sm balandlikda",
+              "ildiz bo’gzidan 10 sm balandlikda",
+            ],
+            correct: "ildiz bo’gzidan 5-6 sm balandlikda",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Olma va nok urug’lari necha kun stratifikasiya qilinadi?",
+            options: ["100-120 kun", "50-60 kun", "200-250 kun", "30-40 kun"],
+            correct: "100-120 kun",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv tipdagi olmani past bo’yli payvantaglarini ko’rsating.",
+            options: [
+              "M 9, M 26, M 27",
+              "MM 106, MM102, MM 104",
+              "Qizil olma",
+              "MM 1, MM5, MM 105",
+            ],
+            correct: "M 9, M 26, M 27",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Nokning qaysi intensiv navlari sho’rga nisbatan chidamliroq?",
+            options: [
+              "olmurut, shakar-murut",
+              "olive-de serr, podarok",
+              "o’rmon go’zali, kyure",
+              "podarok, nashvati",
+            ],
+            correct: "olmurut, shakar-murut",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chatzorni 2-dalasida intensiv meva ko’chatlarini ortacha yetishtirish miqdori necha ming dona?",
+            options: ["40", "15", "60", "25"],
+            correct: "40",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Stark erlist olma navi respublikamizga qayerdan kirib kelgan?.",
+            options: [
+              "AQSHdan kirib kelgan",
+              "Kanadadan kirib kelgan",
+              "Angliyadan kirib kelgan",
+              "Vengeriyadan kirib kelgan",
+            ],
+            correct: "AQSHdan kirib kelgan",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Stark erlist olma navi pishish muddatiga ko’ra qaysi guruhga mansub?.",
+            options: ["ertapishar", "o’rtapishar", "kechpishar", "qishgi nav"],
+            correct: "ertapishar",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Borovinka Tashkentskaya olma navi pishish muddatiga ko’ra qaysi guruhga mansub?.",
+            options: ["ertapishar", "o’rtapishar", "Kechpishar", "qishgi nav"],
+            correct: "ertapishar",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Kuzgi olma navlarini ko’rsating...?",
+            options: [
+              "Parmen zimniy zolotoy,Golden Delishes",
+              "Borovinka Tashkentskaya, Stark erlist",
+              "Stark erlist,Renet Simirenko",
+              "King devid, Pervenets Samarkanda",
+            ],
+            correct: "Parmen zimniy zolotoy,Golden Delishes",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Parmen zimniy zolotoy navi qaysi mevaning navi?.",
+            options: [
+              "Kuzgi olmaning",
+              "Yozgi olmaning",
+              "Kuzgi nokning",
+              "Kuzgi behining",
+            ],
+            correct: "Kuzgi olmaning",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv past bo’yli ko’chatzorni 1-dalasida olma nihollarini ekish sxemasini aniqlang. (sm)?",
+            options: ["80x25", "60x50", "150x180", "70x15"],
+            correct: "80x25",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv ko’chatzorlarda ko’chatlarni shoxlatish qaysi muddatda bo’ladi?",
+            options: [
+              "20 maydan 10 iyungacha",
+              "mayning ikkinchi yarmi",
+              "Iyul",
+              "Avgust",
+            ],
+            correct: "20 maydan 10 iyungacha",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv tipdagi vegetativ ko’payadigan nok payvandtagini ko’rsating?",
+            options: ["Behi", "honaki nok navlarda", "o’rmon noki", "Dusen"],
+            correct: "Behi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "O’rta o’suvchi olma payvandtaglarini ko’rsating?",
+            options: [
+              "M2, M3, M4, M5",
+              "M1, M6, M8, M9",
+              "MM104, MM1, M11",
+              "M12, M13, M14",
+            ],
+            correct: "M2, M3, M4, M5",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Quyidagi meva ekinlaridan qaysilari urug’li meva ekinlariga mansub?",
+            options: [
+              "olma, nok, behi, do’lana, irg’ay",
+              "apelsin, mandarin, limon",
+              "qaroli, shaftoli, o’rik, olxo’ri",
+              "yong’oq, pekan, pista, bodom",
+            ],
+            correct: "olma, nok, behi, do’lana, irg’ay",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv tipdagi olmani past bo’yli payvantaglarini ko’rsating?",
+            options: [
+              "M 9, M 26, M 27",
+              "MM 106, MM102, MM 104",
+              "Qizil olma",
+              "MM 1, MM5, MM 105",
+            ],
+            correct: "M 9, M 26, M 27",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Nokning qaysi intensiv navlari sho’rga nisbatan chidamliroq?",
+            options: [
+              "olmurut, shakar-murut",
+              "olive-de serr, podarok",
+              "o’rmon go’zali, kyure",
+              "podarok, nashvati",
+            ],
+            correct: "olmurut, shakar-murut",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Ko’chatzorni 2-dalasida intensiv meva ko’chatlarini ortacha yetishtirish miqdori necha ming dona?",
+            options: ["40", "15", "60", "25"],
+            correct: "40",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv olmalar uchun yer ostki suvlari yaxshi bo’lib tuprog’i sho’rlangan mintaqalarda qaysi xillarini payvandtag sifatida qo’llash maqsadga muvofiq bo’ladi?",
+            options: [
+              "Boboarab olmasi, Hazorasp olmasi",
+              "Sibir olmasi",
+              "Olxo’ri bargli olma",
+              "O’rmon olmasi",
+            ],
+            correct: "Boboarab olmasi, Hazorasp olmasi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Intensiv tipdagi meva o’simliklarini suvga kam talabi bo’yicha ko’rsating?",
+            options: [
+              "Behi, o’rik, yong’oq, gilos, unabi",
+              "olma, olcha, anor, bodom, malina",
+              "anor,zaytun, yong’oq, gilos",
+              "qulupnay, smorodina, olxo’ri, olma",
+            ],
+            correct: "Behi, o’rik, yong’oq, gilos, unabi",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Quyidagilarning qaysilari urug’li meva ekinlariga mansub?.",
+            options: [
+              "Olma, nok, behi, do’lana,irg’ay, chetan",
+              "Apelsin, mandarin, limon, greyprut",
+              "Qaroli, shaftoli, o’rik, olxo’r",
+              "Yong’oq, pekan, pista, bodom",
+            ],
+            correct: "Olma, nok, behi, do’lana,irg’ay, chetan",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Mevali o’simliklarning umumiy gulidan necha foizi yaxshi changlanib saqlanib qolsa mo’l hosil olish mumkin?",
+            options: ["20-25%", "10-15%", "30-40%", "3-5%"],
+            correct: "20-25%",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question: "Intensiv tipdagi pakana olmalar necha yil yashaydi?",
+            options: ["25-30", "40-50", "10-15", "5-6"],
+            correct: "25-30",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Shaftoli uchun eng yaxshi intensiv payvandtaglarini ko’rsating?",
+            options: [
+              "oq shaftolini mahalliy formalari, achchiq bodom",
+              "Farg’ona shaftolisi, tyorn",
+              "David shaftolisi, mir shaftolisi",
+              "Oddiy shaftoli, shaftolini mo’g’ul turi",
+            ],
+            correct: "oq shaftolini mahalliy formalari, achchiq bodom",
+            source: "Intensiv mevachilik",
+          },
+          {
+            question:
+              "Olma va nokning gul kurtaklari yil fasllarini qaysi oyida shakllanadi?",
+            options: ["iyun", "Aprel", "Iyul", "Avgust"],
+            correct: "iyun",
+            source: "Intensiv mevachilik",
+          },
+        ],
+        "Meva mahsulotlari texnologiyasi": [
+          {
+            question:
+              "Meva mahsulotlarini yetishtirish texnologiyasi fani DAK test Urug’lilar guruhiga mansub meva ekinini toping",
+            options: ["Nok", "yong’oq", "Karoli", "Unabi"],
+            correct: "Nok",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva o’simliklarining kurtaklari xarorat necha daraja bo’lganda yozila boshlaydi?",
+            options: [
+              "5-10 darajada.",
+              "2.5-5.4 darajada",
+              "10-15 darajada",
+              "60-65 darajagacha",
+            ],
+            correct: "5-10 darajada.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Кunlik meva maxsulotlari iste’mol me’уori bir odam uchun (o’rtacha) qancha bo’lishi lozim?.",
+            options: ["330-400g", "90-130 g", "250-450 g", "600-750 g"],
+            correct: "330-400g",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva maxsulotlarini yillik iste’moli me’уorini belgilang.",
+            options: ["180-200kg", "115-120 kg", "250-300 kg", "60-80 kg"],
+            correct: "180-200kg",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bir gektar bog'dagi daraxtlar yozda kuniga qancha karbonat angidrit yutadi?.",
+            options: ["8 kg", "3 kg", "6 kg", "10 kg"],
+            correct: "8 kg",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Olma tarkibida qaysi vitamin ko’p?",
+            options: ["Vitamin S", "Vitamin A", "Vitamin V", "Vitamin P"],
+            correct: "Vitamin S",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva daraxtlari maydonlarida xavo namligining nisbiy darajasini ko’rsating.",
+            options: ["30-40 %", "10-15 %", "8-12 %", "20-28 %"],
+            correct: "30-40 %",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ekinlari xo’jalik-biologik belgilari va botanik xususiyatlariga ko’ra necha gruhga bo’linadi?.",
+            options: ["5 guruxga", "7 guruxga.", "6 guruxga.", "4 guruxga"],
+            correct: "5 guruxga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Urug’mevalilar guruhiga mansub o’simlik turlarini ko’rsating.",
+            options: [
+              "Olma, nok,bexi.",
+              "Shaftoli,o’rik,nok.",
+              "Anor, anjir, bexi,olma",
+              "Bodom, pista",
+            ],
+            correct: "Olma, nok,bexi.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Barcha turdagi meva ekinlarini o’suv davrini boshlanishi uchun xarorat qancha bo’lishi kerak?",
+            options: [
+              "5 darajadan past bo’lmaganda.",
+              "0 darajada ham o’sadi.",
+              "10 darajada o’sadi lekin sust o’sadi.",
+              "1 darajada o’sa boshlaydi",
+            ],
+            correct: "5 darajadan past bo’lmaganda.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qaysi guruxga mansub meva ekinlari barg yozishidan oldin gullaydi?",
+            options: [
+              "Urug’li mevalar.",
+              "Yong’oq mevalar.",
+              "Subtropik mevalar.",
+              "Barcha turdagi mevali ekinlar",
+            ],
+            correct: "Urug’li mevalar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qaysi guruxga mansub meva ekinlari gullashdan oldin barg yozmaydi?",
+            options: [
+              "Urugli mevalar.",
+              "Danakli mevalar.",
+              "Yongoq mevalar.",
+              "Subtropik mevalar",
+            ],
+            correct: "Urugli mevalar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Yer ustki qismining tuzilishiga ko’ra olma,yong’oq,o’rik kabi mevali ekin turlari qaysi guruxga mansub o’simliklar?.",
+            options: [
+              "Daraxtlar.",
+              "Butalar.",
+              "Chala butalar.",
+              "O’tsimon o’usimliklar",
+            ],
+            correct: "Daraxtlar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva va rezavor meva ekinlari gulini changlanishiga ko’ra qanday guruxlarga bo’linadi ?.",
+            options: [
+              "Faqat chetdan changlanuvchilarga",
+              "Faqat o’zidan changlanuvchilarga",
+              "Geytonogamiya va dixogamiyalarga",
+              "CHetdan changlanuvchilar hamda geytonogamiyalarga",
+            ],
+            correct: "Faqat chetdan changlanuvchilarga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "CHala butalar guruxiga mansub o’simlikni toping.",
+            options: ["Malina", "Olma", "Apelsin", "Eng’oq"],
+            correct: "Malina",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mevali daraxtlarning ildiz bo’g’izidan birinchi tartib shoxlari chiqgan joyigacha bo’lgan qismining nomini toping.",
+            options: [
+              "Tana.",
+              "Asosiy shox.",
+              "Ildiz bo’g’ni.",
+              "O’suvchi qism",
+            ],
+            correct: "Tana.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mevali daraxtlarning birinchi tartib asosiy shox chiqgan joyidan to uchki o’suv novdasigacha bo’lgan qismini nomi nima?",
+            options: ["Asosiy shox.", "Ildiz bo’yni.", "Tana.", "Shox-shabba"],
+            correct: "Asosiy shox.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mevali daraxtlarning bevosita tanasidan chikib daraxtning shox shabasi o’zagini(asosini) tashkil qiluvchi eng yirik shoxlar nomi ko’rsatilgan javobni toping.",
+            options: [
+              "SHox-shabba.",
+              "Asosiy shox.",
+              "O’suvchi qismi.",
+              "Ildiz buyni",
+            ],
+            correct: "SHox-shabba.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ekinlarining kurtaklari yangi xosilalar chiqarishiga qarab necha xil bo’ladi?",
+            options: ["5 xil.", "3.xil.", "2 xil.", "4 xil."],
+            correct: "5 xil.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ko’chatzor tashkil etishda shakl berish uchastkasining maydoni qancha bo’lishi kerak?.",
+            options: [
+              "1-2-3 ga.qadar.",
+              "10-15-20 ga.qadar.",
+              "5-8-9 ga.qadar",
+              "22-24-30 ga.qadar.",
+            ],
+            correct: "1-2-3 ga.qadar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’rikdan urug’ chiqish darajasini (S.N.Stepanov bo’yicha) belgilang.",
+            options: ["12-15 %", "03-05 %.", "17-18 %", "04-07 %."],
+            correct: "12-15 %",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’rta Osiyoda jumladan O’zbekistonda meva va rezavor-meva ekinlarining qancha yovvoyi turlari tarqalgan?",
+            options: ["70 turi", "80 turi", "90 turi", "100 turi"],
+            correct: "70 turi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva va rezavor-meva ekinlari qancha botaniq oilaga mansub?.",
+            options: ["50-oilaga", "40-oilaga", "60-oilaga", "70 –oilaga"],
+            correct: "50-oilaga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Quyidagi meva ekini turining qaysi biri urug’lilar guruhiga mansub?",
+            options: ["Nok", "Engok", "Karoli", "Unabi"],
+            correct: "Nok",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Quyidagi turlarning qaysi biri buta-daraxtchil shaklga ega?",
+            options: ["Qaroli", "Olma", "Chetan", "Engok"],
+            correct: "Qaroli",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Quyidagi turlarning qaysi biri ko’p yillik o’tchil o’simlik hisoblanadi?",
+            options: ["Klupnay", "Malina", "Smarodina", "Aktinidiya"],
+            correct: "Klupnay",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Quyidagi meva ekinlardan qaysi biri eng uzoq yashaydi?",
+            options: ["Zaytun", "Olma", "Nok", "O’rik"],
+            correct: "Zaytun",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qaysi meva ekini eng erta hosilga kiradi?",
+            options: ["Klupnay", "Krijovnik", "Malina", "O’rik"],
+            correct: "Klupnay",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Er yuzida qancha meva va rezavor-meva ekinlarining turlari uchraydi?",
+            options: ["250 turi", "50 turi", "150 turi", "200 turi"],
+            correct: "250 turi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Eng kalta meva shoxchasi qanday aytiladi?",
+            options: [
+              "Xalkali shoxcha",
+              "Nayzasimon shoxcha",
+              "Ingichka shoxcha",
+              "Tup meva shoxcha",
+            ],
+            correct: "Xalkali shoxcha",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qaroli va o’rikda kalta shoxchalar nima deb aytiladi?",
+            options: [
+              "Tup meva shoxchasi",
+              "Murakkab shoxcha",
+              "Pixsimon shoxcha",
+              "Aralash shoxcha",
+            ],
+            correct: "Tup meva shoxchasi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qaysi novdalarda hosil qurtaklari bo’lmaydi?",
+            options: [
+              "O’suvchi novdalar",
+              "Tup meva shoxchalar",
+              "Regenerativ navdalar",
+              "Konkurent novdalar",
+            ],
+            correct: "O’suvchi novdalar",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Meva ekinlarida nechta yashash davrlari bor?",
+            options: ["to’qqizta", "Beshta", "Oltita", "Sakkizta"],
+            correct: "to’qqizta",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ekinlari qaysi yashash davrida eng ko’p hosil beradi?",
+            options: [
+              "Hosil berish davri",
+              "Daraxt vegetativ qismlarining o’sish davri",
+              "Hosil berish va kuriy boshlash davri",
+              "Qurish o’sish va hosil berish davri",
+            ],
+            correct: "Hosil berish davri",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ko’chatzorlarda urug’li meva ekinlarining urug’ ekish normasi?",
+            options: [
+              "35-39 kg.ga",
+              "30-33 kg.ga",
+              "40-50 kg.ga",
+              "81-90 kg.ga",
+            ],
+            correct: "35-39 kg.ga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qalamchalar 12 soat suvga solib qo’yilsa ildiz olishi necha foizga oshadi?",
+            options: ["10-15%", "21-29%", "25-30%", "28-31%"],
+            correct: "10-15%",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva, rezavor mevalar o`sishi rivojlanishi, meva berishi, uzoq yashashi, ildiz sistemasining yer ustki qismini o`sishiga qarab qaysi xillarga bo`linadi?",
+            options: [
+              "darxt, buta, o`t",
+              "Urug’ mevalar, danak mevalar",
+              "Urug mevalar, daraxt",
+              "Daraxt, danakli mevalar",
+            ],
+            correct: "darxt, buta, o`t",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Yovvoyi mevazorlardan olinadigan xosil 1 gektarga necha ts. ni tashkil qiladi?",
+            options: [
+              "1,0 - 1,5 ts.",
+              "1,5 - 2,5 ts.",
+              "2,5 - 3,5 ts.",
+              "3,5 - 4,5 ts.",
+            ],
+            correct: "1,0 - 1,5 ts.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva daraxtlarining vatani kaysi mamlakatligini aniklang?",
+            options: [
+              "Hammasi to’g’ri",
+              "O’rta Osiyo",
+              "Kavkaz orti",
+              "Xitoy, Xindiston, Suriya, Eron",
+            ],
+            correct: "Hammasi to’g’ri",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Bir odam bir yilda qancha meva istemol qilishi kerak?",
+            options: ["100-120 kg", "75-85 kg", "85-95 kg", "95-100 kg"],
+            correct: "100-120 kg",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva, uzum, rezavor meva yetishtirish O’zbekistonda axoli jon boshiga necha kg.ga to’gri keladi?.",
+            options: ["71 kg", "61 kg", "71 kg", "81 kg"],
+            correct: "71 kg",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "O’zbekistonda bog maydonlari necha gektar?",
+            options: ["207 m.ga", "217 m.ga", "227 m.ga", "277 m.ga"],
+            correct: "207 m.ga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’zbekistonda Rossiya bogdorchilik filiali kachon tashkil kilingan?",
+            options: ["1910 y", "1825 y.", "1855 y.", "1875 y."],
+            correct: "1910 y",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Payvand qilishning necha turi mavjud?",
+            options: ["50 ta", "100 ta", "150 ta", "150 tadan ortik"],
+            correct: "50 ta",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bog’ barpo qilishda nishablik sugoriladigan yerlarda necha m.bo’lishi kerak?",
+            options: [
+              "1000 m.da 1-2 m.",
+              "1000 m.da 2-6 m.",
+              "1000 m.da 4-8 m.",
+              "1000 m.da 8-10 m.",
+            ],
+            correct: "1000 m.da 1-2 m.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ixtisoslashtirilgan bogdorchilik xo’jaliklarda bog’ning o’rtacha maydoni necha ga.bo’lishi kerak?",
+            options: [
+              "500-1000 ga.",
+              "1500-2000 ga.",
+              "2000 va undan ortik .",
+              "800-2000 ga.",
+            ],
+            correct: "500-1000 ga.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bitta dalada bir xil mevaning necha muddatda pishadigan ko’chatlari ekiladi?",
+            options: [
+              "1 muddatda",
+              "2-3 muddatda",
+              "3-4 muddatda",
+              "4 va undan ortiq muddatda",
+            ],
+            correct: "1 muddatda",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Pakana olma ko’chati 5x4 m. sxemada ekiladigan 1 ga. da necha tup olma ko’chati ekiladi?",
+            options: ["500 tup", "250 tup.", "350 tup.", "450 tup."],
+            correct: "500 tup",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ko’chatzorida shakl berish dalasi necha bo’limdan iborat?",
+            options: ["2", "3", "20", "4"],
+            correct: "2",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Meva ko’chatzorda qanday uchastkalar bòladi?",
+            options: [
+              "kòpaytirish ; shakl berish",
+              "kòpaytirish va joy tanlash",
+              "ekish dalasi",
+              "faqat kòpaytirish",
+            ],
+            correct: "kòpaytirish ; shakl berish",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Payvantag kelib chiqishga kòra qanday xillarga bòlinadi?",
+            options: [
+              "yovvoyi ; madaniy",
+              "vegetativ va uruģ kòchatzor",
+              "kuchli va kuchsiz",
+              "yovvoyi va kuchli",
+            ],
+            correct: "yovvoyi ; madaniy",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Parxesh usulida kòpayadigan o’simliklar?",
+            options: [
+              "Tok atirgul qoraqat.",
+              "Olma nok uzum",
+              "Atirgul shaftoli kartoshka",
+              "Qoraqat qulupnay tradeskansiya",
+            ],
+            correct: "Tok atirgul qoraqat.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Payvandlash uchun kesib olingan kurtakli qalamcha nima deyiladi?",
+            options: ["payvandus.", "Payvantag", "Qalamcha", "Kurtak"],
+            correct: "payvandus.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Iskana payvand asosan qaysi oyda qilinadi?",
+            options: [
+              "Fevral oyidan aperalgacha",
+              "Sentiyabrda",
+              "Oktiyabrdan noyabrgacha",
+              "Faqt noyabr oyida qilinadi",
+            ],
+            correct: "Fevral oyidan aperalgacha",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qaysi meva danagidan tush olinadi?",
+            options: ["Shaftoli", "O’rik", "Olma", "Anor"],
+            correct: "Shaftoli",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "tahamiyati qanday ?",
+            options: [
+              "Nam saqlaydi;haroratni qishda issiqroq, yozda sovuqroq saqlaydi",
+              "Namlik kam bo’lishi kerak",
+              "Begona o’tlarni sekin o’stiradi , chiqub ketishi qiyin",
+              "To’g’ri javob yo’q",
+            ],
+            correct:
+              "Nam saqlaydi;haroratni qishda issiqroq, yozda sovuqroq saqlaydi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Mulchalanganda qanday sug’oriladi ?",
+            options: [
+              "Kamroq sug;oriladi",
+              "Tez – tez oz – ozdan sug’oriladi",
+              "Tez – tez sug’oriladi",
+              "Tomchilab sug’oriladi",
+            ],
+            correct: "Kamroq sug;oriladi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Mulchalangan yerlar hosilni necha % ga oshiradi?",
+            options: ["60 %", "80%", "70%", "90 %"],
+            correct: "60 %",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Mulchalangan yerlar qaysi ekinlar uchun mumkin emas?",
+            options: [
+              "Donli ekinlar",
+              "Poliz ekinlari",
+              "Sabzavot ekinlari",
+              "To’gri javob yo’q",
+            ],
+            correct: "Donli ekinlar",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bog’ qator oralariga qanday ekin ekish tavsiya etiladi ?",
+            options: [
+              "Sabzavot va chopiq qilinadigan ekinlar",
+              "Donli ekinlarni ekish",
+              "Poliz ekinlarini ekish",
+              "Bir yillik o’tlarni ekish",
+            ],
+            correct: "Sabzavot va chopiq qilinadigan ekinlar",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qoplama ekinlarning yana bir nomi nima?",
+            options: ["Sideratlar", "Minaterlar", "Atrazin", "Monomerlar"],
+            correct: "Sideratlar",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’simliklarni yorug’likka talabiga qarab qanday guruxga bo’linadi",
+            options: [
+              "Yorug’sevar , soyaevar va soyaga chidamli",
+              "Yorug’likka chidamsiz va yorug’sevar",
+              "Soyasevar va yorug’sevar",
+              "Soyaga chidamli",
+            ],
+            correct: "Yorug’sevar , soyaevar va soyaga chidamli",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Yorugsevar o’simliklarni belgilang",
+            options: [
+              "Nok , Behi , O’rik , Gilos va Shaftoli",
+              "Olma va Behi",
+              "Olxo’ri va Bodom",
+              "Qulipnay va Malina",
+            ],
+            correct: "Nok , Behi , O’rik , Gilos va Shaftoli",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Meva ekinlar qaysi davrda yorug’lik talab qilmaydi",
+            options: ["Tinim davri", "Shohlanish", "Meva qilish", "Gullash"],
+            correct: "Tinim davri",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’simliklarda kechadigan moddalarning kimyoviy o’zgarishi va o’rin almashinishi nimalar bilan bog’liq?",
+            options: ["Tuproq va havo harorati", "Suv", "Yorug’lik", "Namlik"],
+            correct: "Tuproq va havo harorati",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Ildizlar necha gradus haroratda jonlana boshlaydi ?",
+            options: ["2.5 - 5.4 c", "10 – 12 c", "12 – 14 c", "14 – 16 c"],
+            correct: "2.5 - 5.4 c",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Meva kurtaklar necha gradusda yoziladi ?",
+            options: ["5 – 10 c", "20 – 22 c", "22 – 24 c", "24 – 26 c"],
+            correct: "5 – 10 c",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "264.Mevali daraxtlar asosan qaysi vaqtda yaxshi osadi ?.",
+            options: ["tunda", "Kunduzi", "Ertalab", "To’g’ri javob yoq"],
+            correct: "tunda",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Mevalarning necha foizini suv tshkil qiladi?.",
+            options: ["72 – 86 %", "88 – 90 %", "90 – 92 %", "92 – 94 %"],
+            correct: "72 – 86 %",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Turkman olmasi yer osti suvlarining necha m chuqurlikda joylashishiga chidaydi ?.",
+            options: ["1 – 1.5 m", "2 – 2.5 m", "3 – 3.5 m", "4 – 4.5 m"],
+            correct: "1 – 1.5 m",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ildiz yaxshi nafas olmasa o’simlikda qanday xolat kuzatiladi?.",
+            options: ["Quriydi", "Yaxshi o’sadi", "Rivojlanadi", "Shohlanadi"],
+            correct: "Quriydi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’simlik ildizi yaxshi nafas olishi uchun nimalar amalga oshirilishi kerak?.",
+            options: [
+              "Chuqur haydash va tuproqni yumshatish",
+              "Ko’p sug’orish",
+              "O’gitlardan ko’p berish",
+              "Tosh va shag’al tashlash",
+            ],
+            correct: "Chuqur haydash va tuproqni yumshatish",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Quyidagi turlarning qaysi biri ko’p yillik o’tchil o’simlik hisoblanadi?",
+            options: ["Klupnay", "Malina", "Smarodina", "Aktinidiya"],
+            correct: "Klupnay",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Quyidagi meva ekinlardan qaysi biri eng uzoq yashaydi?",
+            options: ["Zaytun", "Olma", "Nok", "O’rik"],
+            correct: "Zaytun",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qaysi meva ekini eng erta hosilga kiradi?",
+            options: ["Klupnay", "Krijovnik", "Malina", "O’rik"],
+            correct: "Klupnay",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qaysi meva o’simligi buta-daraxtchil shaklga ega?",
+            options: ["Qaroli", "Olma", "Chetan", "Engok"],
+            correct: "Qaroli",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Keltirilgan o’simliklarning qaysi biri ko’p yillik o’tchil o’simlik hisoblanadi?",
+            options: ["Klupnay", "Malina", "Smarodina", "Aktinidiya"],
+            correct: "Klupnay",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Eng uzoq yashaydigan meva ekini.",
+            options: ["Zaytun", "Olma", "Nok", "O’rik"],
+            correct: "Zaytun",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Dunyoda meva va rezavor-meva ekinlarining turlari qancha?",
+            options: ["250", "50", "150", "200"],
+            correct: "250",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Eng kalta meva shoxchasi qanday aytiladi?",
+            options: [
+              "xalkali shoxcha",
+              "nayzasimon shoxcha",
+              "ingichka shoxcha",
+              "tup meva shoxcha",
+            ],
+            correct: "xalkali shoxcha",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Hosil qurtaklari bo’lmaydi novdalar.",
+            options: [
+              "o’suvchi novdalar",
+              "tup meva shoxchalar",
+              "regenerativ navdalar",
+              "konkurent novdalar",
+            ],
+            correct: "o’suvchi novdalar",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Meva ekinlarining yashash davrlari nechta?",
+            options: ["to’qqizta", "beshta", "oltita", "sakizta"],
+            correct: "to’qqizta",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Meva ekinlari eng ko’p hosil beradigan davri.",
+            options: [
+              "hosil berish davri",
+              "daraxt vegetativ qismlarining o’sish davri",
+              "hosil berish va quriy boshlash davri",
+              "qurish o’sish va hosil berish davri",
+            ],
+            correct: "hosil berish davri",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Urug’li meva ekinlarining ko’chat yetishtirish uchun urug’ ekish normasi?",
+            options: [
+              "35-39 kg.ga",
+              "30-33 kg.ga",
+              "40-50 kg.ga",
+              "81-90 kg.ga",
+            ],
+            correct: "35-39 kg.ga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Kuzda mexanik tarkibi еngil tuproqlarda urug’li meva ekinlari urug’ini ekish chuqurligi qancha?",
+            options: ["6.1-7.0 sm", "4.1-5.0 sm", "3.6-4.0 sm", "3.0-3.5 sm"],
+            correct: "6.1-7.0 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Kuzda mexanik tarkibi og’ir tuproqlarda urug’li meva ekinlari urug’ini ekish chuqurligi qancha?",
+            options: ["4.1-5.0 sm", "3.1-4.0 sm", "2.6-3.0 sm", "5.1-6.0 sm"],
+            correct: "4.1-5.0 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Yengil tuproqlarda bahorda urug’li meva ekinlari urug’ini ekish chuqurligi qancha?",
+            options: ["2.0-2.5 sm", "3.2-4.2 sm", "4.5-5.1sm", "5.2-5.5sm"],
+            correct: "2.0-2.5 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Necha yillik qalamchalar kurtak payvand qilinadi?",
+            options: [
+              "Bir yillik",
+              "Ikki yillik",
+              "Uch yillik",
+              "To’rt yillik",
+            ],
+            correct: "Bir yillik",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qalamcha payvand qilishning qulay muddati?",
+            options: ["Fevral", "Yanvar", "Mart", "Aprel"],
+            correct: "Fevral",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Eng ko’p qo’llaniladigan payvand turi?",
+            options: [
+              "kurtak payvand",
+              "qalamcha payvand",
+              "iskana payvand",
+              "tilma payvand",
+            ],
+            correct: "kurtak payvand",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ekinlari xo’jalik-biologik belgilari va botanik xususiyatlariga ko’ra necha gruhga bo’linadi?.",
+            options: ["5 guruxga", "7 guruxga.", "6 guruxga.", "4 guruxga"],
+            correct: "5 guruxga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Urug’mevalilar guruhiga mansub o’simlik turlarini ko’rsating.",
+            options: [
+              "Olma, nok,bexi.",
+              "SHaftoli,o’rik,nok.",
+              "Anor, Anjir, bexi,olma",
+              "Bodom, pista.",
+            ],
+            correct: "Olma, nok,bexi.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Danakli mevalilar guruhiga mansub o’simlik turlarini ko’rsating.",
+            options: [
+              "SHaftoli urik.",
+              "Olma nok.bexi",
+              "Anor anjir, bexi.olma.",
+              "Bodom, pista. olma",
+            ],
+            correct: "SHaftoli urik.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Olma,y’ong’oq va o’rik qaysi guruhga mansubligini toping.",
+            options: [
+              "Daraxt-lar.",
+              "Butalar",
+              "CHala butalar.",
+              "Ko’p yillik o’t o’simliklari",
+            ],
+            correct: "Daraxt-lar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Daraxt guruxiga mansubini toping.",
+            options: ["Olma.", "Pista.", "Bodom, pista.", "Anor, pista."],
+            correct: "Olma.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ekinlari ildiz tizimini yеr ustki qismidan ajratuvchi organi qanday nomlanishini belgilang.",
+            options: [
+              "Ildiz bo’g’ini.",
+              "Asosiy shox.",
+              "Tana.",
+              "O’suvchi qismi.",
+            ],
+            correct: "Ildiz bo’g’ini.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bir tup katta Yoshdagi daraxt kuniga necha kg kislorod chiqaradi?.",
+            options: [
+              "2kg.ga yaqin.",
+              "3.5kg.atrofida.",
+              "4-5kg.dan ortiq.",
+              "3.0-3.2 kg.dan kam emas.",
+            ],
+            correct: "2kg.ga yaqin.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’zbekistondagi mevachilikka oid dastlabki tarixiy ma’lumotlar (A.A.Rыbakov ma’lumotlari buyicha) qaysi vaqtlarga borib taqaladi?.",
+            options: [
+              "Eramizdan avvalgi V asrga",
+              "I-II asrlarga",
+              "Eramizning X asriga.",
+              "III-VIII asrlarga.",
+            ],
+            correct: "Eramizdan avvalgi V asrga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mevali o’simliklarni urug’ xosil qiluvchi changchi va urug’chisi unirng qanday a’zolari deb ataladi?.",
+            options: [
+              "Maxsuldor a’zolari.",
+              "Vegetativ a’zolari.",
+              "Mavsumiy a’zolari.",
+              "Asosiy a’zolarining shakl o’zgarishlari.",
+            ],
+            correct: "Maxsuldor a’zolari.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ekinlarini ildizlari kelib chiqishlariga ko’ra necha xil bo’lishini ko’rsating.",
+            options: ["3.xil.", "2 xil.", "4 xil."],
+            correct: "3.xil.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "6 xil. } Mevachilik va uning mahsulotlari tarixining qaysi davridan boshlab tovar xususiyatlariga ega bo’lgan?.",
+            options: [
+              "XIX asrga kelib q/x da salmoqli o’rin egallagan.",
+              "V-asrga kelib.",
+              "Oktyabr revolyutsiyasidan sung.",
+              "X-asrdan boshlab.",
+            ],
+            correct: "XIX asrga kelib q/x da salmoqli o’rin egallagan.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ekinlarining kurtaklari yangi xosilalar chiqarishiga qarab necha xil bo’ladi?",
+            options: ["5 xil.", "3.xil.", "2 xil.", "4 xil."],
+            correct: "5 xil.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva daraxtlarida kuchli o’suvchi ammo son jixatdan kam xosil bo’luvchi qismlari qaysi organni shoxlanishiga olib keladi?",
+            options: [
+              "O’rinbosar novdalarni shoxlanishiga olib keladi",
+              "Ildizbachkilarni xosil bo’lishiga olib keladi.",
+              "Yon shoxlarni o’sishiga va kurtaklarni xosil bo’lishiga olib keladi.",
+              "Yarim asosiy shoxlarni tarmoqlanishiga olib keladi.",
+            ],
+            correct: "O’rinbosar novdalarni shoxlanishiga olib keladi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ko’chatzorlarning shakl berish uchastkasi dalalari uchun tavsiya etiladigan taxminiy almashlab ekish shakllarini ko’rsating.",
+            options: [
+              "7-8-9 dalali",
+              "5-11-12 dalali",
+              "6-10-11 dalali",
+              "3-4-5 dalali",
+            ],
+            correct: "7-8-9 dalali",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Barcha turdagi meva ekinlarini o’suv davrini boshlanishi uchun xarorat qancha bo’lishi kerak?",
+            options: [
+              "+5 darajadan past bo’lmaganda.",
+              "0 darajada ham o’sadi.",
+              "+ 10 darajada o’sadi lekin sust o’sadi.",
+              "+ 1 darajada o’sa boshlaydi.",
+            ],
+            correct: "+5 darajadan past bo’lmaganda.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qaysi guruxga mansub meva ekinlari barg yozishidan oldin gullaydi?",
+            options: [
+              "Urug’li mevalar.",
+              "Yong’oq mevalar.",
+              "Subtropik mevalar.",
+              "Barcha turdagi mevali ekinlar.",
+            ],
+            correct: "Urug’li mevalar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qaysi guruxga mansub meva ekinlari gullashdan oldin barg yozmaydi?",
+            options: [
+              "Urugli mevalar.",
+              "Danakli mevalar.",
+              "Yongoq mevalar.",
+              "Subtropik mevalar.",
+            ],
+            correct: "Urugli mevalar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Yer ustki qismining tuzilishiga ko’ra olma,yong’oq,o’rik kabi mevali ekin turlari qaysi guruxga mansub o’simliklar?.",
+            options: [
+              "Daraxtlar.",
+              "Butalar.",
+              "CHala butalar.",
+              "O’tsimon o’usimliklar.",
+            ],
+            correct: "Daraxtlar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva va rezavor meva ekinlari gulini changlanishiga ko’ra qanday guruxlarga bo’linadi ?.",
+            options: [
+              "Faqat chetdan changlanuvchilarga",
+              "Faqat o’zidan changlanuvchilarga",
+              "Geytonogamiya va dixogamiyalarga",
+              "CHetdan changlanuvchilar hamda geytonogamiyalarga",
+            ],
+            correct: "Faqat chetdan changlanuvchilarga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "CHala butalar guruxiga mansub o’simlikni toping.",
+            options: ["Malina", "Olma", "Apelsin", "Yang’oq"],
+            correct: "Malina",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mevali daraxtlarning ildiz bo’g’izidan birinchi tartib shoxlari chiqgan joyigacha bo’lgan qismining nomini toping.",
+            options: [
+              "Tana.",
+              "Asosiy shox.",
+              "Ildiz bo’g’ni.",
+              "O’suvchi qismi.",
+            ],
+            correct: "Tana.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mevali daraxtlarning birinchi tartib asosiy shox chiqgan joyidan to uchki o’suv novdasigacha bo’lgan qismini nomi nima?",
+            options: ["Asosiy shox.", "Ildiz bo’yni.", "Tana.", "SHox-shabba."],
+            correct: "Asosiy shox.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’zbekiston sharoitida dengiz satxidan qancha balandlikda sun’iy sugorilmaydigan mevali bog barpo qilish mumkin?.",
+            options: ["1000-1500 m.", "900-800 m.", "850-880 m.", "500-550 m."],
+            correct: "1000-1500 m.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ko’chatzor tashkil etishda shakl berish uchastkasining maydoni qancha bo’lishi kerak?.",
+            options: [
+              "1-2-3 ga.qadar.",
+              "10-15-20 ga.qadar.",
+              "5-8-9 ga.qadar",
+              "22-24-30 ga.qadar.",
+            ],
+            correct: "1-2-3 ga.qadar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’rikdan urug’ chiqish darajasini (S.N.Stepanov bo’yicha) belgilang.",
+            options: ["12-15 %", "03-05 %.", "17-18 %", "04-07 %."],
+            correct: "12-15 %",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’rta Osiyoda jumladan O’zbekistonda meva va rezavor-meva ekinlarining qancha yovvoyi turlari tarqalgan?",
+            options: ["70 turi", "80 turi", "90 turi", "100 turi"],
+            correct: "70 turi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva va rezavor-meva ekinlari qancha botaniq oilaga mansub?.",
+            options: ["50-oilaga", "40-oilaga", "60-oilaga", "70 –oilaga"],
+            correct: "50-oilaga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Quyidagi meva ekini turining qaysi biri urug’lilar guruhiga mansub?",
+            options: ["Nok", "Engok", "Karoli", "Unabi"],
+            correct: "Nok",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Quyidagi turlarning qaysi biri buta-daraxtchil shaklga ega?",
+            options: ["Qaroli", "Olma", "Chetan", "Engok"],
+            correct: "Qaroli",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Quyidagi turlarning qaysi biri ko’p yillik o’tchil o’simlik hisoblanadi?",
+            options: ["Klupnay", "Malina", "Smarodina", "Aktinidiya"],
+            correct: "Klupnay",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Quyidagi meva ekinlardan qaysi biri eng uzoq yashaydi?",
+            options: ["Zaytun", "Olma", "Nok", "O’rik"],
+            correct: "Zaytun",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qaysi meva ekini eng erta hosilga kiradi?",
+            options: ["Klupnay", "Krijovnik", "Malina", "O’rik"],
+            correct: "Klupnay",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Er yuzida qancha meva va rezavor-meva ekinlarining turlari uchraydi?",
+            options: ["250 turi", "50 turi", "150 turi", "200 turi"],
+            correct: "250 turi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Eng kalta meva shoxchasi qanday aytiladi?",
+            options: [
+              "xalkali shoxcha",
+              "nayzasimon shoxcha",
+              "ingichka shoxcha",
+              "tup meva shoxcha",
+            ],
+            correct: "xalkali shoxcha",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qaroli va o’rikda kalta shoxchalar nima deb aytiladi?",
+            options: [
+              "tup meva shoxchasi",
+              "murakkab shoxcha",
+              "pixsimon shoxcha",
+              "aralash shoxcha",
+            ],
+            correct: "tup meva shoxchasi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qaysi novdalarda hosil qurtaklari bo’lmaydi?",
+            options: [
+              "o’suvchi novdalar",
+              "tup meva shoxchalar",
+              "regenerativ navdalar",
+              "konkurent novdalar",
+            ],
+            correct: "o’suvchi novdalar",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Meva ekinlarida nechta yashash davrlari bor?",
+            options: ["to’qqizta", "beshta", "oltita", "sakkizta"],
+            correct: "to’qqizta",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ekinlari qaysi yashash davrida eng ko’p hosil beradi?",
+            options: [
+              "hosil berish davri",
+              "daraxt vegetativ qismlarining o’sish davri",
+              "hosil berish va kuriy boshlash davri",
+              "qurish o’sish va hosil berish davri",
+            ],
+            correct: "hosil berish davri",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ko’chatzorlarda urug’li meva ekinlarining urug’ ekish normasi?",
+            options: [
+              "35-39 kg.ga",
+              "30-33 kg.ga",
+              "40-50 kg.ga",
+              "81-90 kg.ga",
+            ],
+            correct: "35-39 kg.ga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mexanik tarkibi еngil tuproqlarda kuzda urug’li meva ekinlari urug’ini ekish chuqurligi qancha?",
+            options: ["6.1-7.0 sm", "4.1-5.0 sm", "3.6-4.0 sm", "3.0-3.5 sm"],
+            correct: "6.1-7.0 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mexanik tarkibi og’ir tuproqlarda kuzda urug’li meva ekinlari urug’ini ekish chuqurligi qancha?",
+            options: ["4.1-5.0 sm", "3.1-4.0 sm", "2.6-3.0 sm", "5.1-6.0 sm"],
+            correct: "4.1-5.0 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Yengil tuproqlarda bahorda urug’li meva ekinlari urug’ini ekish chuqurligi qancha?",
+            options: ["2.0-2.5 sm", "3.2-4.2 sm", "4.5-5.1sm", "5.2-5.5sm"],
+            correct: "2.0-2.5 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qurtak payvandda necha yillik qalamchalardan foydalaniladi?",
+            options: [
+              "Bir yillik",
+              "Ikki yillik",
+              "Uch yillik",
+              "To’rt yillik",
+            ],
+            correct: "Bir yillik",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qalamcha payvand qilishning qulay muddati?",
+            options: ["Fevral", "Yanvar", "Mart", "Aprel"],
+            correct: "Fevral",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Eng ko’p qo’llaniladigan payvand turi?",
+            options: [
+              "kurtak payvand",
+              "qalamcha payvand",
+              "iskana payvand",
+              "tilma payvand",
+            ],
+            correct: "kurtak payvand",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bog’ barpo qilishda yer osti sizot suvlarining satxi necha metr bo’lgan dalalar ajratiladi?",
+            options: ["4.5-5.0 m", "2.0-2.5 m", "3.0-4.0 m", "5.5-6.0 m"],
+            correct: "4.5-5.0 m",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bog’da meva daraxtlarini joylashtirishning eng ko’p tarqalgan usuli?",
+            options: [
+              "qatorlab usuli",
+              "shaxmat usuli",
+              "to’g’ri burchakli usuli",
+              "kvadratlab usuli",
+            ],
+            correct: "qatorlab usuli",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bo’z tuproqli madaniylashgan sug’oriladigan dalalarda ko’chat ekish uchun kovlanadigan uralarning kengligi qancha bo’lishi kerak?",
+            options: ["60-75 sm", "50-60 sm", "55-60 sm", "80-90 sm"],
+            correct: "60-75 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Daraxtsimon ko’chat ekish uchun kovlanadigan uralarining chuqurligi qancha bo’lishi kerak?",
+            options: ["60-70 sm", "50-55 sm", "55-60 sm", "57-59 sm"],
+            correct: "60-70 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ko’chat o’tqazish taxtasining uzunligi qancha bo’lishi kerak?",
+            options: ["1.5-2.0 m", "2.6-2.9 sm", "3.0-3.1 sm", "3.5-4.0 sm"],
+            correct: "1.5-2.0 m",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva daraxtlari ekilgan maydonlarda issiqning pasayish miqdori darajasini ko’rsating.",
+            options: [
+              "6.0-10.0 daraja",
+              "1.0-2.5 daraja",
+              "2.0-2.9 daraja",
+              "15.0-20.0 daraja",
+            ],
+            correct: "6.0-10.0 daraja",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Olma tarkibida necha foiz suv buladi?",
+            options: ["80,5-86,5", "70,3-78,0", "70,5-77,5", "72,5-75,5"],
+            correct: "80,5-86,5",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva urug’i saqlanayotgan bino xarorati necha darajadan oshib ketmasligi kerak?",
+            options: ["+150S", "+220S", "+200S", "+250S"],
+            correct: "+150S",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qalamchalar 12 soat suvga solib qo’yilsa ildiz olishi necha foizga oshadi?",
+            options: ["10-15%", "21-29%", "25-30%", "28-31%"],
+            correct: "10-15%",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva, rezavor mevalar o`sishi rivojlanishi, meva berishi, uzoq yashashi, ildiz sistemasining yer ustki qismini o`sishiga qarab qaysi xillarga bo`linadi?",
+            options: [
+              "darxt, buta, o`t",
+              "urug’ mevalar, danak mevalar",
+              "urug mevalar, daraxt",
+              "daraxt, danakli mevalar",
+            ],
+            correct: "darxt, buta, o`t",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Yovvoyi mevazorlardan olinadigan xosil 1 gektarga necha ts. ni tashkil qiladi?",
+            options: [
+              "1,0 - 1,5 ts.",
+              "1,5 - 2,5 ts.",
+              "2,5 - 3,5 ts.",
+              "3,5 - 4,5 ts.",
+            ],
+            correct: "1,0 - 1,5 ts.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva daraxtlarining vatani kaysi mamlakatligini aniklang?",
+            options: [
+              "Hammasi to’g’ri",
+              "O’rta Osiyo",
+              "Kavkaz orti",
+              "Xitoy, Xindiston, Suriya, Eron",
+            ],
+            correct: "Hammasi to’g’ri",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Bir odam bir yilda qancha meva istemol qilishi kerak?",
+            options: ["100-120 kg", "75-85 kg", "85-95 kg", "95-100 kg"],
+            correct: "100-120 kg",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva, uzum, rezavor meva yetishtirish O’zbekistonda axoli jon boshiga necha kg.ga to’gri keladi?.",
+            options: ["71 kg", "61 kg", "71 kg", "81 kg"],
+            correct: "71 kg",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "O’zbekistonda bog maydonlari necha gektar?",
+            options: ["207 m.ga", "217 m.ga", "227 m.ga", "277 m.ga"],
+            correct: "207 m.ga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’zbekistonda Rossiya bogdorchilik filiali kachon tashkil kilingan?",
+            options: ["1910 y", "1825 y.", "1855 y.", "1875 y."],
+            correct: "1910 y",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Payvand qilishning necha turi mavjud?",
+            options: ["50 ta", "100 ta", "150 ta", "150 tadan ortik"],
+            correct: "50 ta",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bog’ barpo qilishda nishablik sugoriladigan yerlarda necha m.bo’lishi kerak?",
+            options: [
+              "1000 m.da 1-2 m.",
+              "1000 m.da 2-6 m.",
+              "1000 m.da 4-8 m.",
+              "1000 m.da 8-10 m.",
+            ],
+            correct: "1000 m.da 1-2 m.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ixtisoslashtirilgan bogdorchilik xo’jaliklarda bog’ning o’rtacha maydoni necha ga.bo’lishi kerak?",
+            options: [
+              "500-1000 ga.",
+              "1500-2000 ga.",
+              "2000 va undan ortik .",
+              "800-2000 ga.",
+            ],
+            correct: "500-1000 ga.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bitta dalada bir xil mevaning necha muddatda pishadigan ko’chatlari ekiladi?",
+            options: [
+              "1 muddatda",
+              "2-3 muddatda",
+              "3-4 muddatda",
+              "4 va undan ortiq muddatda",
+            ],
+            correct: "1 muddatda",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Pakana olma ko’chati 5x4 m. sxemada ekiladigan 1 ga. da necha tup olma ko’chati ekiladi?",
+            options: ["500 tup", "250 tup.", "350 tup.", "450 tup."],
+            correct: "500 tup",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bir gektar bog’dan 150 ts. xosil olinsa qancha o’git solinadi?",
+            options: [
+              "azot 150 fosfor 100 kaliy 15-30 kg.",
+              "azot 50,fosfor 20,kaliy 10 kg.",
+              "azot 25 fosfor 30, kaliy 15 kg.",
+              "azot 200 fosfor 100 kaliy 100 kg.",
+            ],
+            correct: "azot 150 fosfor 100 kaliy 15-30 kg.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Daraxtlar qaysi muddatlarda butalaydi?",
+            options: [
+              "kuz-qishda, qish-baxorda, yozda.",
+              "Kuzda",
+              "Qishda",
+              "Yozda",
+            ],
+            correct: "kuz-qishda, qish-baxorda, yozda.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "O’zbekistonda rezavor mevalardan qaysilari ekiladi?",
+            options: [
+              "qulupnay, malina, qora smoridina,",
+              "anor, kulupnay",
+              "malina, anjir",
+              "qora smoridina, limon",
+            ],
+            correct: "qulupnay, malina, qora smoridina,",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "1 kg mayiz necha kaloriya energiya beradi?",
+            options: [
+              "1500-2000 kal.",
+              "2500-3000 kal.",
+              "3250-3400 kal.",
+              "3400 va undan ortik.",
+            ],
+            correct: "1500-2000 kal.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Kurtak payvand necha usulda kilinadi?",
+            options: [
+              "5 usul: po’sti, yogochligi, yogochsizlik xolda, naychasi, kambiysi bilan",
+              "3 usul: yogochligi bilan, yogochsizlik va naychasi bilan.",
+              "2 usul: yogochligi va naychasi bilan",
+              "4 usul: yogochligi, novdasi, yogochsizlik va naychasi bilan",
+            ],
+            correct:
+              "5 usul: po’sti, yogochligi, yogochsizlik xolda, naychasi, kambiysi bilan",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva daraxtlarini shox-shabbasi necha gradus sovuqda butash tavsiya etilmaydi?",
+            options: ["- 0 – 1 S", "- 5 – 10 S", "- 3 – 5 S", "- 5 – 10 S"],
+            correct: "- 0 – 1 S",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Aholi jon boshiga yiliga necha kg meva istemol qilinishi kerak?",
+            options: ["115-120", "300- 400", "130-250", "160-150"],
+            correct: "115-120",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’zbekistonda meva va rezavor mevalarning nechta turi uchraydi?",
+            options: ["108", "150", "200", "250"],
+            correct: "108",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Yangi navlar chiqarish va payvantaglar yetishtirish uchun qanday yo’ldan ko’paytirish kerak",
+            options: ["Urug’idan", "jinssiz.", "parxesh", "Tugunagidan"],
+            correct: "Urug’idan",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Olxo’ri uchun payvantagning nomini ayting?",
+            options: ["sug;diyona", "antipka", "anglebla", "manglebka."],
+            correct: "sug;diyona",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Transplantatsiya qanday ko’paytirish?",
+            options: [
+              "payvand qilib kòpaytirish.",
+              "qalamchasidan kòpaytirish",
+              "kurtak yordamida kòpaytirish",
+              "ildiz bachkisidan kòpaytirish",
+            ],
+            correct: "payvand qilib kòpaytirish.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Payvandlashning nechtadan ortiq turi mavjud?",
+            options: [
+              "150 dan ortiq",
+              "150 ga yaqin",
+              "150 ta",
+              "151 dan ortiq",
+            ],
+            correct: "150 dan ortiq",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Kuchli o’sadigan payvantagni asosan qaysi usulda ko’paytiriladi?",
+            options: ["Uruģidan", "Jinsiy", "Parxesh", "Qalamchasi"],
+            correct: "Uruģidan",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ko’chatzorida shakl berish dalasi necha bo’limdan iborat?",
+            options: ["2", "3", "20", "4"],
+            correct: "2",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Meva ko’chatzorda qanday uchastkalar bòladi?",
+            options: [
+              "kòpaytirish ; shakl berish",
+              "kòpaytirish va joy tanlash",
+              "ekish dalasi",
+              "faqat kòpaytirish",
+            ],
+            correct: "kòpaytirish ; shakl berish",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Payvantag kelib chiqishga kòra qanday xillarga bòlinadi?",
+            options: [
+              "yovvoyi ; madaniy",
+              "vegetativ va uruģ kòchatzor",
+              "kuchli va kuchsiz",
+              "yovvoyi va kuchli",
+            ],
+            correct: "yovvoyi ; madaniy",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Parxesh usulida kòpayadigan o’simliklar?",
+            options: [
+              "Tok atirgul qoraqat.",
+              "olma nok uzum",
+              "atirgul shaftoli kartoshka",
+              "qoraqat qulupnay tradeskansiya",
+            ],
+            correct: "Tok atirgul qoraqat.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Payvandlash uchun kesib olingan kurtakli qalamcha nima deyiladi?",
+            options: ["payvandus.", "Payvantag", "Qalamcha", "Kurtak"],
+            correct: "payvandus.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Iskana payvand asosan qaysi oyda qilinadi?",
+            options: [
+              "fevral oyidan aperalgacha",
+              "sentiyabrda",
+              "oktiyabrdan noyabrgacha",
+              "faqt noyabr oyida qilinadi",
+            ],
+            correct: "fevral oyidan aperalgacha",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qaysi meva danagidan tush olinadi?",
+            options: ["shaftoli", "O’rik", "Olma", "Anor"],
+            correct: "shaftoli",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bog’ qator oralariga ishlov berishda mulcha qog’ozlardan foydalanishgan ; - uning ahamiyati qanday ?",
+            options: [
+              "nam saqlaydi;haroratni qishda issiqroq, yozda sovuqroq saqlaydi",
+              "namlik kam bo’lishi kerak",
+              "begona o’tlarni sekin o’stiradi , chiqub ketishi qiyin",
+              "to’g’ri javob yo’q",
+            ],
+            correct:
+              "nam saqlaydi;haroratni qishda issiqroq, yozda sovuqroq saqlaydi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Mulchalanganda qanday sug’oriladi ?",
+            options: [
+              "kamroq sug;oriladi",
+              "tez – tez oz – ozdan sug’oriladi",
+              "tez – tez sug’oriladi",
+              "tomchilab sug’oriladi",
+            ],
+            correct: "kamroq sug;oriladi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Mulchalangan yerlar hosilni necha % ga oshiradi?",
+            options: ["60 %", "80%", "70%", "90 %"],
+            correct: "60 %",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Mulchalangan yerlar qaysi ekinlar uchun mumkin emas?",
+            options: [
+              "Donli ekinlar",
+              "poliz ekinlari",
+              "sabzavot ekinlari",
+              "to’gri javob yo’q",
+            ],
+            correct: "Donli ekinlar",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bog’ qator oralariga qanday ekin ekish tavsiya etiladi ?",
+            options: [
+              "Sabzavot va chopiq qilinadigan ekinlar",
+              "donli ekinlarni ekish",
+              "poliz ekinlarini ekish",
+              "bir yillik o’tlarni ekish",
+            ],
+            correct: "Sabzavot va chopiq qilinadigan ekinlar",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qoplama ekinlarning yana bir nomi nima?",
+            options: ["Sideratlar", "Minaterlar", "atrazin", "Monomerlar"],
+            correct: "Sideratlar",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qoplama ekinlarga qanday ekinlar kiradi?",
+            options: ["1 yillik", "ko’p yillik", "2 yillik", "buta"],
+            correct: "1 yillik",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qoplama ekinlari qanday o’tlarni o’sishiga yo’l qo’ymadi ?",
+            options: [
+              "begona o;tlarni",
+              "suv o’tlari",
+              "gidrafil o’tlar",
+              "yirik suv o’tlarini",
+            ],
+            correct: "begona o;tlarni",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "1 g yerga ekiladigan qoplama ekinlar qancha yashil massa hosil qiladi?",
+            options: ["250-350s", "450-350s", "600-400 s", "420-360 s"],
+            correct: "250-350s",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bog’dagi begona o’tlarga qarshi qanday moddalardan foydalaniladi ?",
+            options: [
+              "gerbitsit",
+              "pestitsit va simonarsin",
+              "simonarsin va monuranlar",
+              "monuranlar va gerbitsit",
+            ],
+            correct: "gerbitsit",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "O’zbekistonda necha xil sug’orish usuli mavjud ?",
+            options: ["4 xil", "7 xil", "5 xil", "6 xil"],
+            correct: "4 xil",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Sho’r yerlarni sug’orishda qo’llaniladigan sug’orish nomi?",
+            options: [
+              "Pol olib sug;orish",
+              "Prosterib sug’orish",
+              "Jildiratib sug’orib",
+              "Xalqa hosil qilib sug’orish",
+            ],
+            correct: "Pol olib sug;orish",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qanday yerlarni bostirib sug’oriladi ?",
+            options: [
+              "Teris relefli yerlrni",
+              "Chala teris yerlarni",
+              "Chuqurligi ko’p yerlarni",
+              "Ag’darilgan yerlarni",
+            ],
+            correct: "Teris relefli yerlrni",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Yosh bog’larda qanday sug’orish amalga oshiriladi ?",
+            options: [
+              "halqasimon ariqchalar yardamida",
+              "tekis sug’orish",
+              "jildiratib sug’orish",
+              "bostirib sug’orish",
+            ],
+            correct: "halqasimon ariqchalar yardamida",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Bog’larni sug’orishda yangi usullar qaysilar ?",
+            options: [
+              "tomchilatib sugorish",
+              "xalqasimon sug’orish",
+              "bostirib sug’orish",
+              "jildiratib sug’orish",
+            ],
+            correct: "tomchilatib sugorish",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva daraxtlarga ta’sir etadigan eng aktiv agratexnik usullari qaysi?",
+            options: ["butash", "sug’orish", "o’stirish", "tog’ri javob yo’q"],
+            correct: "butash",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Daraxtlarni butash mevalarni necha % ga yiriklashtiradi ?",
+            options: ["21%", "33 %", "25%", "30 %"],
+            correct: "21%",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’simliklarga qanday ishlov berilsa sovuqqa chidamliligi ham ortadi ?",
+            options: ["Butash", "suv berib", "og’it berilsa", "komilsa"],
+            correct: "Butash",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Fotosintezning asosiy omili nima",
+            options: ["Yorug’lik", "Namlik", "Tuproq", "Barchasi"],
+            correct: "Yorug’lik",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Yorug’lik o’simlikning qaysi barglariga ko’proq tushadi",
+            options: [
+              "Shox shabbaning yuqori yarusdagi barglariga",
+              "Yon tomondagi barglarga",
+              "Shoh shabbaning pastki yarusdagi barglariga",
+              "To’g’ri javob yo’q",
+            ],
+            correct: "Shox shabbaning yuqori yarusdagi barglariga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’simliklarni yorug’likka talabiga qarab qanday guruxga bo’linadi",
+            options: [
+              "Yorug’sevar , soyaevar va soyaga chidamli",
+              "Yorug’likka chidamsiz va yorug’sevar",
+              "Soyasevar va yorug’sevar",
+              "Soyaga chidamli",
+            ],
+            correct: "Yorug’sevar , soyaevar va soyaga chidamli",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Yorugsevar o’simliklarni belgilang",
+            options: [
+              "Nok , Behi , O’rik , Gilos va Shaftoli",
+              "Olma va Behi",
+              "Olxo’ri va Bodom",
+              "Qulipnay va Malina",
+            ],
+            correct: "Nok , Behi , O’rik , Gilos va Shaftoli",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Meva ekinlar qaysi davrda yorug’lik talab qilmaydi",
+            options: ["Tinim davri", "Shohlanish", "Meva qilish", "Gullash"],
+            correct: "Tinim davri",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’simliklarda kechadigan moddalarning kimyoviy o’zgarishi va o’rin almashinishi nimalar bilan bog’liq?",
+            options: ["Tuproq va havo harorati", "Suv", "Yorug’lik", "Namlik"],
+            correct: "Tuproq va havo harorati",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Ildizlar necha gradus haroratda jonlana boshlaydi ?",
+            options: ["2.5 - 5.4 c", "10 – 12 c", "12 – 14 c", "14 – 16 c"],
+            correct: "2.5 - 5.4 c",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Meva kurtaklar necha gradusda yoziladi ?",
+            options: ["5 – 10 c", "20 – 22 c", "22 – 24 c", "24 – 26 c"],
+            correct: "5 – 10 c",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "264.Mevali daraxtlar asosan qaysi vaqtda yaxshi osadi ?.",
+            options: ["tunda", "Kunduzi", "Ertalab", "To’g’ri javob yoq"],
+            correct: "tunda",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Mevalarning necha foizini suv tshkil qiladi?.",
+            options: ["72 – 86 %", "88 – 90 %", "90 – 92 %", "92 – 94 %"],
+            correct: "72 – 86 %",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Turkman olmasi yer osti suvlarining necha m chuqurlikda joylashishiga chidaydi ?.",
+            options: ["1 – 1.5 m", "2 – 2.5 m", "3 – 3.5 m", "D. 4 – 4.5 m"],
+            correct: "1 – 1.5 m",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ildiz yaxshi nafas olmasa o’simlikda qanday xolat kuzatiladi?.",
+            options: ["Quriydi", "Yaxshi o’sadi", "Rivojlanadi", "Shohlanadi"],
+            correct: "Quriydi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’simlik ildizi yaxshi nafas olishi uchun nimalar amalga oshirilishi kerak?.",
+            options: [
+              "Chuqur haydash va tuproqni yumshatish",
+              "Ko’p sug’orish",
+              "O’gitlardan ko’p berish",
+              "Tosh va shag’al tashlash",
+            ],
+            correct: "Chuqur haydash va tuproqni yumshatish",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Quyidagi turlarning qaysi biri ko’p yillik o’tchil o’simlik hisoblanadi?",
+            options: ["Klupnay", "Malina", "Smarodina", "Aktinidiya"],
+            correct: "Klupnay",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Quyidagi meva ekinlardan qaysi biri eng uzoq yashaydi?",
+            options: ["Zaytun", "Olma", "Nok", "O’rik"],
+            correct: "Zaytun",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qaysi meva ekini eng erta hosilga kiradi?",
+            options: ["Klupnay", "Krijovnik", "Malina", "O’rik"],
+            correct: "Klupnay",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Er yuzida qancha meva va rezavor-meva ekinlarining turlari uchraydi?",
+            options: ["250 turi", "50 turi", "150 turi", "200 turi"],
+            correct: "250 turi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva urug’i saqlanayotgan bino xarorati necha darajadan oshib ketmasligi kerak?",
+            options: ["+150S", "+220S", "+200S", "+250S"],
+            correct: "+150S",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qalamchalar 12 soat suvga solib qo’yilsa ildiz olishi necha foizga oshadi?",
+            options: ["10-15%", "21-29%", "25-30%", "28-31%"],
+            correct: "10-15%",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Вir odam uchun kunlik meva maxsulotlari iste’mol me’уori",
+            options: ["330-400g", "90-130 g", "250-450 g", "600-750 g"],
+            correct: "330-400g",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Вir odam uchun yillik meva iste’mol me’уori",
+            options: ["180-200kg", "115-120 kg", "250-300 kg", "60-80 kg"],
+            correct: "180-200kg",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Kuniga daraxtlar qancha (kg.ga) karbonat angidrit yutadi?.",
+            options: ["8 kg", "3 kg", "6 kg", "10 kg"],
+            correct: "8 kg",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Olma mevasida qaysi vitamin ko’p?",
+            options: ["Vitamin S", "Vitamin A", "Vitamin V", "Vitamin P"],
+            correct: "Vitamin S",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Meva bog’larida xavo namligining nisbiy darajasi.",
+            options: ["30-40 %", "10-15 %", "8-12 %", "20-28 %"],
+            correct: "30-40 %",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva o’simliklari botanik xususiyatlariga ko’ra necha gruhga bo’linadi?.",
+            options: ["5 guruxga", "7 guruxga.", "6 guruxga.", "4 guruxga."],
+            correct: "5 guruxga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Keltirilgan o’simliklarning qaysilari urug’mevalilar guruhiga mansub?.",
+            options: [
+              "Olma, nok,bexi.",
+              "SHaftoli,o’rik,nok.",
+              "Anor, Anjir, bexi,olma",
+              "Bodom, pista.",
+            ],
+            correct: "Olma, nok,bexi.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Keltirilgan o’simliklarning qaysilari danakmevalilar guruhiga mansub?.",
+            options: [
+              "SHaftoli o’rik.",
+              "Olma nok.bexi",
+              "Anor anjir, bexi.olma.",
+              "Bodom, pista. Olma",
+            ],
+            correct: "SHaftoli o’rik.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Olma va o’rik qaysi guruhga mansubligini toping.",
+            options: [
+              "Daraxt-lar.",
+              "Butalar",
+              "CHala butalar.",
+              "Ko’p yillik o’t o’simliklari",
+            ],
+            correct: "Daraxt-lar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ekinlari ildiz tizimini yеr ustki qismidan ajratuvchi organi.",
+            options: [
+              "Ildiz bo’g’ini.",
+              "Asosiy shox.",
+              "Tana.",
+              "O’suvchi qismi.",
+            ],
+            correct: "Ildiz bo’g’ini.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Bir tup daraxt kuniga necha kg kislorod chiqaradi?.",
+            options: [
+              "2kg.ga yaqin.",
+              "3.5kg.atrofida.",
+              "4-5kg.dan ortiq.",
+              "3.0-3.2 kg.dan kam emas.",
+            ],
+            correct: "2kg.ga yaqin.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva va rezavor-meva ekinlari qancha botaniq oilaga mansub?.",
+            options: ["50-oilaga", "40-oilaga", "60-oilaga", "70 – oilaga"],
+            correct: "50-oilaga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Urug’lilar guruhiga mansub meva ekinini toping",
+            options: ["Nok", "Yang’oq", "Qaroli", "Unabi"],
+            correct: "Nok",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qaysi meva o’simligi buta-daraxtchil shaklga ega?",
+            options: ["Qaroli", "Olma", "Chetan", "Yang’oq"],
+            correct: "Qaroli",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Keltirilgan o’simliklarning qaysi biri ko’p yillik o’tchil o’simlik hisoblanadi?",
+            options: ["Klupnay", "Malina", "Smarodina", "Aktinidiya"],
+            correct: "Klupnay",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Eng uzoq yashaydigan meva ekini.",
+            options: ["Zaytun", "Olma", "Nok", "O’rik"],
+            correct: "Zaytun",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Dunyoda meva va rezavor-meva ekinlarining turlari qancha?",
+            options: ["250", "50", "150", "200"],
+            correct: "250",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Eng kalta meva shoxchasi qanday aytiladi?",
+            options: [
+              "xalkali shoxcha",
+              "nayzasimon shoxcha",
+              "ingichka shoxcha",
+              "tup meva shoxcha",
+            ],
+            correct: "xalkali shoxcha",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Hosil qurtaklari bo’lmaydi novdalar.",
+            options: [
+              "o’suvchi novdalar",
+              "tup meva shoxchalar",
+              "regenerativ navdalar",
+              "konkurent novdalar",
+            ],
+            correct: "o’suvchi novdalar",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Meva ekinlarining yashash davrlari nechta?",
+            options: ["to’qqizta", "beshta", "oltita", "sakkizta"],
+            correct: "to’qqizta",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Meva ekinlari eng ko’p hosil beradigan davri.",
+            options: [
+              "hosil berish davri",
+              "daraxt vegetativ qismlarining o’sish davri",
+              "hosil berish va quriy boshlash davri",
+              "qurish o’sish va hosil berish davri",
+            ],
+            correct: "hosil berish davri",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Urug’li meva ekinlarining ko’chat yetishtirish uchun urug’ ekish normasi?",
+            options: [
+              "35-39 kg.ga",
+              "30-33 kg.ga",
+              "40-50 kg.ga",
+              "81-90 kg.ga",
+            ],
+            correct: "35-39 kg.ga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Kuzda mexanik tarkibi еngil tuproqlarda urug’li meva ekinlari urug’ini ekish chuqurligi qancha?",
+            options: ["6.1-7.0 sm", "4.1-5.0 sm", "3.6-4.0 sm", "3.0-3.5 sm"],
+            correct: "6.1-7.0 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Kuzda mexanik tarkibi og’ir tuproqlarda urug’li meva ekinlari urug’ini ekish chuqurligi qancha?",
+            options: ["4.1-5.0 sm", "3.1-4.0 sm", "2.6-3.0 sm", "5.1-6.0 sm"],
+            correct: "4.1-5.0 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Yengil tuproqlarda bahorda urug’li meva ekinlari urug’ini ekish chuqurligi qancha?",
+            options: ["2.0-2.5 sm", "3.2-4.2 sm", "4.5-5.1sm", "5.2-5.5sm"],
+            correct: "2.0-2.5 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Necha yillik qalamchalar kurtak payvand qilinadi?",
+            options: [
+              "Bir yillik",
+              "Ikki yillik",
+              "Uch yillik",
+              "To’rt yillik",
+            ],
+            correct: "Bir yillik",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qalamcha payvand qilishning qulay muddati?",
+            options: ["Fevral", "Yanvar", "Mart", "Aprel"],
+            correct: "Fevral",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Eng ko’p qo’llaniladigan payvand turi?",
+            options: [
+              "kurtak payvand",
+              "qalamcha payvand",
+              "iskana payvand",
+              "tilma payvand",
+            ],
+            correct: "kurtak payvand",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Yer osti sizot suvlarining satxi necha metr bo’lgan dalalar bog’ barpo qilishga ajratiladi?",
+            options: ["4.5-5.0 m", "2.0-2.5 m", "3.0-4.0 m", "5.5-6.0 m"],
+            correct: "4.5-5.0 m",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bog’da meva daraxtlarini joylashtirishning eng ko’p tarqalgan usuli?",
+            options: [
+              "qatorlab usuli",
+              "shaxmat usuli",
+              "to’g’ri burchakli usuli",
+              "kvadratlab usuli",
+            ],
+            correct: "qatorlab usuli",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ko’chat ekish uchun kovlanadigan uralarning kengligi qancha bo’lishi kerak?",
+            options: ["60-75 sm", "50-60 sm", "55-60 sm", "80-90 sm"],
+            correct: "60-75 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Yangi bog’ qator oralariga ekiladigan ekinlar.",
+            options: [
+              "Sabzavot va chopiq qilinadigan ekinlar",
+              "donli ekinlarni ekish",
+              "poliz ekinlarini ekish",
+              "bir yillik o’tlarni ekish",
+            ],
+            correct: "Sabzavot va chopiq qilinadigan ekinlar",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qoplama ekinlarning yana bir nomi nima?",
+            options: ["Sideratlar", "Minaterlar", "Atrazin", "Monomerlar"],
+            correct: "Sideratlar",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qoplama ekinlarga qanday ekinlar kiradi?",
+            options: ["1 yillik", "ko’p yillik", "2 yillik", "buta"],
+            correct: "1 yillik",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qoplama ekinlari qanday o’tlarni o’sishiga yo’l qo’ymadi ?",
+            options: [
+              "begona o’tlarni",
+              "suv o’tlari",
+              "gidrafil o’tlar",
+              "yirik suv o’tlarini",
+            ],
+            correct: "begona o’tlarni",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "1 g yerga ekiladigan qoplama ekinlar qancha yashil massa hosil qiladi?",
+            options: ["250-350s", "450-350s", "600-400 s", "420-360 s"],
+            correct: "250-350s",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bog’dagi begona o’tlarga qarshi qanday moddalardan foydalaniladi ?",
+            options: [
+              "gerbitsit",
+              "pestitsit va simonarsin",
+              "simonarsin va monuranlar",
+              "monuranlar va gerbitsit",
+            ],
+            correct: "gerbitsit",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Danakli mevalilar guruhiga mansub o’simlik turlarini ko’rsating.",
+            options: [
+              "SHaftoli urik.",
+              "Olma nok.bexi",
+              "Anor anjir, bexi.olma.",
+              "Bodom, pista. olma",
+            ],
+            correct: "SHaftoli urik.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Olma,y’ong’oq va o’rik qaysi guruhga mansubligini toping.",
+            options: [
+              "Daraxt-lar.",
+              "Butalar",
+              "Chala butalar.",
+              "Ko’p yillik o’t o’simliklari",
+            ],
+            correct: "Daraxt-lar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Daraxt guruxiga mansubini toping.",
+            options: ["Olma.", "Pista.", "Bodom, pista.", "Anor, pista."],
+            correct: "Olma.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ekinlari ildiz tizimini yеr ustki qismidan ajratuvchi organi qanday nomlanishini belgilang.",
+            options: [
+              "Ildiz bo’g’ini.",
+              "Asosiy shox.",
+              "Tana.",
+              "O’suvchi qismi.",
+            ],
+            correct: "Ildiz bo’g’ini.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bir tup katta Yoshdagi daraxt kuniga necha kg kislorod chiqaradi?.",
+            options: [
+              "2kg.ga yaqin.",
+              "3.5kg.atrofida.",
+              "4-5kg.dan ortiq.",
+              "3.0-3.2 kg.dan kam emas.",
+            ],
+            correct: "2kg.ga yaqin.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’zbekistondagi mevachilikka oid dastlabki tarixiy ma’lumotlar (A.A.Rыbakov ma’lumotlari buyicha) qaysi vaqtlarga borib taqaladi?.",
+            options: [
+              "Eramizdan avvalgi V asrga",
+              "I-II asrlarga",
+              "Eramizning X asriga.",
+              "III-VIII asrlarga.",
+            ],
+            correct: "Eramizdan avvalgi V asrga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mevali o’simliklarni urug’ xosil qiluvchi changchi va urug’chisi unirng qanday a’zolari deb ataladi?.",
+            options: [
+              "Maxsuldor a’zolari.",
+              "Vegetativ a’zolari.",
+              "Mavsumiy a’zolari.",
+              "Asosiy a’zolarining shakl o’zgarishlari.",
+            ],
+            correct: "Maxsuldor a’zolari.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ekinlarini ildizlari kelib chiqishlariga ko’ra necha xil bo’lishini ko’rsating.",
+            options: ["3.xil.", "2 xil.", "4 xil.", "6 xil."],
+            correct: "3.xil.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mevachilik va uning mahsulotlari tarixining qaysi davridan boshlab tovar xususiyatlariga ega bo’lgan?.",
+            options: [
+              "XIX asrga kelib q/x da salmoqli o’rin egallagan.",
+              "V-asrga kelib.",
+              "Oktyabr revolyutsiyasidan sung.",
+              "X-asrdan boshlab.",
+            ],
+            correct: "XIX asrga kelib q/x da salmoqli o’rin egallagan.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mevali o’simliklarni barglarni to’kilishi me’yorida borishi uchun maqbul xarorat qanday bo’lishi kerakligini ko’rsating.",
+            options: [
+              "+15 S dan past bo’lib yorug’lik kam bo’lsa.",
+              "+25 S dan yuqori.",
+              "+10 S atrofida.",
+              "-2-3 S bo’lib qor yog’sa.",
+            ],
+            correct: "+15 S dan past bo’lib yorug’lik kam bo’lsa.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mevali o’simliklarni kichik rivojlanish siklidagi yorug’likka extiyoj sezmaydigan davrini ko’rsating.",
+            options: [
+              "Tinim davrlarida.",
+              "Qarish davirlarida.",
+              "Vegetativ o’sish davrida.",
+              "Gulkurtaklarining shakllanishi davrida",
+            ],
+            correct: "Tinim davrlarida.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’suv mavsumi davomida barglar bilan uralgan xalqali kalta shoxchalar yoki uzun qisqa novda rivojlantiruvchi kurtaklar qanday kurtak deb ataladi?.",
+            options: [
+              "Vegetativ kurtaklar.",
+              "Aralash(vegetativ-generativ)kurtaklar.",
+              "Generativ kurtaklar",
+              "Dormentiv kurtaklar",
+            ],
+            correct: "Vegetativ kurtaklar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ichida bir vaqtning o’zida qo’ltiq kurtaklar, gul va barg boshlang’ichlari bo’ladigan kurtaklar qanday kurtaklar deb ataladi?.",
+            options: [
+              "Genera-tiv kur-taklar.",
+              "Vegetativ kurtaklar.",
+              "Aralash(vegetativ-generativ)kurtaklar.",
+              "Dormentiv kurtaklar",
+            ],
+            correct: "Genera-tiv kur-taklar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Barglar qo’ltig’ida va novdalar asosi tevaragida joylashgan,xajmi jixatdan mayda, ko’p yillar o’sish xususiyatini saqlovchi, shoxlar yo’gonlashgan sari ularning uchi yil sayin uzayadigan kurtaklar nomini ko’rsating.",
+            options: [
+              "Dormentiv kurtaklar.",
+              "Vegetativ kurtaklar.",
+              "Aralash(vegetativ-generativ)kurtaklar.",
+              "Generativ kurtaklar.",
+            ],
+            correct: "Dormentiv kurtaklar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Odatdagidan tashqari joylarda-poya va ildizlarda, ayrim o’simliklarda esa barglarda qo’ltiqdan tashqarida shakllanadigan,poya va ildizlarda po’kak kambiydan,barglarda esa tomirlar kambiysidan chiqadigan kurtaklar qanday kurtaklar bo’ladi?",
+            options: [
+              "Adventiv kurtaklar.",
+              "Vegetativ kurtaklar",
+              "Aralash(vegetativ-generativ)kurtaklar.",
+              "Generativ kurtaklar.",
+            ],
+            correct: "Adventiv kurtaklar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Yonbarglar qo’ltig’idan chiquvchi gul sungari mevalar rivojlanadigan, xajmi jixatdan ancha yirik, yumaloq, kuzda aniq bilsa bo’ladigan kurtaklar meva va rezavor meva ekinlarining qanday kurtaklari deb ataladi?",
+            options: [
+              "Vegetativ kurtaklar.",
+              "Aralash(vegetativ-generativ)kurtaklar.",
+              "Adventiv kurtaklar.",
+              "Dormentiv kurtaklar.",
+            ],
+            correct: "Vegetativ kurtaklar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva va rezavor mevali ekinlarining kurtaklari novda va shoxchalarda joylashishiga qarab qanday xillarga bo’linadi?",
+            options: [
+              "Uchki va yon (qiltiq) kurtaklar.",
+              "Vegetativ kurtaklar",
+              "Aralash(vegetativ-generativ)kurtaklar.",
+              "Adventiv kurtaklar",
+            ],
+            correct: "Uchki va yon (qiltiq) kurtaklar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ekilari tupidagi barcha novda va shoxchalar xosil shoxlaridir. Meva ekinlari xosil shoxlari o’zining tashqi ko’rinishi,tuzilishi va xajmiga ko’ra nechta tipga bo’linadi?",
+            options: [
+              "5 xil tipga.",
+              "3.xil tipga.",
+              "2 xil tipga.",
+              "4 xil tipga.",
+            ],
+            correct: "5 xil tipga.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’zbekiston sharoitida kurtak payvand o’tkazishning urug’li mevalar uchun maqbul muddatlarini ko’rsating.",
+            options: [
+              "1.VIII-1.X.",
+              "1.III-1.IV.",
+              "15.V-1.VI.",
+              "1.VI-15.VII.",
+            ],
+            correct: "1.VIII-1.X.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mexanik tarkibi еngil tuproqlarda kuzda urug’li meva ekinlari urug’ini ekish chuqurligi qancha?",
+            options: ["6.1-7.0 sm", "4.1-5.0 sm", "3.6-4.0 sm", "3.0-3.5 sm"],
+            correct: "6.1-7.0 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mexanik tarkibi og’ir tuproqlarda kuzda urug’li meva ekinlari urug’ini ekish chuqurligi qancha?",
+            options: ["4.1-5.0 sm", "3.1-4.0 sm", "2.6-3.0 sm", "5.1-6.0 sm"],
+            correct: "4.1-5.0 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Yengil tuproqlarda bahorda urug’li meva ekinlari urug’ini ekish chuqurligi qancha?",
+            options: ["2.0-2.5 sm", "3.2-4.2 sm", "4.5-5.1sm", "5.2-5.5 sm"],
+            correct: "2.0-2.5 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qurtak payvandda necha yillik qalamchalardan foydalaniladi?",
+            options: [
+              "Bir yillik",
+              "Ikki yillik",
+              "Uch yillik",
+              "To’rt yillik",
+            ],
+            correct: "Bir yillik",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qalamcha payvand qilishning qulay muddati?",
+            options: ["Fevral", "Yanvar", "Mart", "Aprel"],
+            correct: "Fevral",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Eng ko’p qo’llaniladigan payvand turi?",
+            options: [
+              "kurtak payvand",
+              "qalamcha payvand",
+              "iskana payvand",
+              "tilma payvand",
+            ],
+            correct: "kurtak payvand",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bog’ barpo qilishda yer osti sizot suvlarining satxi necha metr bo’lgan dalalar ajratiladi?",
+            options: ["4.5-5.0 m", "2.0-2.5 m", "3.0-4.0 m", "5.5-6.0 m"],
+            correct: "4.5-5.0 m",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bog’da meva daraxtlarini joylashtirishning eng ko’p tarqalgan usuli?",
+            options: [
+              "qatorlab usuli",
+              "shaxmat usuli",
+              "to’g’ri burchakli usuli",
+              "kvadratlab usuli",
+            ],
+            correct: "qatorlab usuli",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bo’z tuproqli madaniylashgan sug’oriladigan dalalarda ko’chat ekish uchun kovlanadigan uralarning kengligi qancha bo’lishi kerak?",
+            options: ["60-75 sm", "50-60 sm", "55-60 sm", "80-90 sm"],
+            correct: "60-75 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Daraxtsimon ko’chat ekish uchun kovlanadigan uralarining chuqurligi qancha bo’lishi kerak?",
+            options: ["60-70 sm", "50-55 sm", "55-60 sm", "57-59 sm"],
+            correct: "60-70 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ko’chat o’tqazish taxtasining uzunligi qancha bo’lishi kerak?",
+            options: ["1.5-2.0 m", "2.6-2.9 sm", "3.0-3.1 sm", "3.5-4.0 sm"],
+            correct: "1.5-2.0 m",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva daraxtlari ekilgan maydonlarda issiqning pasayish miqdori darajasini ko’rsating.",
+            options: [
+              "6.0-10.0 daraja",
+              "1.0-2.5 daraja",
+              "2.0-2.9 daraja",
+              "15.0-20.0 daraja",
+            ],
+            correct: "6.0-10.0 daraja",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Olma tarkibida necha foiz suv buladi?",
+            options: ["80,5-86,5", "70,3-78,0", "70,5-77,5", "72,5-75,5"],
+            correct: "80,5-86,5",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva urug’i saqlanayotgan bino xarorati necha darajadan oshib ketmasligi kerak?",
+            options: ["+150S", "+220S", "+200S", "+250S"],
+            correct: "+150S",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bir gektar bog’dan 150 ts. xosil olinsa qancha o’git solinadi?",
+            options: [
+              "azot 150 fosfor 100 kaliy 15-30 kg.",
+              "azot 50,fosfor 20,kaliy 10 kg.",
+              "azot 25 fosfor 30, kaliy 15 kg.",
+              "azot 200 fosfor 100 kaliy 100 kg.",
+            ],
+            correct: "azot 150 fosfor 100 kaliy 15-30 kg.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Daraxtlar qaysi muddatlarda butalaydi?",
+            options: [
+              "kuz-qishda, qish-baxorda, yozda.",
+              "Kuzda",
+              "Qishda",
+              "Yozda",
+            ],
+            correct: "kuz-qishda, qish-baxorda, yozda.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "O’zbekistonda rezavor mevalardan qaysilari ekiladi?",
+            options: [
+              "Qulupnay, malina, qora smoridina,",
+              "anor, kulupnay",
+              "malina, anjir",
+              "qora smoridina, limon",
+            ],
+            correct: "Qulupnay, malina, qora smoridina,",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "1 kg mayiz necha kaloriya energiya beradi?",
+            options: [
+              "1500-2000 kal.",
+              "2500-3000 kal.",
+              "3250-3400 kal.",
+              "3400 va undan ortik.",
+            ],
+            correct: "1500-2000 kal.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Kurtak payvand necha usulda kilinadi?",
+            options: [
+              "5 usul: po’sti, yogochligi, yogochsizlik xolda, naychasi, kambiysi bilan",
+              "3 usul: yogochligi bilan, yogochsizlik va naychasi bilan.",
+              "2 usul: yogochligi va naychasi bilan",
+              "4 usul: yogochligi, novdasi, yogochsizlik va naychasi bilan",
+            ],
+            correct:
+              "5 usul: po’sti, yogochligi, yogochsizlik xolda, naychasi, kambiysi bilan",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva daraxtlarini shox-shabbasi necha gradus sovuqda butash tavsiya etilmaydi?",
+            options: ["- 0 – 1 S", "- 5 – 10 S", "- 3 – 5 S", "- 5 – 10 S"],
+            correct: "- 0 – 1 S",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Aholi jon boshiga yiliga necha kg meva istemol qilinishi kerak?",
+            options: ["115-120", "300- 400", "130-250", "160-150"],
+            correct: "115-120",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’zbekistonda meva va rezavor mevalarning nechta turi uchraydi?",
+            options: ["108", "150", "200", "250"],
+            correct: "108",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Yangi navlar chiqarish va payvantaglar yetishtirish uchun qanday yo’ldan ko’paytirish kerak",
+            options: ["Urug’idan", "jinssiz.", "parxesh", "tugunagidan"],
+            correct: "Urug’idan",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Olxo’ri uchun payvantagning nomini ayting?",
+            options: ["sugdiyona", "antipka", "anglebla", "manglebka."],
+            correct: "sugdiyona",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Transplantatsiya qanday ko’paytirish?",
+            options: [
+              "payvand qilib kòpaytirish.",
+              "qalamchasidan kòpaytirish",
+              "kurtak yordamida kòpaytirish",
+              "ildiz bachkisidan kòpaytirish",
+            ],
+            correct: "payvand qilib kòpaytirish.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Payvandlashning nechtadan ortiq turi mavjud?",
+            options: [
+              "150 dan ortiq",
+              "150 ga yaqin",
+              "150 ta",
+              "151 dan ortiq",
+            ],
+            correct: "150 dan ortiq",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Kuchli o’sadigan payvantagni asosan qaysi usulda ko’paytiriladi?",
+            options: ["Uruģidan", "Jinsiy", "Parxesh", "Qalamchasi"],
+            correct: "Uruģidan",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qoplama ekinlarga qanday ekinlar kiradi?",
+            options: ["1 yillik", "ko’p yillik", "2 yillik", "buta"],
+            correct: "1 yillik",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qoplama ekinlari qanday o’tlarni o’sishiga yo’l qo’ymadi ?",
+            options: [
+              "begona o;tlarni",
+              "suv o’tlari",
+              "gidrafil o’tlar",
+              "yirik suv o’tlarini",
+            ],
+            correct: "begona o;tlarni",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "1 g yerga ekiladigan qoplama ekinlar qancha yashil massa hosil qiladi?",
+            options: ["250-350s", "450-350s", "600-400 s", "420-360 s"],
+            correct: "250-350s",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bog’dagi begona o’tlarga qarshi qanday moddalardan foydalaniladi ?",
+            options: [
+              "gerbitsit",
+              "pestitsit va simonarsin",
+              "simonarsin va monuranlar",
+              "monuranlar va gerbitsit",
+            ],
+            correct: "gerbitsit",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "O’zbekistonda necha xil sug’orish usuli mavjud ?",
+            options: ["4 xil", "7 xil", "5 xil", "6 xil"],
+            correct: "4 xil",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Sho’r yerlarni sug’orishda qo’llaniladigan sug’orish nomi?",
+            options: [
+              "Pol olib sug;orish",
+              "Prosterib sug’orish",
+              "Jildiratib sug’orib",
+              "Xalqa hosil qilib sug’orish",
+            ],
+            correct: "Pol olib sug;orish",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qanday yerlarni bostirib sug’oriladi ?",
+            options: [
+              "Teris relefli yerlrni",
+              "Chala teris yerlarni",
+              "Chuqurligi ko’p yerlarni",
+              "Ag’darilgan yerlarni",
+            ],
+            correct: "Teris relefli yerlrni",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Yosh bog’larda qanday sug’orish amalga oshiriladi ?",
+            options: [
+              "halqasimon ariqchalar yardamida",
+              "tekis sug’orish",
+              "jildiratib sug’orish",
+              "bostirib sug’orish",
+            ],
+            correct: "halqasimon ariqchalar yardamida",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Bog’larni sug’orishda yangi usullar qaysilar ?",
+            options: [
+              "tomchilatib sugorish",
+              "xalqasimon sug’orish",
+              "bostirib sug’orish",
+              "jildiratib sug’orish",
+            ],
+            correct: "tomchilatib sugorish",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva daraxtlarga ta’sir etadigan eng aktiv agratexnik usullari qaysi?",
+            options: ["butash", "sug’orish", "o’stirish", "tog’ri javob yo’q"],
+            correct: "butash",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Daraxtlarni butash mevalarni necha % ga yiriklashtiradi ?",
+            options: ["21%", "33 %", "25%", "30 %"],
+            correct: "21%",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’simliklarga qanday ishlov berilsa sovuqqa chidamliligi ham ortadi ?",
+            options: ["Butash", "suv berib", "og’it berilsa", "komilsa"],
+            correct: "Butash",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Fotosintezning asosiy omili nima",
+            options: ["Yorug’lik", "Namlik", "Tuproq", "Barchasi"],
+            correct: "Yorug’lik",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Yorug’lik o’simlikning qaysi barglariga ko’proq tushadi",
+            options: [
+              "Shox shabbaning yuqori yarusdagi barglariga",
+              "Yon tomondagi barglarga",
+              "Shoh shabbaning pastki yarusdagi barglariga",
+              "To’g’ri javob yo’q",
+            ],
+            correct: "Shox shabbaning yuqori yarusdagi barglariga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Er yuzida qancha meva va rezavor-meva ekinlarining turlari uchraydi?",
+            options: ["250 turi", "50 turi", "150 turi", "200 turi"],
+            correct: "250 turi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva urug’i saqlanayotgan bino xarorati necha darajadan oshib ketmasligi kerak?",
+            options: ["+150S", "+220S", "+200S", "+250S"],
+            correct: "+150S",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qalamchalar 12 soat suvga solib qo’yilsa ildiz olishi necha foizga oshadi?",
+            options: ["10-15%", "21-29%", "25-30%", "28-31%"],
+            correct: "10-15%",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Вir odam uchun kunlik meva maxsulotlari iste’mol me’уori",
+            options: ["330-400g", "90-130 g", "250-450 g", "600-750 g"],
+            correct: "330-400g",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Вir odam uchun yillik meva iste’mol me’уori",
+            options: ["180-200kg", "115-120 kg", "250-300 kg", "60-80 kg"],
+            correct: "180-200kg",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Kuniga daraxtlar qancha (kg.ga) karbonat angidrit yutadi?.",
+            options: ["8 kg", "3 kg", "6 kg", "10 kg"],
+            correct: "8 kg",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Olma mevasida qaysi vitamin ko’p?",
+            options: ["Vitamin S", "Vitamin A", "Vitamin V", "Vitamin P"],
+            correct: "Vitamin S",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Meva bog’larida xavo namligining nisbiy darajasi.",
+            options: ["30-40 %", "10-15 %", "8-12 %", "20-28 %"],
+            correct: "30-40 %",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva o’simliklari botanik xususiyatlariga ko’ra necha gruhga bo’linadi?.",
+            options: ["5 guruxga", "7 guruxga.", "6 guruxga.", "4 guruxga."],
+            correct: "5 guruxga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Keltirilgan o’simliklarning qaysilari urug’mevalilar guruhiga mansub?.",
+            options: [
+              "Olma, nok,bexi.",
+              "Shaftoli,o’rik,nok.",
+              "Anor, anjir, bexi,olma",
+              "Bodom, pista.",
+            ],
+            correct: "Olma, nok,bexi.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Keltirilgan o’simliklarning qaysilari danakmevalilar guruhiga mansub?.",
+            options: [
+              "SHaftoli o’rik.",
+              "Olma nok.bexi",
+              "Anor anjir, bexi.olma.",
+              "Bodom, pista. olma",
+            ],
+            correct: "SHaftoli o’rik.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Olma va o’rik qaysi guruhga mansubligini toping.",
+            options: [
+              "Daraxt-lar.",
+              "Butalar",
+              "Chala butalar.",
+              "Ko’p yillik o’t o’simliklari",
+            ],
+            correct: "Daraxt-lar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ekinlari ildiz tizimini yеr ustki qismidan ajratuvchi organi.",
+            options: [
+              "Ildiz bo’g’ini.",
+              "Asosiy shox.",
+              "Tana.",
+              "O’suvchi qismi.",
+            ],
+            correct: "Ildiz bo’g’ini.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Bir tup daraxt kuniga necha kg kislorod chiqaradi?.",
+            options: [
+              "2kg.ga yaqin.",
+              "3.5kg.atrofida.",
+              "4-5kg.dan ortiq.",
+              "3.0-3.2 kg.dan kam emas.",
+            ],
+            correct: "2kg.ga yaqin.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva va rezavor-meva ekinlari qancha botaniq oilaga mansub?.",
+            options: ["50-oilaga", "40-oilaga", "60-oilaga", "70 –oilaga"],
+            correct: "50-oilaga",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Yer osti sizot suvlarining satxi necha metr bo’lgan dalalar bog’ barpo qilishga ajratiladi?",
+            options: ["4.5-5.0 m", "2.0-2.5 m", "3.0-4.0 m", "5.5-6.0 m"],
+            correct: "4.5-5.0 m",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bog’da meva daraxtlarini joylashtirishning eng ko’p tarqalgan usuli?",
+            options: [
+              "qatorlab usuli",
+              "shaxmat usuli",
+              "to’g’ri burchakli usuli",
+              "kvadratlab usuli",
+            ],
+            correct: "qatorlab usuli",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ko’chat ekish uchun kovlanadigan uralarning kengligi qancha bo’lishi kerak?",
+            options: ["60-75 sm", "50-60 sm", "55-60 sm", "80-90 sm"],
+            correct: "60-75 sm",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Yangi bog’ qator oralariga ekiladigan ekinlar.",
+            options: [
+              "sabzavot va chopiq qilinadigan ekinlar",
+              "donli ekinlarni ekish",
+              "poliz ekinlarini ekish",
+              "bir yillik o’tlarni ekish",
+            ],
+            correct: "sabzavot va chopiq qilinadigan ekinlar",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qoplama ekinlarning yana bir nomi nima?",
+            options: ["Sideratlar", "Minaterlar", "Atrazin", "Monomerlar"],
+            correct: "Sideratlar",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Qoplama ekinlarga qanday ekinlar kiradi?",
+            options: ["1 yillik", "ko’p yillik", "2 yillik", "buta"],
+            correct: "1 yillik",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qoplama ekinlari qanday o’tlarni o’sishiga yo’l qo’ymadi ?",
+            options: [
+              "begona o’tlarni",
+              "suv o’tlari",
+              "gidrafil o’tlar",
+              "yirik suv o’tlarini",
+            ],
+            correct: "begona o’tlarni",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "1 g yerga ekiladigan qoplama ekinlar qancha yashil massa hosil qiladi?",
+            options: ["250-350s", "450-350s", "600-400 s", "420-360 s"],
+            correct: "250-350s",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bog’dagi begona o’tlarga qarshi qanday moddalardan foydalaniladi ?",
+            options: [
+              "gerbitsit",
+              "pestitsit va simonarsin",
+              "simonarsin va monuranlar",
+              "monuranlar va gerbitsit",
+            ],
+            correct: "gerbitsit",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Кunlik meva maxsulotlari iste’mol me’уori bir odam uchun (o’rtacha) qancha bo’lishi lozim?.",
+            options: ["330-400g", "90-130 g", "250-450 g", "600-750 g"],
+            correct: "330-400g",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva maxsulotlarini yillik iste’moli me’уorini belgilang.",
+            options: ["180-200kg", "115-120 kg", "250-300 kg", "60-80 kg"],
+            correct: "180-200kg",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Bir gektar bog'dagi daraxtlar yozda kuniga qancha karbonat angidrit yutadi?.",
+            options: ["8 kg", "3 kg", "6 kg", "10 kg"],
+            correct: "8 kg",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question: "Olma tarkibida qaysi vitamin ko’p?",
+            options: ["Vitamin S", "Vitamin A", "Vitamin V", "Vitamin P"],
+            correct: "Vitamin S",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva daraxtlari maydonlarida xavo namligining nisbiy darajasini ko’rsating.",
+            options: ["30-40 %", "10-15 %", "8-12 %", "20-28 %"],
+            correct: "30-40 %",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mevali o’simliklarni barglarni to’kilishi me’yorida borishi uchun maqbul xarorat qanday bo’lishi kerakligini ko’rsating.",
+            options: [
+              "+15 S dan past bo’lib yorug’lik kam bo’lsa.",
+              "+25 S dan yuqori.",
+              "+10 S atrofida.",
+              "-2-3 S bo’lib qor yog’sa.",
+            ],
+            correct: "+15 S dan past bo’lib yorug’lik kam bo’lsa.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mevali o’simliklarni kichik rivojlanish siklidagi yorug’likka extiyoj sezmaydigan davrini ko’rsating.",
+            options: [
+              "Tinim davrlarida.",
+              "Qarish davirlarida.",
+              "Vegetativ o’sish davrida.",
+              "Gulkurtaklarining shakllanishi davrida",
+            ],
+            correct: "Tinim davrlarida.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva o’simliklarining kurtaklari xarorat necha daraja bo’lganda yozila boshlaydi?",
+            options: [
+              "5-10 darajada.",
+              "2.5-5.4 darajada",
+              "10-15 darajada",
+              "60-65 darajagacha",
+            ],
+            correct: "5-10 darajada.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Respublikamizda o’stiriladigan meva turlaridan qaysilari namsevar xisoblanadi?.",
+            options: [
+              "Danak mevalilar va Yongok mevalilar.",
+              "Unabi(chilonjiyda)va tok usimligi.",
+              "Gilos.yongok.bodom.",
+              "Pista va zaytun.",
+            ],
+            correct: "Danak mevalilar va Yongok mevalilar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qurg’oqchilikka chidamli mevali o’simliklar turlari qaysi javobda to’gri berilgan?",
+            options: [
+              "Xurmo,bodom,unabi(chilonjiyda),behi.",
+              "Malina. qora smorodina.klupnay.",
+              "Olma.nok.behi.",
+              "SHaftoli.olxo’ri.o’rik.",
+            ],
+            correct: "Xurmo,bodom,unabi(chilonjiyda),behi.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Havo xarorati necha daraja bo’lsa, meva o’simliklarini gul lashi uchun noqulay hisoblanadi?.",
+            options: [
+              "8 darajadan past bo’lganda.joyning sharoiti va o’stirish agrotexnikasiga bog’lik xolda.",
+              "15-20 darajadan yuqori bo’lishligi,o’stirish agrotexnikasiga bog’lik xolda.",
+              "10-15 daraja atrofida bo’lishligi.",
+              "5 darajadan past bo’lganda.joyning sharoiti axamiyatsiz.",
+            ],
+            correct:
+              "8 darajadan past bo’lganda.joyning sharoiti va o’stirish agrotexnikasiga bog’lik xolda.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Tinim fenofazasi olma va nok uchun necha kun bo’lishi kerak?",
+            options: [
+              "Ular uchun 50-60 kun kerak bo’ladi.",
+              "Ular uchun 30-40 kun kerak bo’ladi.",
+              "Ular uchun 70-80 kun kerak bo’ladi.",
+              "Ular uchun 1 oy kerak bo’ladi.",
+            ],
+            correct: "Ular uchun 50-60 kun kerak bo’ladi.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva o’simliklari o’suv fenofazasi nechta fazaga bo’linadi?",
+            options: [
+              "O’suv fenofazasi 9 ta davrga bo’linadi",
+              "O’suv fenofazasi 5ta fazadan iborat",
+              "O’suv fenofazasi 3 ta fazaga bo’linadi",
+              "Murtaklik,embrional,maxsuldorlik bosqichlariga bo’linadi.",
+            ],
+            correct: "O’suv fenofazasi 9 ta davrga bo’linadi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Mevali daraxtlarning bevosita tanasidan chikib daraxtning shox shabasi o’zagini(asosini) tashkil qiluvchi eng yirik shoxlar nomi ko’rsatilgan javobni toping.",
+            options: [
+              "SHox-shabba.",
+              "Asosiy shox.",
+              "O’suvchi qismi.",
+              "Ildiz buyni.",
+            ],
+            correct: "SHox-shabba.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’suv mavsumi davomida barglar bilan uralgan xalqali kalta shoxchalar yoki uzun qisqa novda rivojlantiruvchi kurtaklar qanday kurtak deb ataladi?.",
+            options: [
+              "Vegetativ kurtaklar.",
+              "Aralash(vegetativ-generativ)kurtaklar.",
+              "Generativ kurtaklar",
+              "Dormentiv kurtaklar",
+            ],
+            correct: "Vegetativ kurtaklar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ichida bir vaqtning o’zida qo’ltiq kurtaklar, gul va barg boshlang’ichlari bo’ladigan kurtaklar qanday kurtaklar deb ataladi?.",
+            options: [
+              "Genera-tiv kur-taklar.",
+              "Vegetativ kurtaklar.",
+              "Aralash(vegetativ-generativ)kurtaklar.",
+              "Dormentiv kurtaklar",
+            ],
+            correct: "Genera-tiv kur-taklar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Barglar qo’ltig’ida va novdalar asosi tevaragida joylashgan,xajmi jixatdan mayda, ko’p yillar o’sish xususiyatini saqlovchi, shoxlar yo’gonlashgan sari ularning uchi yil sayin uzayadigan kurtaklar nomini ko’rsating.",
+            options: [
+              "Dormentiv kurtaklar.",
+              "Vegetativ kurtaklar.",
+              "Aralash(vegetativ-generativ)kurtaklar.",
+              "Generativ kurtaklar.",
+            ],
+            correct: "Dormentiv kurtaklar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Odatdagidan tashqari joylarda-poya va ildizlarda, ayrim o’simliklarda esa barglarda qo’ltiqdan tashqarida shakllanadigan,poya va ildizlarda po’kak kambiydan,barglarda esa tomirlar kambiysidan chiqadigan kurtaklar qanday kurtaklar bo’ladi?",
+            options: [
+              "Adventiv kurtaklar.",
+              "Vegetativ kurtaklar",
+              "Aralash(vegetativ-generativ)kurtaklar.",
+              "Generativ kurtaklar.",
+            ],
+            correct: "Adventiv kurtaklar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Yonbarglar qo’ltig’idan chiquvchi gul sungari mevalar rivojlanadigan, xajmi jixatdan ancha yirik, yumaloq, kuzda aniq bilsa bo’ladigan kurtaklar meva va rezavor meva ekinlarining qanday kurtaklari deb ataladi?",
+            options: [
+              "Vegetativ kurtaklar.",
+              "Aralash(vegetativ-generativ)kurtaklar.",
+              "Adventiv kurtaklar.",
+              "Dormentiv kurtaklar.",
+            ],
+            correct: "Vegetativ kurtaklar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva va rezavor mevali ekinlarining kurtaklari novda va shoxchalarda joylashishiga qarab qanday xillarga bo’linadi?",
+            options: [
+              "Uchki va yon (qiltiq) kurtaklar.",
+              "Vegetativ kurtaklar",
+              "Aralash(vegetativ-generativ)kurtaklar.",
+              "Adventiv kurtaklar",
+            ],
+            correct: "Uchki va yon (qiltiq) kurtaklar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva ekilari tupidagi barcha novda va shoxchalar xosil shoxlaridir. Meva ekinlari xosil shoxlari o’zining tashqi ko’rinishi,tuzilishi va xajmiga ko’ra nechta tipga bo’linadi?",
+            options: [
+              "5 xil tipga.",
+              "3.xil tipga.",
+              "2 xil tipga.",
+              "4 xil tipga.",
+            ],
+            correct: "5 xil tipga.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’zbekiston sharoitida kurtak payvand o’tkazishning urug’li mevalar uchun maqbul muddatlarini ko’rsating.",
+            options: [
+              "1.VIII-1.X.",
+              "1.III-1.IV.",
+              "15.V-1.VI.",
+              "1.VI-15.VII.",
+            ],
+            correct: "1.VIII-1.X.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Respublikamizda o’stiriladigan meva turlaridan qaysilari namsevar xisoblanadi?.",
+            options: [
+              "Danak mevalilar va Yongok mevalilar.",
+              "Unabi(chilonjiyda)va tok usimligi.",
+              "Gilos.yongok.bodom.",
+              "Pista va zaytun.",
+            ],
+            correct: "Danak mevalilar va Yongok mevalilar.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Qurg’oqchilikka chidamli mevali o’simliklar turlari qaysi javobda to’gri berilgan?",
+            options: [
+              "Xurmo,bodom,unabi(chilonjiyda),behi.",
+              "Malina. qora smorodina.klupnay.",
+              "Olma.nok.behi.",
+              "SHaftoli.olxo’ri.o’rik.",
+            ],
+            correct: "Xurmo,bodom,unabi(chilonjiyda),behi.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Havo xarorati necha daraja bo’lsa, meva o’simliklarini gul lashi uchun noqulay hisoblanadi?.",
+            options: [
+              "8 darajadan past bo’lganda.joyning sharoiti va o’stirish agrotexnikasiga bog’lik xolda.",
+              "15-20 darajadan yuqori bo’lishligi,o’stirish agrotexnikasiga bog’lik xolda.",
+              "10-15 daraja atrofida bo’lishligi.",
+              "5 darajadan past bo’lganda.joyning sharoiti axamiyatsiz.",
+            ],
+            correct:
+              "8 darajadan past bo’lganda.joyning sharoiti va o’stirish agrotexnikasiga bog’lik xolda.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Tinim fenofazasi olma va nok uchun necha kun bo’lishi kerak?",
+            options: [
+              "Ular uchun 50-60 kun kerak bo’ladi.",
+              "Ular uchun 30-40 kun kerak bo’ladi.",
+              "Ular uchun 70-80 kun kerak bo’ladi.",
+              "Ular uchun 1 oy kerak bo’ladi.",
+            ],
+            correct: "Ular uchun 50-60 kun kerak bo’ladi.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva o’simliklari o’suv fenofazasi nechta fazaga bo’linadi?",
+            options: [
+              "O’suv fenofazasi 9 ta davrga bo’linadi",
+              "O’suv fenofazasi 5ta fazadan iborat",
+              "O’suv fenofazasi 3 ta fazaga bo’linadi",
+              "Murtaklik,embrional,maxsuldorlik bosqichlariga bo’linadi.",
+            ],
+            correct: "O’suv fenofazasi 9 ta davrga bo’linadi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Meva daraxtlarida kuchli o’suvchi ammo son jixatdan kam xosil bo’luvchi qismlari qaysi organni shoxlanishiga olib keladi?",
+            options: [
+              "O’rinbosar novdalarni shoxlanishiga olib keladi",
+              "Ildizbachkilarni xosil bo’lishiga olib keladi.",
+              "Yon shoxlarni o’sishiga va kurtaklarni xosil bo’lishiga olib keladi.",
+              "Yarim asosiy shoxlarni tarmoqlanishiga olib keladi.",
+            ],
+            correct: "O’rinbosar novdalarni shoxlanishiga olib keladi",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "Ko’chatzorlarning shakl berish uchastkasi dalalari uchun tavsiya etiladigan taxminiy almashlab ekish shakllarini ko’rsating.",
+            options: [
+              "7-8-9 dalali",
+              "5-11-12 dalali",
+              "6-10-11 dalali",
+              "3-4-5 dalali",
+            ],
+            correct: "7-8-9 dalali",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+          {
+            question:
+              "O’zbekiston sharoitida dengiz satxidan qancha balandlikda sun’iy sugorilmaydigan mevali bog barpo qilish mumkin?.",
+            options: ["1000-1500 m.", "900-800 m.", "850-880 m.", "500-550 m."],
+            correct: "1000-1500 m.",
+            source: "Meva mahsulotlari texnologiyasi",
+          },
+        ],
+        "Tok yetishtirish texnologiyasi": [
+          {
+            question: "Ildiz tukchalari necha kun yashaydi?",
+            options: ["10-20", "2-3", "1-2", "5-6"],
+            correct: "10-20",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Nav uchun xarakterli bo‘lgan barglar, odatda novdaning nechanchi bo‘g‘imida joylashadi?",
+            options: ["8-12", "6-7", "8-9", "3-4"],
+            correct: "8-12",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok - qimmatbaho ___________ o‘simlik?.",
+            options: [
+              "subtropik",
+              "tropik",
+              "qurg'oqchilikka chidamli",
+              "manzarali",
+            ],
+            correct: "subtropik",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Pishib yetilgan uzum tarkibida, ayniqsa kishmish navlarida organizm tomonidan tez o‘zlashtiriladigan qandlar miqdori necha % ni tashkil qiladi?",
+            options: ["28-30%gacha", "20-25", "35-40", "30-40"],
+            correct: "28-30%gacha",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning yana bir biologik xususiyati, undagi ________dir. Bo‘ylama (tik), enlama (yassi) yoki dorzivental _______lar bo‘ladi?",
+            options: [
+              "qutblilik",
+              "fotosintez qilishi",
+              "barg hosil qilishi",
+              "gullashi",
+            ],
+            correct: "qutblilik",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok yuqori darajada kallus va ildiz hosil qilish xususiyatiga ega. Shuning uchun uni ________ usulda ko‘paytirish qulay?",
+            options: ["vegetativ", "urug'idan", "qalamchadan", "bargidan"],
+            correct: "vegetativ",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok tuzilishiga ko‘ra qanday organlardan tashkil topgan.?",
+            options: [
+              "vegetativ va reproduktiv",
+              "vegetativ",
+              "ildiz poya barg",
+              "meva va urug'",
+            ],
+            correct: "vegetativ va reproduktiv",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Generativ (reproduktiv) organlarga to‘pgul, gul, shingil, g‘ujum va _____lar kiradi?",
+            options: ["urug'", "ildiz", "barg", "novda"],
+            correct: "urug'",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Ildizlar tuzilishi va joylashishiga qarab necha guruhga bo‘linadi?",
+            options: ["3", "4", "2", "6"],
+            correct: "3",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Shudring shimuvchi yoki patak ildizlar - poya yer ostki qismining yuqori, asosan tuproqning _________ sm.li haydal-ma qatlamida rivojlanadi?",
+            options: ["15-25", "5-10", "20-35", "30-40"],
+            correct: "15-25",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Ildiz tukchalari necha kun yashaydi?",
+            options: ["10-20", "2-3", "1-2", "5-6"],
+            correct: "10-20",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok ildizlarida tinim davri qachon bo‘ladi?",
+            options: ["bo'lmaydi", "Kuzda", "Tinim davrida", "Yozda"],
+            correct: "bo'lmaydi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Kalta (2-3 kurtak qoldirib) kesilgan novda qanday nomlanadi ?",
+            options: [
+              "o‘rinbosar novda",
+              "hosilli novda",
+              "hosilsiz novda",
+              "meva zvenosi",
+            ],
+            correct: "o‘rinbosar novda",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Auksinlar yordamida yon kurtaklar rivojlanishini ____________, ildizlar o‘sishini ________ mumkin?",
+            options: [
+              "to‘xtatish, kuchaytirish",
+              "to'xtatish, tezlatish",
+              "sekinlatish, jadallashtirish",
+              "kuchaytirish, to'xtatish",
+            ],
+            correct: "to‘xtatish, kuchaytirish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Gibberellinlar yordamida novda va mevalarning o‘sishini ______ mumkin?",
+            options: [
+              "Jadallashtirish",
+              "To'xtatish",
+              "Susaytirish",
+              "Vaqtincha to'xtatish",
+            ],
+            correct: "Jadallashtirish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "__________ - novdaning tinch holatdagi ko‘rinishi?",
+            options: ["Kurtaklar", "barg", "meva", "ildiz"],
+            correct: "Kurtaklar",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Kurtaklar ikkita vazifani bajaradi: o‘sish va o‘sishni tiklash; ____________.",
+            options: [
+              "vegetativ ko‘payish",
+              "generativ ko'payish",
+              "meva hosil qilish",
+              "jingalaklar hosil qilish",
+            ],
+            correct: "vegetativ ko‘payish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "O‘zbekiston Respublikasida uzumning qaysi navlari oborigen navlar hisoblanadi",
+            options: [
+              "Rizamat, Husayni, Qora kishmish",
+              "Saperavi, Xindognыy , Rizamat",
+              "Rkatsiteli, Rislin, Xusayni",
+              "Kora pino, Xindognыy, Kora kishmish",
+            ],
+            correct: "Rizamat, Husayni, Qora kishmish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Noqulay sharoitlarga chidamli navlarni yaratishda e’tiborli duragaylash xili-bu:",
+            options: [
+              "Turlararo duragaylash",
+              "Turkumlararo duragaylash",
+              "Navlararo duragaylash",
+              "Navlar ichida duraygaylash",
+            ],
+            correct: "Turlararo duragaylash",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Kishmishbop navlarga qaysi navlar kiradi?",
+            options: [
+              "Qara kishmish",
+              "Pushti kishmish",
+              "Oq kishmish",
+              "Vir kishmish",
+            ],
+            correct: "Qara kishmish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Xosil navdaning nechanchi bugimida odatda sho‘ra paydo bo‘ladi?",
+            options: ["3", "3-6", "8-10", "12-14"],
+            correct: "3",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Introduksiya-bu",
+            options: [
+              "Uzum navlari olib kiriladigan mintaqa yoki joyning tuproq-iqlim sharoitlarini o‘rganish, introduksion navlarning biologik xususiyatlarini baxolash",
+              "Introduksion navlarning biologik xususiyatlarini baxolash",
+              "Introduksiyaning nazariy va amaliy tomonlarini oldindan belgilash",
+              "Uzum navlari olib kiriladigan mintaqa yoki joyning tuproq-iqlim sharoitlarini o‘rganish",
+            ],
+            correct:
+              "Uzum navlari olib kiriladigan mintaqa yoki joyning tuproq-iqlim sharoitlarini o‘rganish, introduksion navlarning biologik xususiyatlarini baxolash",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Barg qo‘ltigidan o‘sib chiqan navda nima deb ataladi?",
+            options: [
+              "Qultiq navda",
+              "Bachki navda",
+              "Tikan navda",
+              "O‘rin bosar navda",
+            ],
+            correct: "Qultiq navda",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Qishlovchi kurtakda nima jaylashgan?",
+            options: ["Barg", "jingalak", "SHo‘ra", "Gujim"],
+            correct: "Barg",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Uzum navlari, asosan baxolanadi?",
+            options: [
+              "Morfologik tomondan , orgonoleptik tomondan",
+              "Orgonoleptik tomondan",
+              "Xo‘jalik belgilari tomondan",
+              "Morfologik tomondan",
+            ],
+            correct: "Morfologik tomondan , orgonoleptik tomondan",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Navdadagi qaysi kurtaklar serxosil bo‘ladi?",
+            options: [
+              "5-12.kurtaklar",
+              "2-4.kurtaklar",
+              "2-4.kurtaklar",
+              "21-25 kurtaklar",
+            ],
+            correct: "5-12.kurtaklar",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok nechta fenofazani o‘taydi?",
+            options: ["6", "4", "5", "7"],
+            correct: "6",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning o‘suv davrida qaysi faza uchinchi xisoblanadi?",
+            options: [
+              "Gullash",
+              "Kurtak yozilishi va navdalarning o‘sishi",
+              "Shira xarakati",
+              "Mevalarning tuzilishi",
+            ],
+            correct: "Gullash",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning o‘suv davrida qaysi faza ikkinchi xisoblanadi?",
+            options: [
+              "Kurtakni yozishi va navdalarni o‘sishi",
+              "Gullash",
+              "Shira xarakati",
+              "Mevalarning tuzilishi",
+            ],
+            correct: "Kurtakni yozishi va navdalarni o‘sishi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning qalamchalari saqlanadigan maxsus qazilgan chuqurlari o‘lchami qanday bo‘ladi?",
+            options: [
+              "eni 1.5-2 m, chuqurligi 60-70 sm,uzunligi qalamchalar soniga bog‘liq bo‘ladi",
+              "eni 1.8-2.2m, chuqurligi 90-120 sm, uzunligi qalamchalar soniga bog‘liq bo‘ladi",
+              "eni 2.1-2.4 m, chuqurligi 30-40 sm, uzunligi qalamchalar soniga bog‘liq bo‘ladi",
+              "eni 1.10-1.2 m, chuqurligi 15.-20 sm,uzunligi qalamchalar soniga bog‘liq bo‘ladi",
+            ],
+            correct:
+              "eni 1.5-2 m, chuqurligi 60-70 sm,uzunligi qalamchalar soniga bog‘liq bo‘ladi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok qalamchalari qanday sxemada ekiladi?",
+            options: ["80x10 sm", "60x15-20 sm", "90x15 sm", "50x10 sm"],
+            correct: "80x10 sm",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok ko‘chatzorining 1 gektariga necha ming dona qalamcha ekiladi?",
+            options: [
+              "110-125 ming",
+              "130-140 ming",
+              "80-90 ming",
+              "60-70 ming",
+            ],
+            correct: "110-125 ming",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok qalamchalarini erta bahorda ekish uchun eng yaxshi muddat qachon hisoblanadi?",
+            options: [
+              "20 martdan 10 aprelgacha",
+              "10 fevraldan 20 fevralgacha",
+              "20 apreldan 10 maygacha",
+              "10 maydan 20 maygacha",
+            ],
+            correct: "20 martdan 10 aprelgacha",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Ko‘chatzorda aprobatsiya qachon o‘tkaziladi?",
+            options: ["sentyabr", "iyun", "avgust", "oktyabr"],
+            correct: "sentyabr",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok ko‘chatlari qachon kovlab olinadi?",
+            options: ["oktyabr", "noyabr", "sentyabr", "avgust"],
+            correct: "oktyabr",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok ko‘chatlari katta kichikligiga qarab nechta guruhga bo‘linadi?",
+            options: ["3 ta", "5 ta", "2ta", "6ta"],
+            correct: "3 ta",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Lalmi tokzorlarni yillik yog‘ingarchiligi miqdori necha mm dan kam bo‘lmaganda tashkil qilish mumkin?",
+            options: ["450-500 mm", "300-350 mm", "200-280 mm", "100-180 mm"],
+            correct: "450-500 mm",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Uzumning qaysi navlari eng ertapishar navlar xisoblandi?",
+            options: ["Surxak kitobi", "Pishti kishmish", "Xushrou", "Xusayin"],
+            correct: "Surxak kitobi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "O‘zbekistonda etishtiriladigan uzum mevasi tarkibida o‘rtacha necha foiz qand bo‘ladi?",
+            options: ["15-30", "10-12", "35-40", "45-50"],
+            correct: "15-30",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Vitis avlodining nechta turi bor?",
+            options: ["2", "3", "5", "4"],
+            correct: "2",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning Evropa-Osiyo navlari nechta ekologik-geografik guruhga bo‘linadi (professor A.M.Negrul bo‘yicha)?",
+            options: ["3", "2", "5", "4"],
+            correct: "3",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok ildizining uchki qismi qanday zonalardan iborat?",
+            options: [
+              "ildiz qini, o‘sish zonasi, so‘ruvchi qismi",
+              "o‘sish, zonasi, so‘ruvchi qismi",
+              "ildiz qini, o‘sish zonasi, so‘ruvchi qismi, o‘tkazuvchi qismi",
+              "so‘ruvchi qismi, o‘tkazuvchi qismi",
+            ],
+            correct: "ildiz qini, o‘sish zonasi, so‘ruvchi qismi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok novdalarining kesish uzunligi asosan nima bog‘liq?",
+            options: [
+              "pishgan novdaning pishish darajasi va yo‘g‘onligiga",
+              "o‘stirish usuliga",
+              "agrotexnik tadbirga",
+              "tok tupining yoshiga",
+            ],
+            correct: "pishgan novdaning pishish darajasi va yo‘g‘onligiga",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok asosan qachon kesiladi?",
+            options: ["avgust", "oktyabr", "dekabr", "aprel"],
+            correct: "avgust",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok qator oralariga erta kuzda ekilgan o‘tlar ko‘kat o‘g‘it sifatida qachon haydab yuborilgani ma’qul?",
+            options: ["noyabrda", "dekabrda", "martda", "aprelda"],
+            correct: "noyabrda",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok o‘simligi ko‘miladigan rayonlarda qalamcha qachon tayyorlanadi?",
+            options: ["iyun", "avgust", "oktyabr", "yanvar"],
+            correct: "iyun",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Vitis avlodining necha avlodchasi (gruppasi) bor?",
+            options: ["4", "6", "8", "2"],
+            correct: "4",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning qaysi navi funksional urg‘ochi gulli?",
+            options: ["pushti toifi", "aliateko", "charos", "venger muskati"],
+            correct: "pushti toifi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning o‘suv davrida qaysi faza birinchi xisoblanadi?",
+            options: [
+              "suv xarakati",
+              "gullash",
+              "kurtakni yozilishi va novdani o‘sishi",
+              "mevani paydo bo‘lishi",
+            ],
+            correct: "suv xarakati",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Urug’li navlarni qanday sxemada o‘tkaziladi?",
+            options: ["3x4 m", "2x3 m", "3x3 m", "4x4 m"],
+            correct: "3x4 m",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Yer osti suvlari yaqin erlarda xosilli toklar necha martta sug‘oriladi?",
+            options: ["4-5", "6-8", "2-1", "2-3"],
+            correct: "4-5",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokka elpig‘ich usulda shakl berilganda nechta zang bo‘ladi?",
+            options: ["2-4", "4-6", "8-10", "12-15"],
+            correct: "2-4",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokdagi filoksera zararkunandasi qaysi respublikalarda tarqalgan?",
+            options: ["Moldaviya", "O‘zbekiston", "Tojikiston", "Turkmaniston"],
+            correct: "Moldaviya",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Toklarda gullash qaysi xaroratda boshlanadi?",
+            options: ["50", "100", "150", "250"],
+            correct: "50",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Yosh toklarning qator oralaridan qanday ekin ekib foydalanish mumkin?",
+            options: [
+              "kechki kartoshka",
+              "makkajo‘xori",
+              "erta etiluvchi sabzavot, poliz ekinlari",
+              "kungaboqar",
+            ],
+            correct: "kechki kartoshka",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning qanday navi ikki jinsli?",
+            options: ["Kattaqo‘rg‘on", "CHaros", "Xusayni", "Daroyi"],
+            correct: "Kattaqo‘rg‘on",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning o‘suv davri necha fazadan iborat?",
+            options: ["4", "5", "6", "7"],
+            correct: "4",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning vinobop navlarini kesish vaqtida har navida nechtadan kurtak qoldiriladi?",
+            options: ["20-22", "8-12", "25-28", "30-35"],
+            correct: "20-22",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Barg plastikasi nimalardan tashkil topgan?",
+            options: [
+              "barg yaprog’i va tomirlardan",
+              "tomirlardan",
+              "xlorofilldan",
+              "turlardan",
+            ],
+            correct: "barg yaprog’i va tomirlardan",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Bargning o‘sishi qancha vaqt davom etishi mumkin?",
+            options: ["1-2 xafta", "3-4 xafta", "5-6 xafta", "8-10 xafta"],
+            correct: "1-2 xafta",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok tupining eng katta barg satxi tokning qaysi davriga to‘g‘ri keladi?",
+            options: [
+              "gullashgacha",
+              "gullash davrida",
+              "g’ujumlarning o‘sishi davrida",
+              "g‘ujumlar pishishiga yaqin",
+            ],
+            correct: "gullashgacha",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Fotosintez uchun mo‘tadil havo haroratini ko‘rsating?",
+            options: ["20-250S", "25-280S", "28-320S", "35-400S"],
+            correct: "20-250S",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Funksional urg‘ochi gulli uzum navlarini ko‘rsating?",
+            options: [
+              "xusayni, toyfi, parkent, oq kishmish",
+              "risling, bayan shirey, sultoni",
+              "nimrang, kattaqo‘rg‘on, charos, tavkveri",
+              "qora kishmish, rkatsiteli, saperavi",
+            ],
+            correct: "xusayni, toyfi, parkent, oq kishmish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Fotosintez jarayoni kunning qaysi vaqtida jadal kechadi?",
+            options: [
+              "Ertalab",
+              "Peshinda",
+              "Kechki vaqt",
+              "tushgacha va tushdan so‘ng",
+            ],
+            correct: "Ertalab",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Transpiratsiya jarayoni kunning qaysi vaqtida jadal kechadi?",
+            options: [
+              "Ertalab",
+              "tushga yaqin",
+              "tushdan so‘ng",
+              "kechga yaqin",
+            ],
+            correct: "Ertalab",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "1 ga maydondagi tokzor umumiy barg satxi 30000 m2 bo‘lganda bir sutka davomida qancha suv bug‘latishi mumkin?",
+            options: ["15 t", "20 t", "25 t", "30 t"],
+            correct: "15 t",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Bahorda yashil novdalar qanday uzunlikda bo‘lganda sho‘rlarni payqash mumkin?",
+            options: ["15-20 sm", "25-30 sm", "30-35 sm", "35-40 sm"],
+            correct: "15-20 sm",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok qachon gullaydi?",
+            options: [
+              "may boshlarida",
+              "may o‘rtalarida",
+              "mayning uchinchi o‘n kunligida",
+              "iyun boshlarida",
+            ],
+            correct: "may boshlarida",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok gullashi necha kun davom etadi?",
+            options: ["5-12 kun", "15-20 kun", "25-30 kun", "23-40 kun"],
+            correct: "5-12 kun",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning gullashi uchun qulay havo harorati qancha bo‘lishi kerak?",
+            options: ["15-200S", "25-300S", "30-330S", "33-360S"],
+            correct: "15-200S",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning o‘suv davri nechta fenologik fazalarga bo‘linadi?",
+            options: ["3", "5", "7", "4"],
+            correct: "3",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Birinchi shira xomtok o‘suv davrining qaysi fazasida qilinadi?",
+            options: [
+              "shira xarakati",
+              "novda va tup gullarning o‘sishi",
+              "gullash",
+              "meva o‘sishi va pishishi",
+            ],
+            correct: "shira xarakati",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Uzum ko‘chatzorining 1 gektardan necha donna kuchat chikadi",
+            options: ["60", "90", "40", "20"],
+            correct: "60",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Turlararo duragaylash qanday uzum navlarini yaratishda qo'llaniladi?",
+            options: [
+              "Sovuqqa chidamli",
+              "Kasalliklarga chidamli",
+              "Urug‘siz navlarni",
+              "Qurg‘oqchilikka chidamli",
+            ],
+            correct: "Sovuqqa chidamli",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Noqulay sharoitlarga chidamli navlarni yaratishda e’tiborli duragaylash xili-bu:",
+            options: [
+              "Turlararo duragaylash",
+              "Turkumlararo duragaylash",
+              "Navlararo duragaylash",
+              "Navlar ichida duraygaylash",
+            ],
+            correct: "Turlararo duragaylash",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokda tabiiy mutagenez oqibatida sodir bo‘ladigan o‘zgarishlar-bu:",
+            options: [
+              "Uzum navlari ichida kurtak variasiyasi (o‘zgaruvchanligi)",
+              "Tashqi muxit ta’sirida fiziologik o‘zgarishlar",
+              "Quyosh nuri ta’siridagi irsiy o‘zgarishlar",
+              "Ob-xavo ta’siridagi biokimyoviy o‘zgarishlar",
+            ],
+            correct:
+              "Uzum navlari ichida kurtak variasiyasi (o‘zgaruvchanligi)",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Barg qo‘ltigidan o‘sib chiqan navda nima deb ataladi?",
+            options: [
+              "Qultiq navda",
+              "Bachki navda",
+              "Tikan navda",
+              "O‘rin bosar navda",
+            ],
+            correct: "Qultiq navda",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "O‘zbekiston Respublikasida uzumning qaysi navlari oborigen navlar xisoblanadi",
+            options: [
+              "Rizamat, Husayni, Qora kishmish",
+              "Saperavi, Xindognыy , Rizamat",
+              "Rkatsiteli, Rislin, Xusayni",
+              "Kora pino, Xindognыy, Kora kishmish",
+            ],
+            correct: "Rizamat, Husayni, Qora kishmish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning o‘suv davrida qaysi faza ikkinchi xisoblanadi?",
+            options: [
+              "Kurtakni ezishi va navdalarni o‘sishi",
+              "Gullash",
+              "SHira xarakati",
+              "Mevalarni tugishi",
+            ],
+            correct: "Kurtakni ezishi va navdalarni o‘sishi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Uzumning Amerika turlariga qaysi turlar kiradi?",
+            options: [
+              "Berlandieri, Labruska, Ripariya",
+              "Amurenzis, Labruska",
+              "Ripariya, Amurenzis",
+              "Amurenzis, Vitis vinifera",
+            ],
+            correct: "Berlandieri, Labruska, Ripariya",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Uzumning qaysi navlari eng ertapishar navlar xisoblandi?",
+            options: ["Surxak kitobi", "Pishti kishmish", "Xushrou", "Xusayin"],
+            correct: "Surxak kitobi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Vitis amurenzis turi qanday navlarni chiqarishda foydalaniladi?",
+            options: [
+              "Sovuqqa chidamli navlarni chiqarishda",
+              "Serxosil navlarni chiqarishda",
+              "Kasallikkka chidamli navlarni chiqarishda",
+              "Zararkunandalarga chidamli navlarni chiqarishda",
+            ],
+            correct: "Sovuqqa chidamli navlarni chiqarishda",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokni novda (qalamchalar)dan ko‘paytirishda, qalmchalar qanday uzunlikda tayyorlanadi?",
+            options: ["55-60 sm", "80-85 sm", "90-100 sm", "120-140 sm"],
+            correct: "55-60 sm",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Qora kishmish navining tuliq pishgan g‘ujumlarida qancha foizgacha qand moddalari tuplanishi mumkin?",
+            options: ["26-27", "28-30", "24-26", "20-24"],
+            correct: "26-27",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Yerni ekishga tayyorlashda yerni begona o‘tlardan tozalash uchun qancha chuqurlikda haydalib, ildiz qoldiqlaridan tozalanadi?",
+            options: ["20-25 sm", "15-20 sm", "25-30sm", "10-15 sm"],
+            correct: "20-25 sm",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Sug‘oriladigan bo‘z tuproqli yerlarda tok ko'chatini ekish chuqurligi qancha?",
+            options: ["30-35 sm", "50-55 sm", "40-45 sm", "50-60"],
+            correct: "30-35 sm",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok qalamchalarini handaklarga joylashtirishdan oldin, ular zamburug‘ kasalliklariga chalinmasligi uchun 5 soat davomida 0,5% li qanaqa eritmada saqlanadi?",
+            options: ["gibrillin", "xinozol", "sulfit", "indolilsirka"],
+            correct: "gibrillin",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Qalamchalar ekilgach, 18-20 kun davomida substrat namligi necha % darajada saqlab turilishi lozim",
+            options: ["50-60%", "60-70%", "75-80%", "85-90%"],
+            correct: "50-60%",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "So‘ngi yillarda tok ko‘chatlarini gidroponika sharoitida yetishtirish texnologiyasi kimlar tomonidan ishlab chiqilgan",
+            options: [
+              "V.G.Nikolen-ko, A.S.Subbotovich, L.M.Maltabar",
+              "V.G.Nikolen-ko, Sh. Temurov, T_E_Ostonaqulov",
+              "A.S.Subbotovich, L.M.Maltabar, T_E_Ostonaqulov",
+              "A.S.Subbotovich, L.M.Maltabar, Sh. Temurov",
+            ],
+            correct: "V.G.Nikolen-ko, A.S.Subbotovich, L.M.Maltabar",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tuproq unumdorligini saqlash va uni oshirish uchun undagi mineral oziq moddalarining niisbatini qancha miqdorda inobatga olish zarur",
+            options: [
+              "N2 60%, P 40%, K 76%",
+              "N2 120%, P 60%, K 30%",
+              "N2 120%, P 50%, K 30%",
+              "N2 40%, P 60%, K 80%",
+            ],
+            correct: "N2 60%, P 40%, K 76%",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokzorga solinadigan mineral o‘g‘itlar miqdorini aniqlash uchun qanday formuladan foydalaniladi?",
+            options: [
+              "Х = М2 х 100/О",
+              "Х = М х 100/О",
+              "Х = (М х 100)2/О",
+              "Х = М х 100+О",
+            ],
+            correct: "Х = М2 х 100/О",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "O‘zbekistonning tog‘li va tog‘ oldi rayonlarida tokzor barpo qilish mumkin bo‘lgan yerlarni shartli ravishda nechta qismga ajaratiladi?",
+            options: ["4", "5", "6", "7"],
+            correct: "4",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tog‘ etagi va tog‘ oldi zonalarida, asosan ……… , tog‘li zonalarda esa, ……….tuproqlar tarqalgan.",
+            options: [
+              "och bo‘z tuproq, tipik hamda qo‘ng‘ir bo‘z",
+              "bo’z tuproq, yengil qumoq",
+              "tipik bo’z tuproq, qo’ng’ir bo’z",
+              "tipik hamda qo’ng’ir bo’z, qumloq",
+            ],
+            correct: "och bo‘z tuproq, tipik hamda qo‘ng‘ir bo‘z",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Ko‘zning ichiga bitta markaziy va bir necha o‘rinbosar kurtaklar joylashadi, markaziy kurtak yirikroq bo‘ladi. Bu kurtakka nima deyiladi?",
+            options: [
+              "qo’ltiq kurtak",
+              "markaziy kurtak",
+              "o’rinbosar kurtak",
+              "qishlovchi kurtak",
+            ],
+            correct: "qo’ltiq kurtak",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Bir yillik 4-8 va 12 ta kurtak qoldirib kesilgan ……… deb nomlanadi?",
+            options: [
+              "pishgan novdalar",
+              "hosil novdalar",
+              "hosilsiz novdalar",
+              "qo’ltiq novdalar",
+            ],
+            correct: "pishgan novdalar",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Novdaning birinchi boshlang‘ich 2-5- bo‘g‘im oralig‘i faqat uchkio‘sish nuqtasidan o‘sadi. Bu qanday o‘sish deb nomlanadi",
+            options: [
+              "monopodial o‘sish",
+              "simpodial o‘sish",
+              "gorizantal o‘sish",
+              "vertikal o‘sish",
+            ],
+            correct: "monopodial o‘sish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Kilchyovkalash necha kun davom etadi?",
+            options: ["18-25 kun", "7-10 kun", "12-15 kun", "17-1 20kun"],
+            correct: "18-25 kun",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tupda qoldiriladigan ko‘zlar miqdori (yuklama) qaysi formula bo‘yicha aniqlanadi",
+            options: [
+              "Н? (100 х К)2/100-А",
+              "Н? 100 х К/100-А",
+              "Х?Мх100/0",
+              "Х?2 Мх100/0",
+            ],
+            correct: "Н? (100 х К)2/100-А",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok nega urug’idan ko’paytirilmaydi?",
+            options: [
+              "Tok urug‘idan ko‘paytirilganda navning belgi va xususiyatlari o‘zgarib, ko‘pincha yovvoyi shakliga qarab ketadi. Kech hosil beradi.",
+              "Tok asosan urug‘idan ko‘paytiriladi navning belgi va xususiyatlari saqlab, erta hosil beradi.",
+              "Tok urug’idan umuman ko’paytirilmaydi",
+              "To’g’ri javoblar yo’q",
+            ],
+            correct:
+              "Tok urug‘idan ko‘paytirilganda navning belgi va xususiyatlari o‘zgarib, ko‘pincha yovvoyi shakliga qarab ketadi. Kech hosil beradi.",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Seleksiyada ishlarida asosan tokni nimasidan ko’paytiriladi?",
+            options: ["Kurtagidan", "Qalamchasidan", "Novdasidan", "Urug’idan"],
+            correct: "Kurtagidan",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Intensiv yoki superintensiv ona tokzorlar nima maqsadda barpo qilinadi?",
+            options: [
+              "payvandlashni yaxshilash",
+              "qalamchalar tayyorlash",
+              "hosilni yaxshilash",
+              "tok ko’chatlarini tayyorlash",
+            ],
+            correct: "payvandlashni yaxshilash",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "O‘zbekiston Respublikasida uzumning qaysi navlari oborigen navlar hisoblanadi",
+            options: [
+              "Rizamat, Husayni, Qora kishmish",
+              "Saperavi, Xindognыy , Rizamat",
+              "Rkatsiteli, Rislin, Xusayni",
+              "Kora pino, Xindognыy, Kora kishmish",
+            ],
+            correct: "Rizamat, Husayni, Qora kishmish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Noqulay sharoitlarga chidamli navlarni yaratishda e’tiborli duragaylash xili-bu:",
+            options: [
+              "Turlararo duragaylash",
+              "Turkumlararo duragaylash",
+              "Navlararo duragaylash",
+              "Navlar ichida duraygaylash",
+            ],
+            correct: "Turlararo duragaylash",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Toklarda gullash qaysi xaroratda boshlanadi?",
+            options: ["50", "100", "150", "250"],
+            correct: "50",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Yosh toklarning qator oralaridan qanday ekin ekib foydalanish mumkin?",
+            options: [
+              "kechki kartoshka",
+              "makkajo‘xori",
+              "erta etiluvchi sabzavot, poliz ekinlari,",
+              "kungaboqar",
+            ],
+            correct: "kechki kartoshka",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning qanday navi ikki jinsli?",
+            options: ["Kattaqo‘rg‘on", "Charos", "Xusayni", "Daroyi"],
+            correct: "Kattaqo‘rg‘on",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning o‘suv davri necha fazadan iborat?",
+            options: ["4", "5", "6", "7"],
+            correct: "4",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning vinobop navlarini kesish vaqtida har navida nechtadan kurtak qoldiriladi?",
+            options: ["20-22", "8-12", "25-28", "30-35"],
+            correct: "20-22",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning Amuransis avlodining nechta turi bor?",
+            options: ["30", "12", "25", "15"],
+            correct: "30",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok - qimmatbaho ___________ o‘simlik.",
+            options: [
+              "subtropik",
+              "tropik",
+              "qurg'oqchilikka chidamli",
+              "manzarali",
+            ],
+            correct: "subtropik",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Pishib yetilgan uzum tarkibida, ayniqsa kishmish navlarida organizm tomonidan tez o‘zlashtiriladigan qandlar miqdori necha % ni tashkil qiladi?",
+            options: ["28-30%gacha", "20-25", "35-40", "30-40"],
+            correct: "28-30%gacha",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Olimlarning kuzatishiga qaraganda, B guruhiga mansub vitaminlar, aminokislotalar va mikroelementlar qaysi muddatda piahgan uzum navlarida ko‘proq to‘planadi ?",
+            options: [
+              "kechpishar",
+              "ertapishar",
+              "o'rtapishar",
+              "pishish muddatiga bog'liq emas",
+            ],
+            correct: "kechpishar",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok qalamchalari, asosan qachon tayyorlash mumkin (tok ko'miladigan hududlarda)?",
+            options: [
+              "Kuzda",
+              "Bahorda shira harakati boshlangandan",
+              "Erta bahorda",
+              "Qishda",
+            ],
+            correct: "Kuzda",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok qalamchalari, asosan qachon tayyorlash mumkin (tok ko'milmaydigan hududlarda)?",
+            options: [
+              "Erta bahorda",
+              "Bahorda shira harakati boshlangandan",
+              "Kuzda",
+              "Qishda",
+            ],
+            correct: "Erta bahorda",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok nechta fenofazani o‘taydi?",
+            options: ["6", "5", "4", "2"],
+            correct: "6",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning o‘suv davrida qaysi faza uchinchi xisoblanadi?",
+            options: [
+              "Gullashi",
+              "Kurtak yozilishi va navdalarning o‘sishi",
+              "Shira xarakati",
+              "Mevalarning pishishi",
+            ],
+            correct: "Gullashi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning o‘suv davrida qaysi faza birinchi xisoblanadi?",
+            options: [
+              "Shira xarakati",
+              "Kurtak yozilishi va navdalarning o‘sishi",
+              "Mevalarning shakillanishi",
+              "Mevalarning pishishi",
+            ],
+            correct: "Shira xarakati",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning o‘suv davrida qaysi faza oltinchi xisoblanadi?",
+            options: [
+              "Xazonrezgilik",
+              "Kurtak yozilishi va navdalarning o‘sishi",
+              "Mevalarning shakillanishi",
+              "Mevalarning pishishi",
+            ],
+            correct: "Xazonrezgilik",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning o‘suv davrida qaysi faza ikkinchi xisoblanadi?",
+            options: [
+              "Kurtak yozilishi va navdalarning o‘sishi",
+              "Xazonrezgilik",
+              "Mevalarning shakillanishi",
+              "Mevalarning pishishi",
+            ],
+            correct: "Kurtak yozilishi va navdalarning o‘sishi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Daraxtlarga retardantlar nima maqsadda purkaladi?",
+            options: [
+              "O'simlik poyalari va novdalarining ortiqcha o'sib ketishini to'xtatadi",
+              "zararkunandalarga qarshi",
+              "begona o'tlarga qarshi",
+              "barg to'kuvchi",
+            ],
+            correct:
+              "O'simlik poyalari va novdalarining ortiqcha o'sib ketishini to'xtatadi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokdagi ko‘chatlari orasidagi xatolarni to‘ldirishda qaysi usuldan foydalaniladi?",
+            options: [
+              "parxeshlab",
+              "qalamchadan",
+              "payvandlab",
+              "iskana payvand",
+            ],
+            correct: "parxeshlab",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokdoshlar oilasi nechata turkumdan tashkil topgan?",
+            options: ["14", "12", "6", "2"],
+            correct: "14",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokdoshlar oilasidan birinchi bo'lib qaysi turkum o'rganilgan?",
+            options: ["Vitis", "Sissus", "Ampelopsis", "Tetrastigma"],
+            correct: "Vitis",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokdoshlar oilasidan birinchi bo'lib qaysi turkum o'rganilgan?",
+            options: ["Vitis", "Sissus", "Ampelopsis", "Tetrastigma"],
+            correct: "Vitis",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning yana bir biologik xususiyati, undagi ________dir. Bo‘ylama (tik), enlama (yassi) yoki dorzivental _______lar bo‘ladi.",
+            options: [
+              "qutblilik",
+              "fotosintez qilishi",
+              "barg hosil qilishi",
+              "gullashi",
+            ],
+            correct: "qutblilik",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok yuqori darajada kallus va ildiz hosil qilish xususiyatiga ega. Shuning uchun uni ________ usulda ko‘paytirish qulay",
+            options: ["vegetativ", "urug'idan", "qalamchadan", "bargidan"],
+            correct: "vegetativ",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok tuzilishiga ko‘ra qanday organlardan tashkil topgan.",
+            options: [
+              "vegetativ va reproduktiv",
+              "vegetativ",
+              "ildiz poya barg",
+              "meva va urug'",
+            ],
+            correct: "vegetativ va reproduktiv",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Generativ (reproduktiv) organlarga to‘pgul, gul, shingil, g‘ujum va _____lar kiradi.",
+            options: ["urug'", "ildiz", "barg", "novda"],
+            correct: "urug'",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Ildizlar tuzilishi va joylashishiga qarab necha guruhga bo‘linadi?",
+            options: ["3", "4", "2", "6"],
+            correct: "3",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Shudring shimuvchi yoki patak ildizlar - poya yer ostki qismining yuqori, asosan tuproqning _________ sm.li haydal-ma qatlamida rivojla- nadi",
+            options: ["15-25", "5-10", "20-35", "30-40"],
+            correct: "15-25",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok ildizlarida tinim davri qachon bo‘ladi?",
+            options: ["bo'lmaydi", "Kuzda", "Tinim davrida", "Yozda"],
+            correct: "bo'lmaydi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Kalta (2-3 kurtak qoldirib) kesilgan novda qanday nomlanadi ?",
+            options: [
+              "o‘rinbosar novda",
+              "hosilli novda",
+              "hosilsiz novda",
+              "meva zvenosi",
+            ],
+            correct: "o‘rinbosar novda",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Auksinlar yordamida yon kurtaklar rivojlanishini ____________, ildizlar o‘sishini ________ mumkin.",
+            options: [
+              "to‘xtatish, kuchaytirish",
+              "to'xtatish, tezlatish",
+              "sekinlatish, jadallashtirish",
+              "kuchaytirish, to'xtatish",
+            ],
+            correct: "to‘xtatish, kuchaytirish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Gibberellinlar yordamida novda va mevalarning o‘sishini ______ mumkin",
+            options: [
+              "Jadallashtirish",
+              "To'xtatish",
+              "Susaytirish",
+              "Vaqtincha to'xtatish",
+            ],
+            correct: "Jadallashtirish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "__________ - novdaning tinch holatdagi ko‘rinishi",
+            options: ["Kurtaklar", "barg", "meva", "ildiz"],
+            correct: "Kurtaklar",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Kurtaklar ikkita vazifani bajaradi: o‘sish va o‘sishni tiklash; ____________.",
+            options: [
+              "vegetativ ko‘payish",
+              "generativ ko'payish",
+              "meva hosil qilish",
+              "jingalaklar hosil qilish",
+            ],
+            correct: "vegetativ ko‘payish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Nav uchun xarakterli bo‘lgan barglar, odatda novdaning nechanchi bo‘g‘imida joylashadi",
+            options: ["8-12", "6-7", "8-9", "3-4"],
+            correct: "8-12",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Barcha barglar maydonining yig‘indisi nima deyiladi?",
+            options: [
+              "Barg sathi",
+              "Barglar to'plami",
+              "Barglar yig'indisi",
+              "Barg o'lchami",
+            ],
+            correct: "Barg sathi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok o'simligida nechta yashash (yosh) davrlari bor?",
+            options: ["ikkita", "beshta", "oltita", "sakizta"],
+            correct: "ikkita",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "To‘pgullar ba’zan beso‘naqay (anormal) rivojlanishi mumkin. Bu fan tilida nima deyiladi?",
+            options: [
+              "fastsiatsiya",
+              "fitotexnika",
+              "solkashlik",
+              "simmetrik gul",
+            ],
+            correct: "fastsiatsiya",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Nimrang, Kattaqo‘rg‘on, Charos, Daroyi, Echkimar kabi navlarning gullari qanday gulga ega?",
+            options: [
+              "funktsional urg‘ochi",
+              "ikki jinsli",
+              "funksional erkak",
+              "bir jinsli",
+            ],
+            correct: "funktsional urg‘ochi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "ikki jinsli gullarda changdonlar gul qalpoqchalaridan oldin yorilsa gul ochilmasdanoq o‘z-o‘zidan changlanish ro‘y beradi. Bu hodisa nima deb ataladi?",
+            options: [
+              "kleystogamiya",
+              "changlanish",
+              "partenokapiya",
+              "anomafil",
+            ],
+            correct: "kleystogamiya",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Urug‘lanmasdan murtaksiz hosil bo‘lgan g‘ujumlar qanday mevalar deyiladi?",
+            options: [
+              "partenokarpik",
+              "soxta meva",
+              "chin meva",
+              "kleystogamiya",
+            ],
+            correct: "partenokarpik",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "__________ bu shakli o‘zgargan novda bo‘lib, simpodial tipda o‘sadi.",
+            options: ["Jingalak", "Barg", "kurtak", "murtak"],
+            correct: "Jingalak",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Novdalar necha sm.ga yetganda sho‘ralar (uzum boshlari) paydo bo‘ladi ?",
+            options: ["15-25", "20-25", "8-13", "5-10"],
+            correct: "15-25",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Ikkinchi fazaning oxirlariga borib novdalar ja’mi uzunligining __% o‘sgan bo‘ladi.",
+            options: ["60%", "30 %", "40 %", "45 %"],
+            correct: "60%",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Uzumning yangi navlarini yaratish qanday o‘zgarishlarga bog‘liq?",
+            options: ["Irsiy", "Genetik", "nasliy", "Avlodiy"],
+            correct: "Irsiy",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok ildizi necha metr chukurlikka etib boradi ?",
+            options: ["1.25 m", "2.15m", "3.10 m", "4.5 m"],
+            correct: "1.25 m",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok ildizi necha metr chukurlikka etib boradi ?",
+            options: ["1.25 m", "2.15m", "3.10 m", "4.5 m"],
+            correct: "1.25 m",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Uzum navlaridan qaysi biri funksinal urgochi guliga ega?",
+            options: ["Nimrang", "Qora kishmish", "Xusayni", "Bayan shirin"],
+            correct: "Nimrang",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "O‘zbekiston Respublikasida uzumning qaysi navlari oborigen navlar hisoblanadi",
+            options: [
+              "Rizamat, Husayni, Qora kishmish",
+              "Saperavi, Xindognыy , Rizamat",
+              "Rkatsiteli, Rislin, Xusayni",
+              "Kora pino, Xindognыy, Kora kishmish",
+            ],
+            correct: "Rizamat, Husayni, Qora kishmish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Noqulay sharoitlarga chidamli navlarni yaratishda e’tiborli duragaylash xili-bu:",
+            options: [
+              "Turlararo duragaylash",
+              "Turkumlararo duragaylash",
+              "Navlararo duragaylash",
+              "Navlar ichida duraygaylash",
+            ],
+            correct: "Turlararo duragaylash",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Kishmishbop navlarga qaysi navlar kiradi?",
+            options: [
+              "Qara kishmish",
+              "Pushti kishmish",
+              "Oq kishmish",
+              "Vir kishmish",
+            ],
+            correct: "Qara kishmish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Xosil navdaning nechanchi bugimida odatda sho‘ra paydo bo‘ladi",
+            options: ["3", "3-6", "8-10", "12-14"],
+            correct: "3",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Introduksiya-bu",
+            options: [
+              "Uzum navlari olib kiriladigan mintaqa yoki joyning tuproq-iqlim sharoitlarini o‘rganish, introduksion navlarning biologik xususiyatlarini baxolash",
+              "Introduksion navlarning biologik xususiyatlarini baxolash",
+              "Introduksiyaning nazariy va amaliy tomonlarini oldindan belgilash",
+              "Uzum navlari olib kiriladigan mintaqa yoki joyning tuproq-iqlim sharoitlarini o‘rganish",
+            ],
+            correct:
+              "Uzum navlari olib kiriladigan mintaqa yoki joyning tuproq-iqlim sharoitlarini o‘rganish, introduksion navlarning biologik xususiyatlarini baxolash",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Barg qo‘ltigidan o‘sib chiqan navda nima deb ataladi?",
+            options: [
+              "Qultiq navda",
+              "Bachki navda",
+              "Tikan navda",
+              "O‘rin bosar navda",
+            ],
+            correct: "Qultiq navda",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Qishlovchi kurtakda nima jaylashgan?",
+            options: ["Barg", "jingalak", "SHo‘ra", "Gujim"],
+            correct: "Barg",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Uzum navlari, asosan baxolanadi?",
+            options: [
+              "Morfologik tomondan , orgonoleptik tomondan",
+              "Orgonoleptik tomondan",
+              "Xo‘jalik belgilari tomondan",
+              "Morfologik tomondan",
+            ],
+            correct: "Morfologik tomondan , orgonoleptik tomondan",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Navdadagi qaysi kurtaklar serxosil bo‘ladi?",
+            options: [
+              "5-12.kurtaklar",
+              "2-4.kurtaklar",
+              "2-4.kurtaklar",
+              "21-25 kurtaklar",
+            ],
+            correct: "5-12.kurtaklar",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok nechta fenofazani o‘taydi?",
+            options: ["6", "4", "5", "7"],
+            correct: "6",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning o‘suv davrida qaysi faza uchinchi xisoblanadi?",
+            options: [
+              "Gullash",
+              "Kurtak yozilishi va navdalarning o‘sishi",
+              "Shira xarakati",
+              "Mevalarning tuzilishi",
+            ],
+            correct: "Gullash",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning o‘suv davrida qaysi faza ikkinchi xisoblanadi?",
+            options: [
+              "Kurtakni yozishi va navdalarni o‘sishi",
+              "Gullash",
+              "Shira xarakati",
+              "Mevalarning tuzilishi",
+            ],
+            correct: "Kurtakni yozishi va navdalarni o‘sishi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Uzum navlari iste’mol qilinishiga qarab nechta guruxga bo‘linadi?",
+            options: ["3", "2", "4", "5"],
+            correct: "3",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Uzumning qaysi navlari xuraki xisoblanadi?",
+            options: ["Rizamat", "Nimrang", "Oq kishmish", "Xusayni"],
+            correct: "Rizamat",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Uzumning qaysi navlari sharobbop xisoblanadi?",
+            options: ["Aleatika", "Rizamat", "Oq kishmish", "Xusayni"],
+            correct: "Aleatika",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Evropa-Osiyo turiga qaysi tur mansub?",
+            options: [
+              "Vitis vinifera",
+              "Amerika turi",
+              "Osiyo turi",
+              "Amerika va Osiyo turi",
+            ],
+            correct: "Vitis vinifera",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "O‘zbekistonda xo‘raki navlar necha foizni tashkil etadi?",
+            options: ["70", "50", "60", "90"],
+            correct: "70",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "O‘zbekistonda uzumning nechta navi rayonlashtirilgan?",
+            options: ["40", "30", "60", "20"],
+            correct: "40",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Uzumning xo’raki navlarining o‘rtacha uzum boshi og‘irligi necha gramni tashkil qiladi?",
+            options: ["350-850", "150-250", "100-140", "150-180"],
+            correct: "350-850",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Uzumning sharobbop navlarining o‘rtacha uzum boshi og‘irligi necha gramni tashkil qiladi?",
+            options: ["50-350", "400-500", "600-700", "800-900"],
+            correct: "50-350",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Uzumning saperavi navining guli necha jinsli?",
+            options: [
+              "ikki jinsli",
+              "urgochi fuksional urgochi",
+              "erkak jinsli",
+              "Fuksional erkak jinsli",
+            ],
+            correct: "ikki jinsli",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok necha usulda ko‘paytiriladi?",
+            options: ["2", "8", "4", "5"],
+            correct: "2",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokdagi ko‘chatlari arasidagi xatolarni to‘ldirishda qaysi usuldan foydalaniladi?",
+            options: ["parxishlab", "qalamchadan", "Ko’chatdan", "urug‘dan"],
+            correct: "parxishlab",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokni novda (qalamchalar)dan ko‘paytirishda, qalmchalar qanday uzunlikda tayyorlanadi?",
+            options: ["55-60 sm", "80-85 sm", "90-100 sm", "120-140 sm"],
+            correct: "55-60 sm",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok novdalaridan asosan qachon qalamchalar tayyorlanadi?",
+            options: [
+              "oktyabr oylarida",
+              "noyabr oylarida",
+              "dekabr oylarida",
+              "yanvar’ oylarida",
+            ],
+            correct: "oktyabr oylarida",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "O‘zbekistonning kuchli o‘sadigan tok navlarining ekishga olinadigan novdasining yo‘g‘onligi necha mm bo‘ladi?",
+            options: ["8-12 mm", "14-18 mm", "20-24 mm", "26-30 mm"],
+            correct: "8-12 mm",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning qalamchalari saqlanadigan maxsus qazilgan chuqurlari o‘lchami qanday bo‘ladi?",
+            options: [
+              "eni 1.5-2 m, chuqurligi 60-70 sm,uzunligi qalamchalar soniga bog‘liq bo‘ladi",
+              "eni 1.8-2.2m, chuqurligi 90-120 sm, uzunligi qalamchalar soniga bog‘liq bo‘ladi",
+              "eni 2.1-2.4 m, chuqurligi 30-40 sm, uzunligi qalamchalar soniga bog‘liq bo‘ladi",
+              "eni 1.10-1.2 m, chuqurligi 15.-20 sm,uzunligi qalamchalar soniga bog‘liq bo‘ladi",
+            ],
+            correct:
+              "eni 1.5-2 m, chuqurligi 60-70 sm,uzunligi qalamchalar soniga bog‘liq bo‘ladi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok qalamchalari qanday sxemada ekiladi",
+            options: ["80x10 sm", "60x15-20 sm", "90x15 sm", "50x10 sm"],
+            correct: "80x10 sm",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok ko‘chatzorining 1 gektariga necha ming dona qalamcha ekiladi?",
+            options: [
+              "110-125 ming",
+              "130-140 ming",
+              "80-90 ming",
+              "60-70 ming",
+            ],
+            correct: "110-125 ming",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok qalamchalarini erta bahorda ekish uchun eng yaxshi muddat qachon hisoblanadi?",
+            options: [
+              "20 martdan 10 aprelgacha",
+              "10 fevraldan 20 fevralgacha",
+              "20 apreldan 10 maygacha",
+              "10 maydan 20 maygacha",
+            ],
+            correct: "20 martdan 10 aprelgacha",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Ko‘chatzorda aprobatsiya qachon o‘tkaziladi?",
+            options: ["sentyabr", "iyun", "avgust", "oktyabr"],
+            correct: "sentyabr",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok ko‘chatlari qachon kovlab olinadi?",
+            options: ["oktyabr", "noyabr", "sentyabr", "avgust"],
+            correct: "oktyabr",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok ko‘chatlari katta kichikligiga qarab nechta guruhga bo‘linadi?",
+            options: ["3 ta", "5 ta", "2ta", "6ta"],
+            correct: "3 ta",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Lalmi tokzorlarni yillik yog‘ingarchiligi miqdori necha mm dan kam bo‘lmaganda tashkil qilish mumkin?",
+            options: ["450-500 mm", "300-350 mm", "200-280 mm", "100-180 mm"],
+            correct: "450-500 mm",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Uzumning qaysi navlari eng ertapishar navlar xisoblandi?",
+            options: ["Surxak kitobi", "Pishti kishmish", "Xushrou", "Xusayin"],
+            correct: "Surxak kitobi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "O‘zbekistonda etishtiriladigan uzum mevasi tarkibida o‘rtacha necha foiz qand bo‘ladi?",
+            options: ["15-30", "10-12", "35-40", "45-50"],
+            correct: "15-30",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Vitis avlodining nechta turi bor?",
+            options: ["2", "3", "5", "4"],
+            correct: "2",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning Evropa-Osiyo navlari nechta ekologik-geografik guruhga bo‘linadi (professor A.M.Negrul bo‘yicha)?",
+            options: ["3", "2", "5", "4"],
+            correct: "3",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok ildizining uchki qismi qanday zonalardan iborat?",
+            options: [
+              "ildiz qini, o‘sish zonasi, so‘ruvchi qismi",
+              "o‘sish, zonasi, so‘ruvchi qismi",
+              "ildiz qini, o‘sish zonasi, so‘ruvchi qismi, o‘tkazuvchi qismi",
+              "so‘ruvchi qismi, o‘tkazuvchi qismi",
+            ],
+            correct: "ildiz qini, o‘sish zonasi, so‘ruvchi qismi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Yosh ildizchalarning asosiy vazifasi nimalardan iborat?",
+            options: [
+              "tuproqdagi suv va eritmalarni so‘rib olish",
+              "tokni er ustki qismini mahkam ushlab turish.",
+              "organik moddalarni sintez qilish",
+              "zapas oziq moddalarni o‘zida to‘plash",
+            ],
+            correct: "tuproqdagi suv va eritmalarni so‘rib olish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok ildizlari qanday tuproq haroratida o‘sa boshlaydi?",
+            options: ["4-5", "8-10", "12-14", "16-18"],
+            correct: "4-5",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Dunyo bo‘yicha uzum hosilining necha foizi mayiz uchun ishlatiladi?",
+            options: ["4", "15", "7", "8"],
+            correct: "4",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Dunyo bo‘yicha qancha mayiz tayyorlanadi (tonna hisobida) ?",
+            options: ["1000000", "5000000", "8000000", "1500000"],
+            correct: "1000000",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok necha qismdan iborat?",
+            options: ["2", "3", "4", "5"],
+            correct: "2",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Uzumning to‘p gulida nechtagacha gul bo‘lishi mumkin?",
+            options: ["300-600", "700-200", "1500-1800", "2000-2500"],
+            correct: "300-600",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Kuzda havo harorati necha gradus bo‘lganda barg va g‘ujumlar zararlanadi?",
+            options: ["0", "3-5", "3-6", "4-5"],
+            correct: "0",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Qishda tok ildizlari necha gradusda zararlanadi?",
+            options: ["2-3", "5-7", "5-8", "3-6"],
+            correct: "2-3",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Ertapishar uzum g‘ujumlari paydo bo‘lganidan keyin necha kunda pishadi?",
+            options: ["20-30", "10-15", "10-20", "20-40"],
+            correct: "20-30",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Kechpishar uzum g‘ujumlari paydo bo‘lgandan keyin necha kunda pishadi?",
+            options: ["30-40", "50-60", "50-80", "49-67"],
+            correct: "30-40",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Bir gektar maydonga 80x10 sm sxemada ekilsa qancha qalamcha kerak bo‘ladi?",
+            options: ["125000", "170000", "200000", "250000"],
+            correct: "125000",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tosh shag‘alli erlarda yosh tokzorlar qanday miqdorda sug‘oriladi (m3 ga hisobida)?",
+            options: ["100-200", "300-400", "500-600", "800-1000"],
+            correct: "100-200",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok ko‘chatlari ekilgan birinchi va ikkinchi yillari gektariga necha kg mineral o‘g‘itlar beriladi (sof holda)?",
+            options: [
+              "N-60, P-40-45, K-15-20",
+              "N-80, P-60, K-40",
+              "N-100, P-80, K-45",
+              "N-20, P-90, K-60",
+            ],
+            correct: "N-60, P-40-45, K-15-20",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Xo‘raki nav toklar novdalari o‘rtacha o‘sganda novdada nechta kurtak qoldirib kesiladi?",
+            options: ["8-16", "5-6", "10-12", "18-20"],
+            correct: "8-16",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Vinobop nav toklar novdalari o‘rtacha o‘sganda novdada nechta kurtak qoldirib kesiladi?",
+            options: ["5-6", "3-4", "7-9", "15-17"],
+            correct: "5-6",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "O‘zbekiston sharoitida tok tupiga asosan qanday shakl beriladi?",
+            options: [
+              "ko‘p qo‘lli elpig‘ichsimon",
+              "tanali",
+              "kardon",
+              "yotiq (gorizontal)",
+            ],
+            correct: "ko‘p qo‘lli elpig‘ichsimon",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Elpig‘ichsimon shakl berilganda necha zang (qo‘l) bo‘ladi?",
+            options: ["1-2", "6-8", "4-6", "8-10"],
+            correct: "1-2",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Xo‘raki navlar novdalari ko‘pi bilan nechta kurtak qoldirib kesiladi?",
+            options: ["8-10", "12-14", "5-7", "15-20"],
+            correct: "8-10",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok novdalarining kesish uzunligi asosan nima bog‘liq?",
+            options: [
+              "pishgan novdaning pishish darajasi va yo‘g‘onligiga",
+              "o‘stirish usuliga",
+              "agrotexnik tadbirga",
+              "tok tupining yoshiga",
+            ],
+            correct: "pishgan novdaning pishish darajasi va yo‘g‘onligiga",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok asosan qachon kesiladi?",
+            options: ["avgust", "oktyabr", "dekabr", "aprel"],
+            correct: "avgust",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok qator oralariga erta kuzda ekilgan o‘tlar ko‘kat o‘g‘it sifatida qachon haydab yuborilgani ma’qul?",
+            options: ["noyabrda", "dekabrda", "martda", "aprelda"],
+            correct: "noyabrda",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok o‘simligi ko‘miladigan rayonlarda qalamcha qachon tayyorlanadi?",
+            options: ["iyun", "avgust", "oktyabr", "yanvar"],
+            correct: "iyun",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Vitis avlodining necha avlodchasi (gruppasi) bor?",
+            options: ["4", "6", "8", "2"],
+            correct: "4",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning qaysi navi funksional urg‘ochi gulli?",
+            options: ["pushti toifi", "aliateko", "charos", "venger muskati"],
+            correct: "pushti toifi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning o‘suv davrida qaysi faza birinchi xisoblanadi?",
+            options: [
+              "suv xarakati",
+              "gullash",
+              "kurtakni yozilishi va novdani o‘sishi",
+              "mevani paydo bo‘lishi",
+            ],
+            correct: "suv xarakati",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "urug’li navlarni qanday sxemada o‘tkaziladi?",
+            options: ["3x4 m", "2x3 m", "3x3 m", "4x4 m"],
+            correct: "3x4 m",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Er osti suvlari yaqin erlarda xosilli toklar necha martta sug‘oriladi?",
+            options: ["4-5", "6-8", "2-1", "2-3"],
+            correct: "4-5",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokka elpig‘ich usulda shakl berilganda nechta zang bo‘ladi?",
+            options: ["2-4", "4-6", "8-10", "12-15"],
+            correct: "2-4",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokdagi filoksera zararkunandasi qaysi respublikalarda tarqalgan?",
+            options: ["Moldaviya", "O‘zbekiston", "Tojikiston", "Turkmaniston"],
+            correct: "Moldaviya",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Toklarda gullash qaysi xaroratda boshlanadi?",
+            options: ["50", "100", "150", "250"],
+            correct: "50",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Yosh toklarning qator oralaridan qanday ekin ekib foydalanish mumkin?",
+            options: [
+              "kechki kartoshka",
+              "makkajo‘xori",
+              "erta etiluvchi sabzavot, poliz ekinlari,",
+              "kungaboqar",
+            ],
+            correct: "kechki kartoshka",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning qanday navi ikki jinsli?",
+            options: ["Kattaqo‘rg‘on", "CHaros", "Xusayni", "Daroyi"],
+            correct: "Kattaqo‘rg‘on",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning o‘suv davri necha fazadan iborat?",
+            options: ["4", "5", "6", "7"],
+            correct: "4",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning vinobop navlarini kesish vaqtida har navida nechtadan kurtak qoldiriladi?",
+            options: ["20-22", "8-12", "25-28", "30-35"],
+            correct: "20-22",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok 3X2,5 sxemada ekilganda gektariga qancha ko‘chat sarflanadi?",
+            options: ["1203", "1533", "1433", "1333"],
+            correct: "1203",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning Amuransis avlodining nechta turi bor?",
+            options: ["30", "12", "25", "15"],
+            correct: "30",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "SHag‘al toshli tuproqlarda tok ko‘chatlar o‘suv (ko‘chatzorda) necha martta sug‘oriladi?",
+            options: ["12-15", "4-6", "6-8", "20-25"],
+            correct: "12-15",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Bo‘z tuproqlarda tok ko‘chatlari ko‘chatzorda o‘sish davrida necha martta sug‘oriladi?",
+            options: ["6-8", "12-15", "15-20", "3-4"],
+            correct: "6-8",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning oilasi nechta avloddan iborat?",
+            options: ["6", "8", "12", "13"],
+            correct: "6",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning uxlovchi kurtagidan o‘sgan novdani nomi nima?",
+            options: [
+              "kurtak novda",
+              "erkak novda",
+              "o‘tgan yilgi novda",
+              "bu yilgi hosil novda",
+            ],
+            correct: "kurtak novda",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning o‘suv davridagi to‘rtinchi fazaning nomini ko‘rsating?",
+            options: [
+              "shira harakati",
+              "mevani paydo bo‘lishi va o‘sishi",
+              "mevani pishishi",
+              "Gullash",
+            ],
+            correct: "shira harakati",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Xo‘jalikda tok qanday usulda ko‘paytiriladi?",
+            options: [
+              "urug‘idan",
+              "pishgan qalamchadan",
+              "payvandlash orqali",
+              "parxish orqali",
+            ],
+            correct: "urug‘idan",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok gektarda 3X3 sxemada ekilganda tok simbag‘azga qancha ustun ketadi?",
+            options: ["533", "333", "433", "233"],
+            correct: "533",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "O‘zbekiston sharoitida tokka qanday shakl beriladi?",
+            options: [
+              "Kosasimon",
+              "bir glakali gyuko",
+              "ko‘p zangli elpig’ich",
+              "ikki eokali gyuko",
+            ],
+            correct: "Kosasimon",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok novdalari, asosan nimalardan tashkil topadi?",
+            options: [
+              "bo‘g‘im va bo‘g‘im oralaridan",
+              "Barglardan",
+              "gul va barglardan",
+              "Hosildan",
+            ],
+            correct: "bo‘g‘im va bo‘g‘im oralaridan",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Novdalarning qaysi bo‘g‘inlaridan keyin jingalak yoki to‘pgullar paydo bo‘ladi?",
+            options: ["1-2", "2-6", "6-8", "8-10"],
+            correct: "1-2",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Bitta hosilli novdada nechagacha to‘pgul bo‘lishi mumkin (o‘rtacha)?",
+            options: ["1-3", "4-6", "7-8", "10"],
+            correct: "1-3",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning madaniy navlarida to‘laqonli novda qanday uzunlikda bo‘lishi lozim?",
+            options: ["50-70 sm", "70-100 sm", "100-150 sm", "200 sm"],
+            correct: "50-70 sm",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning oddiy bargi nimalardan tashkil topgan?",
+            options: [
+              "Xlorofilldan",
+              "turli tomirlardan",
+              "Turlardan",
+              "barg bandi va barg plastikasidan",
+            ],
+            correct: "Xlorofilldan",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Barg plastikasi nimalardan tashkil topgan?",
+            options: [
+              "barg yaprog’i va tomirlardan",
+              "tomirlardan",
+              "xlorofilldan",
+              "turlardan",
+            ],
+            correct: "barg yaprog’i va tomirlardan",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Bargning o‘sishi qancha vaqt davom etishi mumkin?",
+            options: ["1-2 xafta", "3-4 xafta", "5-6 xafta", "8-10 xafta"],
+            correct: "1-2 xafta",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok tupining eng katta barg satxi tokning qaysi davriga to‘g‘ri keladi?",
+            options: [
+              "gullashgacha",
+              "gullash davrida",
+              "g’ujumlarning o‘sishi davrida",
+              "g‘ujumlar pishishiga yaqin",
+            ],
+            correct: "gullashgacha",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Fotosintez uchun mo‘‘tadil havo haroratini ko‘rsating?",
+            options: ["20-250S", "25-280S", "28-320S", "35-400S"],
+            correct: "20-250S",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Funksional urg‘ochi gulli uzum navlarini ko‘rsating?",
+            options: [
+              "xusayni, toyfi, parkent, oq kishmish",
+              "risling, bayan shirey, sultoni",
+              "nimrang, kattaqo‘rg‘on, charos, tavkveri",
+              "qora kishmish, rkatsiteli, saperavi",
+            ],
+            correct: "xusayni, toyfi, parkent, oq kishmish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Fotosintez jarayoni kunning qaysi vaqtida jadal kechadi?",
+            options: [
+              "Ertalab",
+              "Peshinda",
+              "Kechki vaqt",
+              "tushgacha va tushdan so‘ng",
+            ],
+            correct: "Ertalab",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Transpiratsiya jarayoni kunning qaysi vaqtida jadal kechadi?",
+            options: [
+              "Ertalab",
+              "tushga yaqin",
+              "tushdan so‘ng",
+              "kechga yaqin",
+            ],
+            correct: "Ertalab",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "1 ga maydondagi tokzor umumiy barg satxi 30000 m2 bo‘lganda bir sutka davomida qancha suv bug‘latishi mumkin?",
+            options: ["15 t", "20 t", "25 t", "30 t"],
+            correct: "15 t",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Bahorda yashil novdalar qanday uzunlikda bo‘lganda sho‘rlarni payqash mumkin?",
+            options: ["15-20 sm", "25-30 sm", "30-35 sm", "35-40 sm"],
+            correct: "15-20 sm",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok qachon gullaydi?",
+            options: [
+              "may boshlarida",
+              "may o‘rtalarida",
+              "mayning uchinchi o‘n kunligida",
+              "iyun boshlarida",
+            ],
+            correct: "may boshlarida",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok gullashi necha kun davom etadi?",
+            options: ["5-12 kun", "15-20 kun", "25-30 kun", "23-40 kun"],
+            correct: "5-12 kun",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning gullashi uchun qulay havo harorati qancha bo‘lishi kerak?",
+            options: ["15-200S", "25-300S", "30-330S", "33-360S"],
+            correct: "15-200S",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning o‘suv davri nechta fenologik fazalarga bo‘linadi?",
+            options: ["3", "5", "7", "4"],
+            correct: "3",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Birinchi shira xomtok o‘suv davrining qaysi fazasida qilinadi?",
+            options: [
+              "shira xarakati",
+              "novda va tup gullarning o‘sishi",
+              "gullash",
+              "meva o‘sishi va pishishi",
+            ],
+            correct: "shira xarakati",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Ikkinchi g‘ura xomtok o‘suv davrining qaysi fazasida qilinadi?",
+            options: [
+              "Novda va tup gullarning o‘sishi",
+              "Gullash",
+              "g‘ujumlarning o‘sishi",
+              "g‘ujumlarning pishishi",
+            ],
+            correct: "Novda va tup gullarning o‘sishi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Novdalarni chekanka qilish , asosan qaysi oyda qilinadi?",
+            options: ["Iyun", "Iyul", "Avgust", "sentyabr"],
+            correct: "Iyun",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "O‘zbekistonda uzumlarning to’lliq pishishi uchun o‘rtacha havo harorati qancha bo‘lishi kerak?",
+            options: ["23-260S", "26-300S", "30-350S", "35-380S"],
+            correct: "23-260S",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Qora kishmish navining to‘liq pishgan g‘ujumlarida qancha foizgacha qand moddalari to‘planishi mumkin?",
+            options: ["10-15%", "20-25%", "30-35 %", "40-45%"],
+            correct: "10-15%",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok o‘simligi organik tinim davrini qaysi muddatlarda o‘taydi?",
+            options: [
+              "oktyabr-noyabr",
+              "noyabr-dekabr",
+              "yanvar-mart",
+              "aprel",
+            ],
+            correct: "oktyabr-noyabr",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok o‘simligi majburiy tinim davrini qaysi muddatlarda o‘taydi?",
+            options: ["oktyabr", "noyabr-dekabr", "yanvar-mart", "aprel"],
+            correct: "oktyabr",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning Xusayni navining kloni nechta?",
+            options: ["2", "3", "4", "5"],
+            correct: "2",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokda tabiiy mutagenez oqibatida sodir bo‘ladigan o‘zgarishlar-bu:",
+            options: [
+              "Uzum navlari ichida kurtak variasiyasi (o‘zgaruvchanligi)",
+              "Tashqi muxit ta’sirida fiziologik o‘zgarishlar",
+              "Quyosh nuri ta’siridagi irsiy o‘zgarishlar",
+              "Ob-xavo ta’siridagi biokimyoviy o‘zgarishlar",
+            ],
+            correct:
+              "Uzum navlari ichida kurtak variasiyasi (o‘zgaruvchanligi)",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok ilmiy tadkikot qullaniladigan asosiy usullar-bu",
+            options: [
+              "Aboregen (maxalliy) navlarni o‘rganish, tabiiy, irsiy o‘zgarishlarga ega tok shakl va navlarini izlash, sun’iy duragaylash va klon seleksiyasi",
+              "Tabiiy, irsiy o‘zgarishlarga ega tok shakl va navlarini izlash",
+              "Sun’iy duragaylash va klon seleksiyasi",
+              "Tabiiy, irsiy o‘zgarishlarga ega tok shakl va navlarini izlash, sun’iy duragaylash va klon seleksiyasi",
+            ],
+            correct:
+              "Aboregen (maxalliy) navlarni o‘rganish, tabiiy, irsiy o‘zgarishlarga ega tok shakl va navlarini izlash, sun’iy duragaylash va klon seleksiyasi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Duragaylash – bu",
+            options: [
+              "Uzumning yangi navlarini yaratishning asosiy usuli, uzum navlari sifatini yaxshilashdagi samarali usul",
+              "Uzum navlari sifatini yaxshilashdagi samarali usul",
+              "O‘simlikni o‘zaro chatishtirish usuli",
+              "Uzumning yangi navlarini yaratishning asosiy usuli",
+            ],
+            correct:
+              "Uzumning yangi navlarini yaratishning asosiy usuli, uzum navlari sifatini yaxshilashdagi samarali usul",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Uzum ko‘chatzorining 1 gektardan necha donna kuchat chikadi",
+            options: ["60", "90", "40", "20"],
+            correct: "60",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Turlararo duragaylash qanday uzum navlarini yaratishda qullaniladi?",
+            options: [
+              "Sovuqqa chidamli",
+              "Kasalliklarga chidamli",
+              "Urug‘siz navlarni",
+              "Qurg‘oqchilikka chidamli",
+            ],
+            correct: "Sovuqqa chidamli",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Noqulay sharoitlarga chidamli navlarni yaratishda e’tiborli duragaylash xili-bu:",
+            options: [
+              "Turlararo duragaylash",
+              "Turkumlararo duragaylash",
+              "Navlararo duragaylash",
+              "Navlar ichida duraygaylash",
+            ],
+            correct: "Turlararo duragaylash",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokda tabiiy mutagenez oqibatida sodir bo‘ladigan o‘zgarishlar-bu:",
+            options: [
+              "Uzum navlari ichida kurtak variasiyasi (o‘zgaruvchanligi)",
+              "Tashqi muxit ta’sirida fiziologik o‘zgarishlar",
+              "Quyosh nuri ta’siridagi irsiy o‘zgarishlar",
+              "Ob-xavo ta’siridagi biokimyoviy o‘zgarishlar",
+            ],
+            correct:
+              "Uzum navlari ichida kurtak variasiyasi (o‘zgaruvchanligi)",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Barg qo‘ltigidan o‘sib chiqan navda nima deb ataladi?",
+            options: [
+              "Qultiq navda",
+              "Bachki navda",
+              "Tikan navda",
+              "O‘rin bosar navda",
+            ],
+            correct: "Qultiq navda",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "O‘zbekiston Respublikasida uzumning qaysi navlari oborigen navlar xisoblanadi",
+            options: [
+              "Rizamat, Husayni, Qora kishmish",
+              "Saperavi, Xindognыy , Rizamat",
+              "Rkatsiteli, Rislin, Xusayni",
+              "Kora pino, Xindognыy, Kora kishmish",
+            ],
+            correct: "Rizamat, Husayni, Qora kishmish",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning o‘suv davrida qaysi faza ikkinchi xisoblanadi?",
+            options: [
+              "Kurtakni ezishi va navdalarni o‘sishi",
+              "Gullash",
+              "SHira xarakati",
+              "Mevalarni tugishi",
+            ],
+            correct: "Kurtakni ezishi va navdalarni o‘sishi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Uzumning Amerika turlariga qaysi turlar kiradi?",
+            options: [
+              "Berlandieri, Labruska, Ripariya",
+              "Amurenzis, Labruska",
+              "Ripariya, Amurenzis",
+              "Amurenzis, Vitis vinifera",
+            ],
+            correct: "Berlandieri, Labruska, Ripariya",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Uzumning qaysi navlari eng ertapishar navlar xisoblandi?",
+            options: ["Surxak kitobi", "Pishti kishmish", "Xushrou", "Xusayin"],
+            correct: "Surxak kitobi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Vitis amurenzis turi qanday navlarni chiqarishda foydalaniladi?",
+            options: [
+              "Sovuqqa chidamli navlarni chiqarishda",
+              "Serxosil navlarni chiqarishda",
+              "Kasallikkka chidamli navlarni chiqarishda",
+              "Zararkunandalarga chidamli navlarni chiqarishda",
+            ],
+            correct: "Sovuqqa chidamli navlarni chiqarishda",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokni novda (qalamchalar)dan ko‘paytirishda, qalmchalar qanday uzunlikda tayyorlanadi?",
+            options: ["55-60 sm", "80-85 sm", "90-100 sm", "120-140 sm"],
+            correct: "55-60 sm",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tokning Amuransis avlodining nechta turi bor?",
+            options: ["30", "15", "69", "45"],
+            correct: "30",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Urug‘siz navlarni yaratishda uzumning urug‘li navlaridan qanday o‘simlik sifatida foydalaniladi?",
+            options: [
+              "Ona o‘simlik sifatida foydalaniladi",
+              "Ota o‘simlik sifatida foydalaniladi",
+              "Oraliq o‘simlik sifatida foydalaniladi",
+              "Ota va ona o‘simlik sifatida foydalaniladi",
+            ],
+            correct: "Ona o‘simlik sifatida foydalaniladi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Ko‘chatzorda aprobatsiya qachon o‘tkaziladi?",
+            options: ["sentyabr", "iyun", "oktyabr-noyabr", "sentyabr-oktyabr"],
+            correct: "sentyabr",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Uzumning Kishmish Zafaron navi qaysi navlarni chatishtirib yaratilgan?",
+            options: [
+              "Kattaqurg‘on va Bedona navlarini chatishtirib",
+              "Pobeda va Qora kishmish navlarini chatishtirib",
+              "Babara va Qora kishmish navlarini chatishtirib",
+              "Nimrang va Qora kishmish navlarini chatishtirib",
+            ],
+            correct: "Kattaqurg‘on va Bedona navlarini chatishtirib",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "Tok ildizining uchki qismi qanday zonalardan iborat?",
+            options: [
+              "ildiz qini, o‘sish zonasi, so‘ruvchi qismi",
+              "so‘ruvchi qismi, o‘tkazuvchi qismi",
+              "so‘ruvchi qismi, o‘tkazuvchi qismi",
+              "so‘ruvchi qismi, o‘tkazuvchi qismi",
+            ],
+            correct: "ildiz qini, o‘sish zonasi, so‘ruvchi qismi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Uzumning Rubinoviy navi qaysi navlarni chatishtirib yaratilgan?",
+            options: [
+              "Pti Bushe navini Xindogni naviga chatishtirib",
+              "Kattaqurg‘on va Pushti Parkent navlarini chatishtirib",
+              "Nimrang va Qora kishmish navlarini chatishtirib",
+              "Pobeda va Qora kishmish navlarini chatishtirib",
+            ],
+            correct: "Pti Bushe navini Xindogni naviga chatishtirib",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Xo‘raki nav toklar novdalari o‘rtacha o‘sganda novdada nechta kurtak qoldirib kesiladi?",
+            options: ["8-16", "5-6", "10-12", "18-20"],
+            correct: "8-16",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "O‘zbekistonning Rubinoviy navi kim tomonidan yaratilgan?",
+            options: [
+              "Mixaylova P.V",
+              "Smirnov K.V.",
+              "Juravel M.S.",
+              "Ochienko G.V.",
+            ],
+            correct: "Mixaylova P.V",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Yosh toklarning qator oralaridan qanday ekin ekib foydalanish mumkin?",
+            options: [
+              "kechki kartoshka",
+              "makkajo‘xori",
+              "erta etiluvchi sabzavot, poliz ekinlari,",
+              "kungaboqar",
+            ],
+            correct: "kechki kartoshka",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Dunyo bo‘yicha uzum xosilining necha foizi istemol uchun ishlatiladi ?",
+            options: ["16", "12", "15", "17"],
+            correct: "16",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question: "O‘zbekiston sharoitida tokka qanday shakl beriladi?",
+            options: [
+              "kosasimon",
+              "bir glakali gyuko",
+              "ko‘p zangli elpig‘ich",
+              "ikki eokali gyuko",
+            ],
+            correct: "kosasimon",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Qora kishmish navining tuliq pishgan g‘ujumlarida qancha foizgacha qand moddalari tuplanishi mumkin?",
+            options: ["26-27", "28-30", "24-26", "20-24"],
+            correct: "26-27",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Yerni ekishga tayyorlashda yerni begona o‘tlardan tozalash uchun qancha chuqurlikda haydalib, ildiz qoldiqlaridan tozalanadi?",
+            options: ["20-25 sm", "15-20 sm", "25-30sm", "10-15 sm"],
+            correct: "20-25 sm",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Sug‘oriladigan bo‘z tuproqli yerlarda tok ko'chatini ekish chuqurligi qancha?",
+            options: ["30-35 sm", "50-55 sm", "40-45 sm", "50-60"],
+            correct: "30-35 sm",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tok qalamchalarini handaklarga joylashtirishdan oldin, ular zamburug‘ kasalliklariga chalinmasligi uchun 5 soat davomida 0,5% li qanaqa eritmada saqlanadi?",
+            options: ["gibrillin", "xinozol", "sulfit", "indolilsirka"],
+            correct: "gibrillin",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Qalamchalar ekilgach, 18-20 kun davomida substrat namligi necha % darajada saqlab turilishi lozim",
+            options: ["50-60%", "60-70%", "75-80%", "85-90%"],
+            correct: "50-60%",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "So‘ngi yillarda tok ko‘chatlarini gidroponika sharoitida yetishtirish texnologiyasi kimlar tomonidan ishlab chiqilgan",
+            options: [
+              "V.G.Nikolen-ko, A.S.Subbotovich, L.M.Maltabar",
+              "V.G.Nikolen-ko, Sh. Temurov, T_E_Ostonaqulov",
+              "A.S.Subbotovich, L.M.Maltabar, T_E_Ostonaqulov",
+              "A.S.Subbotovich, L.M.Maltabar, Sh. Temurov,",
+            ],
+            correct: "V.G.Nikolen-ko, A.S.Subbotovich, L.M.Maltabar",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tuproq unumdorligini saqlash va uni oshirish uchun undagi mineral oziq moddalarining niisbatini qancha miqdorda inobatga olish zarur",
+            options: [
+              "N2 60%, P 40%, K 76%",
+              "N2 120%, P 60%, K 30%",
+              "N2 120%, P 50%, K 30%",
+              "N2 40%, P 60%, K 80%",
+            ],
+            correct: "N2 60%, P 40%, K 76%",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokzorga solinadigan mineral o‘g‘itlar miqdorini aniqlash uchun qanday formuladan foydalaniladi?",
+            options: [
+              "Х = М2 х 100/О",
+              "Х = М х 100/О",
+              "Х = (М х 100)2/О",
+              "Х = М х 100+О",
+            ],
+            correct: "Х = М2 х 100/О",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "O‘zbekistonning tog‘li va tog‘ oldi rayonlarida tokzor barpo qilish mumkin bo‘lgan yerlarni shartli ravishda nechta qismga ajaratiladi?",
+            options: ["4", "5", "6", "7"],
+            correct: "4",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tog‘ etagi va tog‘ oldi zonalarida, asosan ……… , tog‘li zonalarda esa, ……….tuproqlar tarqalgan.",
+            options: [
+              "och bo‘z tuproq, tipik hamda qo‘ng‘ir bo‘z",
+              "bo’z tuproq, yengil qumoq",
+              "tipik bo’z tuproq, qo’ng’ir bo’z",
+              "tipik hamda qo’ng’ir bo’z, qumloq",
+            ],
+            correct: "och bo‘z tuproq, tipik hamda qo‘ng‘ir bo‘z",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tik qiyaligi 8-120 gacha bo‘lgan yonbag‘irlarda tok tuplari joyning gorizontal yo‘nalishi bo‘ylab yonbag‘irga qanday qilib ekiladi?",
+            options: [
+              "vertikal",
+              "vertikal va ko’ndalang",
+              "u yerlarda ekilmaydi",
+              "ko‘ndalang",
+            ],
+            correct: "vertikal",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Dengiz sathidan balandlik oshgan sari nima uchun tokning o‘suv davri kechroq boshlanib, ertaroq tugaydi?",
+            options: [
+              "havo haroratining ko’tarilib borishi",
+              "bosimning pasayishi",
+              "havo haroratining pasaya borishi",
+              "bosimning ko’tarilishi",
+            ],
+            correct: "havo haroratining ko’tarilib borishi",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Ko‘k novdalarning barg qo‘ltiqlaridagi kurtaklardan o‘sib chiqqan novdalarni nima deyiladi?",
+            options: [
+              "markaziy novda",
+              "qishlovchi novda",
+              "o’rinbosar novda",
+              "qo‘ltiq novda",
+            ],
+            correct: "markaziy novda",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Tokning vinobop navlarini kesish vaqtida har navida nechtadan kurtak qoldiriladi?",
+            options: ["20-22", "8-12", "25-28", "30-35"],
+            correct: "20-22",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+          {
+            question:
+              "Qalamchalar tayyorlashda qanday seleksiyadan foydalaniladi?",
+            options: [
+              "klon seleksiya va fotosanitariyaseleksiyasidan",
+              "yalpi (ommaviy) seleksiya, klon seleksiya va fotosanitariyaseleksiyasidan",
+              "yalpi (ommaviy) seleksiya, klon seleksiya",
+              "genom seleksiya, klon seleksiya va fotosanitariyaseleksiyasidan",
+            ],
+            correct: "klon seleksiya va fotosanitariyaseleksiyasidan",
+            source: "Tok yetishtirish texnologiyasi",
+          },
+        ],
+        "Meva ekinlar seleksiyasi": [
+          {
+            question:
+              "Mevachilikda yangi nav yaratish jarayoni nimadan farq qilib davomiyligi bilan ajralib turadi.",
+            options: [
+              "Bir yillik o’simliklardan",
+              "Ko’p yillik o’simliklardan",
+              "Daraxtsimin o’simliklardan",
+              "O’tsimon o’simliklardan",
+            ],
+            correct: "Bir yillik o’simliklardan",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Selleksiya jarayonining 1 bosqichi qanday?",
+            options: [
+              "Seleksiya uchun dastlabki material tayyorlash",
+              "Sun’iy duragaylar yaratish",
+              "Tanlas",
+              "Sinash",
+            ],
+            correct: "Seleksiya uchun dastlabki material tayyorlash",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Meva daraxtlarining nimalari foydali",
+            options: [
+              "Yovvoyi ajdodlari",
+              "Mevali shoxlari",
+              "Madaniy avlodlari",
+              "Hosilli shohlari",
+            ],
+            correct: "Yovvoyi ajdodlari",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Birinchi bosqich __________ seleksiya davri.",
+            options: [
+              "Oddiy",
+              "Tanlash",
+              "Xalq seleksiyasi",
+              "Sun’iy duragaylar yaratish",
+            ],
+            correct: "Oddiy",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qaysi bosqich neolit davrida boshlangan va «tanlash» jarayoni insonning faqat kundalik extiyojlarini qondirish uchungina olib borilgan.",
+            options: [
+              "Oddiy",
+              "Tanlash",
+              "Xalq seleksiyasi",
+              "Sun’iy duragaylar yaratish",
+            ],
+            correct: "Oddiy",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qaysi bosqich ma’lum bir nav yaratish maqsadi bo’lmagan.",
+            options: [
+              "Oddiy",
+              "Tanlash",
+              "Xalq seleksiyasi",
+              "Sun’iy duragaylar yaratish",
+            ],
+            correct: "Oddiy",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Sun’iy tanlash ma’lum bir maqsadga qaratilgan bo’lib, umumiy tuye oldi, va yangi navlar yaratishda _____________ bosqichi boshlandi.",
+            options: [
+              "Xalq seleksiyasi",
+              "Tanlash",
+              "Oddiy (ibtidoiy)",
+              "Sun’iy duragaylar yaratish",
+            ],
+            correct: "Xalq seleksiyasi",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Hozirda davom etib kelayotgan bosqi bu ________",
+            options: [
+              "Xalq seleksiyasi",
+              "Tanlash",
+              "Oddiy (ibtidoiy)",
+              "Sun’iy duragaylar yaratish",
+            ],
+            correct: "Xalq seleksiyasi",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Selleksiya jarayonining 2 bosqichi qanday nomlanadi.",
+            options: [
+              "Sun’iy duragaylar yaratish",
+              "Tanlash",
+              "Seleksiya uchun dastlabki material tayyorlash",
+              "Sinash",
+            ],
+            correct: "Sun’iy duragaylar yaratish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Selleksiya jarayonining 3 bosqichi qanday nomlanadi.",
+            options: [
+              "Tanlash",
+              "Sun’iy duragaylar yaratish",
+              "Seleksiya uchun dastlabki material tayyorlash",
+              "Sinash",
+            ],
+            correct: "Tanlash",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Selleksiya jarayonining 4 bosqichi qanday nomlanadi.",
+            options: [
+              "Sinash",
+              "Sun’iy duragaylar yaratish",
+              "Seleksiya uchun dastlabki material tayyorlash",
+              "Tanlash",
+            ],
+            correct: "Sinash",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "N.I. Vavilov ___________________degan edi.",
+            options: [
+              "Amaliy seleksiyani boshlashda eng avval mahalliy materialni yaxshi bilish zarur. U navlarni yaxshilashda dastlabki material bo’lishi kerak",
+              "Navlarni yaxshilashda dastlabki material bo’lishi kerak",
+              "Yangi navda mujassam etilishi kerak bo’lgan muhim belgi va xususiyatlar mahalliy namunala",
+              "Seleksioner olimlar o’zlarining ilmiy faoliyatlarida dunyoning ko’p qitalaridan keltirilgan namunalardan foydalanishgan.",
+            ],
+            correct:
+              "Amaliy seleksiyani boshlashda eng avval mahalliy materialni yaxshi bilish zarur. U navlarni yaxshilashda dastlabki material bo’lishi kerak",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Introduksiya - ____________________ demakdir",
+            options: [
+              "Introductio - kirish, ko’chirish ma’nosini bildiradi biror o’simlik turini ilgari o’smagan joyga olib kelish yoki ko’chirish",
+              "Introduksiya iqlimlashtirish va naturalizasiya bilan bog’liqdir",
+              "Biror iqlim sharoitida o’sib-ungan o’simlik turini iqlim sharoiti farq qiladigan boshqa hudud",
+              "Iqlimlashtirish uchun mo’ljallangan o’simlik turi urug’idan ko’paytirilishi shart",
+            ],
+            correct:
+              "Introductio - kirish, ko’chirish ma’nosini bildiradi biror o’simlik turini ilgari o’smagan joyga olib kelish yoki ko’chirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Introduksiya nima bilan bog’liqdir.",
+            options: [
+              "Iqlimlashtirish va naturalizasiya",
+              "Introductio",
+              "Iqlimlashtirish",
+              "Yomg’ir",
+            ],
+            correct: "Iqlimlashtirish va naturalizasiya",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Chatishtirish natijasida nima paydo bo’ladi.",
+            options: ["Duragaylar", "Avlod 1", "Nav", "Turlar"],
+            correct: "Duragaylar",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Duragaylar qanday organizmdir?",
+            options: [
+              "Sun’iy chatishtirish yoki tabiiy chatishish natijasida paydo bo’lgan yangi organizm",
+              "Navlar ma’lum bir xususiyati",
+              "Oddiy yoki jo’n seleksiya",
+              "Juda kam uchraydigan o’simlik",
+            ],
+            correct:
+              "Sun’iy chatishtirish yoki tabiiy chatishish natijasida paydo bo’lgan yangi organizm",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Sun’iy chatishtirish natijasida qanday duragaylar paydo bo’ladi.",
+            options: [
+              "Oddiy duragaylar",
+              "Tabiiy duragaylar",
+              "O’zaro duragaylar",
+              "T.J.yo’q",
+            ],
+            correct: "Oddiy duragaylar",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Tabiiy duragalarda nimalar ma’lumdir.",
+            options: [
+              "Faqat onalik shakllari",
+              "Faqat otalik shakllari",
+              "Changchilik shakllari",
+              "Ota va onalik shakllari",
+            ],
+            correct: "Faqat onalik shakllari",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Seleksiya usullarini nechta turkumga ajratish mumkin.",
+            options: [
+              "Ikki — analitik va sintetik turkum",
+              "Uch-tabiiy va suniy va sintetik turkum",
+              "Ikkita - tabiiy va suniy turkum",
+              "Turkumga ajratilmaydi",
+            ],
+            correct: "Ikki — analitik va sintetik turkum",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Tabiatda mavjud bo’lgan o’simliklar ichidan tanlash yo’li bilan yangi nav yaratish qaysi usulga kiradi",
+            options: [
+              "Analitik usul",
+              "Suniy usul",
+              "Tabiiy usul",
+              "Sintetik usul",
+            ],
+            correct: "Analitik usul",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "I.V. Michurin ,__________ foydalanib meva ekinlarining yangi navlarini yaratishdi",
+            options: [
+              "Tabiiy duragaylardan foydalanib",
+              "Oddiy duragaylar orqali foydalanib",
+              "Suniy chatishtirish yo’li bilan foydalangan",
+              "Har hil yo’l bilan chatishtirilib foydalanib",
+            ],
+            correct: "Tabiiy duragaylardan foydalanib",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "I.V. Michurin tabiiy duragaylardan foydalanib,nima qilgan.",
+            options: [
+              "Meva ekinlarining yangi navlarini yaratishdi",
+              "Har hil turdagi navlarni chatishtirishdi va yaratishdi",
+              "Bir turdagi duragaylarni tanlab olishgan",
+              "Davlat sinovidan o’tgazishdagi navlar yaratishgan",
+            ],
+            correct: "Meva ekinlarining yangi navlarini yaratishdi",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "I. V. Michurin nimani seleksiyaning eng qudratli usuli deb hisoblagan.",
+            options: [
+              "Duragaylashni",
+              "Chatishtirishni",
+              "Yangi nav yaratishni",
+              "Avlod yaratishni",
+            ],
+            correct: "Duragaylashni",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Har xil irsiyatga ega bo’lgan ikki yoki bir necha organizmlarni bir-biri bilan chatishtirishni __________ deb ataladi.",
+            options: [
+              "Duragaylash",
+              "CHatishtirsh",
+              "Avlod tanlash",
+              "Sinashda jarayoni",
+            ],
+            correct: "Duragaylash",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Chatpshtirish tufayli vujudga kelgan yangi organizmga ________ deyiladi.",
+            options: [
+              "Duragaylash",
+              "CHatishtirsh",
+              "Avlod tanlash",
+              "Sinashda jarayoni",
+            ],
+            correct: "Duragaylash",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "________ tufayli vujudga kelgan yangi organizmga duragay deyiladi.",
+            options: [
+              "Chatishtirsh",
+              "Duragylash",
+              "Avlod tanlash",
+              "Sinashda jarayoni",
+            ],
+            correct: "Chatishtirsh",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Chatpshtirish tufayli vujudga kelgan ________ duragay deyiladi.",
+            options: [
+              "Yangi organizmga",
+              "Duragaylarga",
+              "Yangi navlarga",
+              "Chatishtirilgan",
+            ],
+            correct: "Yangi organizmga",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qanday organizmlar chatishtirishda ishtirok etgan organizmlarning irsiy xususiyatlariga ega bo’ladi.",
+            options: [
+              "Duragay",
+              "CHatishtirsh",
+              "Avlod tanlash",
+              "Sinashda jarayoni",
+            ],
+            correct: "Duragay",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Duragaylash ikkiga — tabiiy va sun’iy duragaylashga bo’linadi.",
+            options: [
+              "Ikki — analitik va sintetik turkumga",
+              "Uch-tabiiy va suniy va sintetik",
+              "Ikkita - tabiiy va suniy",
+              "Turkumga ajratilmaydi",
+            ],
+            correct: "Ikki — analitik va sintetik turkumga",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Qanday duragaylar tabiatda keng tarqalgan.",
+            options: [
+              "Tabiiy duragaylanish",
+              "Suniy duragaylanish",
+              "Sintetik duragaylanish",
+              "Analitik duragaylanish",
+            ],
+            correct: "Tabiiy duragaylanish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Chatishtirish necha tartibda olib boriladi",
+            options: ["2", "3", "4", "5"],
+            correct: "2",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "__________- – olingan navlarning (insuxt liniyalarning) ћar biri boshka navlar bilan aloћida-aloћida chatishtiriladi",
+            options: [
+              "Diallel chatishtirish",
+              "Oddiy chatishtirish",
+              "Murakkab chatishtirish",
+              "Chetdan chatishtirish",
+            ],
+            correct: "Diallel chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qaysi chatishtirish usul ko’pincha makkajo’xorining geterozisli duragaylarini yaratishda ko’llanadi.",
+            options: [
+              "Diallel chatishtirish",
+              "Oddiy chatishtirish",
+              "Murakkab chatishtirish",
+              "Chetdan chatishtirish",
+            ],
+            correct: "Diallel chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Diallel chatishtirish usul ko’pincha qaysi o’simlik geterozisli duragaylarini yaratishda ko’llanadi.",
+            options: ["Makkajo’xori", "Bug’doy", "Paxta", "Sholi"],
+            correct: "Makkajo’xori",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qaysi chatishtirish usulni 1930 yilda L.A.Sapegin tavsiya kilgan.",
+            options: [
+              "To’yintiruvchi chatishtirish",
+              "Oddiy chatishtirish",
+              "Murakkab chatishtirish",
+              "Chetdan chatishtirish",
+            ],
+            correct: "To’yintiruvchi chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Duragayda biror xususiyatni ћosil kilish yoki kuchaytirish uchun 5-7 yil davomida o’tkaziladigan chatishtirish usuli qaysi",
+            options: [
+              "To’yintiruvchi chatishtirish",
+              "Oddiy chatishtirish",
+              "Murakkab chatishtirish",
+              "Chetdan chatishtirish",
+            ],
+            correct: "To’yintiruvchi chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "To’yintiruvchi chatishtirish usulida .Duragayda biror xususiyatni ћosil kilish yoki kuchaytirish uchun necha yil davomida o’tkaziladi",
+            options: ["5-7", "6-8", "7-9", "8-10"],
+            correct: "5-7",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Hozirgi paytda meva ekinlari seleksiyasida qanaqa chatishtirish asosiy usul xisoblanadi",
+            options: [
+              "Sun’iy chatishtirish",
+              "Oddiy chatishtirish",
+              "Murakkab chatishtirish",
+              "Chetdan chatishtirish",
+            ],
+            correct: "Sun’iy chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "XVIII asrda ingliz o’simlikshunos olimi T.E. Nayt (1759-1838) qaysi chatishtirish yo’li bilan olma, nok, olcha, olxo’ri va qulupnayning yangi navlarini yaratdi.",
+            options: [
+              "Sun’iy chatishtirish",
+              "Oddiy chatishtirish",
+              "Murakkab chatishtirishD)",
+              "Chetdan chatishtirish",
+            ],
+            correct: "Sun’iy chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qaysi chatishtirishning muvaffaqiyati ota-ona juftlarini to’gri tanlash va seleksiyaning keyingi bosqichlarini yuksak darajada olib bornshga bog’liqdir.",
+            options: [
+              "Sun’iy chatishtirish",
+              "Oddiy chatishtirish",
+              "Murakkab chatishtirish",
+              "Chetdan chatishtirish",
+            ],
+            correct: "Sun’iy chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Jinsiy xo’jayralarda oddiy xromosoma to’plami - _______ to’plam bo’ladi.",
+            options: ["Gaploid", "Diploid", "Somatik", "Poliploid"],
+            correct: "Gaploid",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Mutasiyani qo’zg’atuvchi, paydo qiluvchi, yaratuvchi hamma omillar _____ deyiladi",
+            options: [
+              "Mutagenlar",
+              "Somatiklar",
+              "Generativlar",
+              "Duragaylash",
+            ],
+            correct: "Mutagenlar",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Mutasiya paydo bo’lgan organizmni nima deb yuritiladi.",
+            options: ["Mutant", "Diploidlar", "Duragay", "Diploidlar"],
+            correct: "Mutant",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Mutasiyalar necha hil bo’ladi.",
+            options: [
+              "Ikki — analitik va sintetik",
+              "Uch-tabiiy va suniy va sintetik",
+              "Ikkita - tabiiy va suniy",
+              "Ikkita - tabiiy va va sintetik",
+            ],
+            correct: "Ikki — analitik va sintetik",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Mutagenlar ta’sirida qanday o’zgarishlar ro’y beradi.",
+            options: [
+              "Morfologik va biokimyoviy o’zgarishlar",
+              "Fizikaviy va kimyoviy o’zgarishlar",
+              "Moddalar va biokimyoviy o’zgarishlar",
+              "Morfologik va fizikaviy o’zgarishlar",
+            ],
+            correct: "Morfologik va biokimyoviy o’zgarishlar",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Meva ekinlarida nima ko’p uchraydi.",
+            options: ["Triploidlik", "Pentaploid", "Geksaploid", "Gektaploid"],
+            correct: "Triploidlik",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qaysi to’plam rezavor mevalar, texnik, sitrus, donli, manzarali va boshqa ekin turlarida uchraydi.",
+            options: [
+              "Poliploid to’plam",
+              "Oktoploid",
+              "Gektaploid",
+              "Pentaploid",
+            ],
+            correct: "Poliploid to’plam",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Hozirda meva ekinlarning poliploid navlari o’zining kelib chiqishi bo’yicha qanday poliploiddir.",
+            options: [
+              "Tabiiy poliploid",
+              "Suniy poliploid",
+              "Oktoploid poliploid",
+              "Gektaploid poliploid",
+            ],
+            correct: "Tabiiy poliploid",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Poliploidlarda mevaning nimalari ko’pincha yuqori bo’ladi.",
+            options: ["Hosildorlik", "Shox shabbasi", "Sifati", "Mevalari"],
+            correct: "Hosildorlik",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Urug’li meva ekinlari triploid navlarining tana xujayralarida xromosomalar soni 34 o’rniga nechta bo’ladi.",
+            options: ["51", "54", "57", "60"],
+            correct: "51",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Oddiy (ibtidoiy) seleksiya davri nechanchi bosqich hisoblanadi",
+            options: ["Birinchi", "Ikkinchi", "Uchunchi", "To’rtinchi"],
+            correct: "Birinchi",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Selleksiyaning sinash bosqichi nechanchi bosqich hisoblanadi",
+            options: ["4", "5", "6", "7"],
+            correct: "4",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "O’simliklar regenerasiyasida xromosomalar to’plamining ikki marta ko’paynshini 1916 yilda kim kuzatdi.",
+            options: ["G. Vinklerr", "I.V. Michurin", "Ch.Darvin", "L.Berbank"],
+            correct: "G. Vinklerr",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "N.I.Vavilovdir (1943). nechadan ortiq mamlakatlarda bo’lib, juda ko’p o’simliklar namunalarini to’pladi ?",
+            options: ["50", "60", "70", "80"],
+            correct: "60",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Turli yo’llar bilan avval o’simliklar irsiyatini o’zgartirish va o’zgargan o’simliklar ichidan tanlash yo’li bilan nav yaratish ______________i usulga kiradi.",
+            options: [
+              "Sintetik usulga kiradi.",
+              "Suniy usul",
+              "Tabiiy usul",
+              "Analitik usul",
+            ],
+            correct: "Sintetik usulga kiradi.",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Duragaylash, amaliy mutagenez va poliploidiya, geterozis seleksiyaning ____________ usullaridir",
+            options: [
+              "Sintetik usul",
+              "Suniy usul",
+              "Tabiiy usul",
+              "Analitik usul",
+            ],
+            correct: "Sintetik usul",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "O’simliklarning hamma navlari __________ yoli bilan yaratiladi",
+            options: [
+              "Tanlash yo’li bilan",
+              "Saralash yo’l bilan",
+              "Suniy yo’l bilan",
+              "Sintetik yo’l bilan",
+            ],
+            correct: "Tanlash yo’li bilan",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "_____________ seleksiya ilmiy seleksiyaning birinchi bosqichi bo’lib qoldi.",
+            options: [
+              "Analitik seleksiya",
+              "Nazariy selleksiya",
+              "Xalq selleksiya",
+              "Amaliy selleksiya",
+            ],
+            correct: "Analitik seleksiya",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Poliploid shakllardan nav olish uchun ularni, odatda, _________ lozim.",
+            options: [
+              "Chatishtirish lozim",
+              "Ajratish kerak",
+              "Duragaylash zarur",
+              "Tanlash yo’li zarur",
+            ],
+            correct: "Chatishtirish lozim",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Yangi nav yaratish uchun____________ jarayonini bir necha marta takrorlash zarur.",
+            options: [
+              "Tanlash jarayoni",
+              "Sinash jarayoni",
+              "Davlat sinash jarayoni",
+              "Registratsiya jarayoni",
+            ],
+            correct: "Tanlash jarayoni",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Yangi nav yaratish uchun qaysi jarayonni bir necha marta takrorlash zarur",
+            options: [
+              "Tanlash jarayoni",
+              "Saralab olish uchun ishlatiladi",
+              "Davlat sinovindan o’tgazish uchun",
+              "Mahalliy nav yaratish uchun",
+            ],
+            correct: "Tanlash jarayoni",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "_________________tabiiy duragaylardan foydalanib meva ekinlarining yangi navlarini yaratishdi",
+            options: [
+              "I.V. Michurin",
+              "Ch.Darvin",
+              "L.Berbank",
+              "P.F. Garkaviy",
+            ],
+            correct: "I.V. Michurin",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "♀A x ♂B va ♀B x ♂A bu qaysi chatishtirish formulasi",
+            options: [
+              "Resiprok chatishtirish",
+              "O’z o’zidan chatishtirish",
+              "Suniy chatishtirish",
+              "Chetdan chatishtirish",
+            ],
+            correct: "Resiprok chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "(♀A x ♂B) x ♂A yoki (♀A x ♂B) x ♂B bu qaysi chatishtirish formulasi",
+            options: [
+              "Bekkross chatishtirish",
+              "O’z o’zidan chatishtirish",
+              "Suniy chatishtirish",
+              "Chetdan chatishtirish",
+            ],
+            correct: "Bekkross chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Bekkross chatishtirishning ikkinchi nomi",
+            options: [
+              "Takroriy murakkab chatishtirish",
+              "Oddiy chatishtirish",
+              "Murakkab chatishtirish",
+              "Chetdan chatishtirish",
+            ],
+            correct: "Takroriy murakkab chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Turli ekinlarning dastlabki _____________t navlari paydo bo’ldi.",
+            options: ["Poliploid va mutant", "Diploid", "Somatik", "Poliploid"],
+            correct: "Poliploid va mutant",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Poliploid shakllardan nav olish uchun ularni, odatda, ___________- lozim.",
+            options: [
+              "Chatishtirish",
+              "Duragaylash",
+              "Avlodlash",
+              "Changlatish",
+            ],
+            correct: "Chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "________________- ta’sirida foydali mutasiya hammadan ko’proq duragay navlarda ro’y beradi",
+            options: [
+              "Sun’iy mutagenlar",
+              "Tabiiy navlarda ro’y beradi",
+              "O’zaro chatishtirilga navlarda",
+              "Getorizigota navlarda ro’y beradi",
+            ],
+            correct: "Sun’iy mutagenlar",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "XVIII ayerda G’arbiy Ovro’poda Van Mone tabiiy duragaylardan foydalanib nimani yangi navlarini yaratib, katta natijalarga erishdi",
+            options: [
+              "Olma va nok",
+              "Gilos va bug’doy",
+              "Arpa va bug’doy",
+              "Behi va sholi",
+            ],
+            correct: "Olma va nok",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "XVIII ayerda G’arbiy Ovro’poda Van Mone qanday usul bilan olma va nokning yangi navlarini yaratib, katta natijalarga erishdi",
+            options: [
+              "Tabiiy duragaylardan foydalanib",
+              "Oddiy duragaylar orqali foydalanib",
+              "Suniy chatishtirish yo’li bilan foydalangan",
+              "Har hil yo’l bilan chatishtirilib foydalanib",
+            ],
+            correct: "Tabiiy duragaylardan foydalanib",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "(♀A x ♂B) x ♂B bu qanday chatishtirish formulasi",
+            options: [
+              "Takroriy murakkab chatishtirish",
+              "Oddiy chatishtirish",
+              "Murakkab chatishtirish",
+              "Chetdan chatishtirish",
+            ],
+            correct: "Takroriy murakkab chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "(♀A x ♂B) x ♂A bu qanday chatishtirish formulasi",
+            options: [
+              "Takroriy murakkab chatishtirish",
+              "Oddiy chatishtirish",
+              "Murakkab chatishtirish",
+              "Chetdan chatishtirish",
+            ],
+            correct: "Takroriy murakkab chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "(♀A x ♂B) x ♂A Bu yerda kavs ichiga olingani (A x B) qonday duragay.",
+            options: [
+              "Oddiy duragay",
+              "Takroriy duragay",
+              "Polibloid",
+              "Goploid",
+            ],
+            correct: "Oddiy duragay",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Akademik P.F. Garkaviy shu usulni ko’llab arpaning qaysi navini yaratdi.",
+            options: ["Chernomores", "Ashxobod-25", "Sapegin", "Almurt"],
+            correct: "Chernomores",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Akademik P.F. Garkaviy shu usulni ko’llab arpaning ____________ navini yaratdi.",
+            options: ["Chernomores", "Ashxobod-25", "Sapegin", "Almurt"],
+            correct: "Chernomores",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "V.A. Ribin qanday o’simlikni tyorn bnlan chatishtirib, olxo’rining madaniy turini sintez qildi.",
+            options: [
+              "Tog’olchani",
+              "Olchani",
+              "Yovvoyi olchani",
+              "Yovvoyi tog’olchani",
+            ],
+            correct: "Tog’olchani",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Kim xromosomalar sonini o’zgartirish maqsadida o’simliklarni payvand qilingan joyidan kesib tashladi.",
+            options: [
+              "G. Vinkler 1916 yil",
+              "A.N.I.Vavilovdir 1943-1945 yil",
+              "T.E.Nayt 1959-1938 yil",
+              "T. J yo’q",
+            ],
+            correct: "G. Vinkler 1916 yil",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "G. Vinkler 1916 yil xromosomalar sonini o’zgartirish maqsadida o’simliklarni nima qilgan",
+            options: [
+              "Payvand qilingan joyidan kesib tashlanadi",
+              "Bargalrini uzub olgan",
+              "Ildizini qirqqan",
+              "Ozuqani ko’p bergan",
+            ],
+            correct: "Payvand qilingan joyidan kesib tashlanadi",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "G. Vinkler 1916 yil _________ sonini o’zgartirish maqsadida o’simliklarni payvand qilingan joyidan kesib tashladi.",
+            options: [
+              "Xromosomalar",
+              "Gaploidlar",
+              "Gektaploid",
+              "Ggeksaploid",
+            ],
+            correct: "Xromosomalar",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "____________ birikmalar bo’linayotgan hujayralarga ta’sir ko’rsatib, ularning tabiiy rivojlanishiga yo’l qo’ymaydi.",
+            options: [
+              "Kimyoviy birikmalar",
+              "Fizikaviy birikmalar",
+              "Biologik birikmalar",
+              "Kimyoviy fizik birikma",
+            ],
+            correct: "Kimyoviy birikmalar",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Nechanchi yilda amerika olimlari A. Bleksli, A. Eyveri va B. Nebel bo’linayotgan hujayralarga kolxisin ta’sir etgirib, hohlagan o’simlik poliploidini olish mumkinligini ko’rsatdi.",
+            options: ["1937 yil", "1939 yil", "1943 yil", "1945 yil"],
+            correct: "1937 yil",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "O’simlikning o’sish nuqtalarga ta’sir ko’rsatish uchun _________% li kolxisin eritmasi ishlatiladi.",
+            options: ["0, 3-1, 0%", "0,4-2, 0%", "0,5-2,7%", "1-2, 0%"],
+            correct: "0, 3-1, 0%",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "O’sish nuqtalarga ta’sir ko’rsatish uchun 0, 3-1, 0% li ________ eritmasi ishlatiladi.",
+            options: ["Kolxisin", "Oltingugurt", "Sitimulyatr", "Geksolin"],
+            correct: "Kolxisin",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Hozirgi kunda yirik olim P. M. Jukovskiy fikricha madaniy o'simliklarning ____ta markazi mavjuddir.",
+            options: ["12", "14", "15", "16"],
+            correct: "12",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Afrika markazidan qaysi o'simlik kelib chiqqan.",
+            options: [
+              "Finik palmasi",
+              "Uzum. Zaytun. Xurmo",
+              "Olcha. Gilos. Yong'oq",
+              "Kakao. Feyxoa. Olcha",
+            ],
+            correct: "Finik palmasi",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Meva ekinlari turlari soni bo'yicha ____birinchi o'rinda turadi.",
+            options: [
+              "Xitoy",
+              "Yevropa. Osiyo",
+              "Hindiston. Zallandiya",
+              "Amerika. Rossiya",
+            ],
+            correct: "Xitoy",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Urugʻi iqlimlashtirishga ekilganida nihollarda qanday oʻzgarish paydo boʻladi?",
+            options: [
+              "Irsiy oʻzgarish",
+              "Bargida oʻzgarish",
+              "Gulida oʻzgarish",
+              "T.j.y",
+            ],
+            correct: "Irsiy oʻzgarish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Chetdan keltirilgan olmani navlarini toping?",
+            options: [
+              "Renet simirenko,golden delishes,starkrimson",
+              "Antipka, golden delishes, starkrimson",
+              "Ta-yan sizao ,golden delishes,starkrimson",
+              "T.j.y",
+            ],
+            correct: "Renet simirenko,golden delishes,starkrimson",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Oʻrikning chetdan keltirilgan navlarini toping?",
+            options: ["juber, fulon", "Antipka fulon.", "Rubus", "T.j.y"],
+            correct: "juber, fulon",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Shaftolining chetdan keltirilgan navlarini toping?",
+            options: ["Elberta, jeraeyland", "Antipka.", "Delishes", "T.j.y"],
+            correct: "Elberta, jeraeyland",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Gilosning chetdan keltirilgan navlarini toping?",
+            options: [
+              "Kosmicheskaya, revershon",
+              "Delishes.",
+              "Antipka",
+              "Tj.y",
+            ],
+            correct: "Kosmicheskaya, revershon",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Togʻolchaning chetdan keltirilgan navlarini toping?",
+            options: ["Kurortnaya, obilnaya", "Golden.", "Noranja", "T.j.y"],
+            correct: "Kurortnaya, obilnaya",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Pakana payvandtaglardan qaysilari chetdan keltirilgan?",
+            options: ["Paradizka, dusen", "Antipka", "Rubus.", "T.j.y"],
+            correct: "Paradizka, dusen",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Yangi nav yaratish nimadan boshlanadi?",
+            options: [
+              "Dastlabki material tanlashdan",
+              "CHatishtirishda",
+              "Tahlillashda.",
+              "T.j.y",
+            ],
+            correct: "Dastlabki material tanlashdan",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Duragaylarga toʻgʻri taʼrif berilgan qatorni toping?",
+            options: [
+              "Tabiiy yoki sunʼiy chatishtirish natijasida paydo boʻlgan yangi organizmdir",
+              "Allellar",
+              "Fertil.",
+              "T.j.y",
+            ],
+            correct:
+              "Tabiiy yoki sunʼiy chatishtirish natijasida paydo boʻlgan yangi organizmdir",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Hozirgi paytda meva ekinlari seleksiyasida qaysi chatishtirish asosiy usul hisoblanadi?",
+            options: [
+              "Sunʼiy chatishtirish",
+              "Toʻyintiruvchi",
+              "Tabiiy",
+              "T.j.y",
+            ],
+            correct: "Sunʼiy chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Sunʼiy chatishtirish yoʻli bilan qaysi mevalar yangi navlari yaratildi?",
+            options: [
+              "Olma,nok,olcha,olxoʻri,qulupnay",
+              "Banan,kivi",
+              "Avakado,limon.",
+              "T.j.y",
+            ],
+            correct: "Olma,nok,olcha,olxoʻri,qulupnay",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Toʻyintiruvchi chatishtirishga taʼrif bering?",
+            options: [
+              "duragayda biror xususiyatni hosil qilish yoki kuchaytirish uchun 5-7 yil davomida oʻtkaziladi",
+              "Sunʼiy boʻladi.",
+              "Alohida alohida boʻladi",
+              "T.j.y",
+            ],
+            correct:
+              "duragayda biror xususiyatni hosil qilish yoki kuchaytirish uchun 5-7 yil davomida oʻtkaziladi",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Toʻyintiruvchi chatishtirish necha yil davomida oʻtkaziladi?",
+            options: ["5-7yil", "9 yil.", "10yil", "T.j.y"],
+            correct: "5-7yil",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Alohida-alohida chatishtiriladi bu qaysi chatishtirish?",
+            options: [
+              "diallel chatishtirish",
+              "Pogʻonali usul",
+              "Bekkros.",
+              "T.j.y",
+            ],
+            correct: "diallel chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Chatishtirishda ota-ona juftliklari har xil turlarga mansub boʻlsa bu qaysi chatishtirish?",
+            options: [
+              "Turlararo yoki uzoqdan chatishtirish",
+              "Tur ichida",
+              "Turdan tashqari",
+              "T.j.y",
+            ],
+            correct: "Turlararo yoki uzoqdan chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Irsiy oʻzgaruvchanlikning birlamchi manbai qanday jarayon?",
+            options: [
+              "Mutatsion jarayon",
+              "Chatishtirish",
+              "С) Duragay",
+              "T.j.y",
+            ],
+            correct: "Mutatsion jarayon",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Tabiatda mutatsiyalarga nima taʼsir etadi?",
+            options: [
+              "Tabiiy tanlanish taʼsir etadi",
+              "Kimyoviy mutagenlar",
+              "Allelar",
+              "T.j.y",
+            ],
+            correct: "Tabiiy tanlanish taʼsir etadi",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Madaniy nav va zotlar oʻzining qanday xususiyatlari bilan yovvoyi ajdodlaridan farq qiladi?",
+            options: [
+              "Irsiy xususiyatlar",
+              "Chatishrishda",
+              "Mutatsiya",
+              "T.j.y",
+            ],
+            correct: "Irsiy xususiyatlar",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Kimyoviy mutagenlar qanday ishlatiladi?",
+            options: [
+              "suvdagi eritma holida",
+              "Qattiq modda",
+              "Granula",
+              "T.j.y",
+            ],
+            correct: "suvdagi eritma holida",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Kimyoviy mutagenlarning konsentratsiyasini toping?",
+            options: ["0.001-1, 0 %.", "2-3, 2%.", "4-5, 3%.", "T.j.y."],
+            correct: "0.001-1, 0 %.",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Kimyoviy mutagenlar asosan qanday sharoitda saqlanishi kerak?",
+            options: [
+              "Yopiq idishlarda va past temperaturada saqlanishi kerak.",
+              "Yuqori haroratda .",
+              "Oʻrtacha haroratda .",
+              "T.j.y.",
+            ],
+            correct: "Yopiq idishlarda va past temperaturada saqlanishi kerak.",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Pogʻonali murakkab chatishtirish orqali yumshoq bugʻdoyning qaysi navlari yaratildi?",
+            options: [
+              "Barcha javoblar toʻgʻri.",
+              "Albidum-43.",
+              "Albidum-24.",
+              "Saratovskaya-29.",
+            ],
+            correct: "Barcha javoblar toʻgʻri.",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Pogʻonali chatishtirish usuli orqali arpaning qaysi navi yaratildi?",
+            options: ["Chernomores.", "Antipka.", "Dusen.", "T.j.y."],
+            correct: "Chernomores.",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Pogʻonali chatishtirish usuli orqali ingichka tolali gʻoʻzaning qaysi navi yaratildi?",
+            options: ["Ashxobod-25.", "Antipka.", "Dusen.", "T.j.y."],
+            correct: "Ashxobod-25.",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Pogʻonali chatishtirish usuli orqali kuzgi bugʻdoyning qaysi navi yaratildi?",
+            options: ["Bezostaya - 1", "Togʻolcha", "Antipka", "T.j.y"],
+            correct: "Bezostaya - 1",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Har xil tuproq -iqlim sharoitlarida rayonlashtirilgan mevali va rezavor mevali ekin navlarining koʻpchiligi qanday usul bilan yaratilgan?",
+            options: [
+              "Sunʼiy chatishtirish usuli.",
+              "Tabiiy chatishtirish.",
+              "Pogʻonali chatishtirish.",
+              "T.j.y.",
+            ],
+            correct: "Sunʼiy chatishtirish usuli.",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Yangi nav yaratishda tabiiy duragaylardan foydalanish nimani talab qiladi?",
+            options: [
+              "Katta maydon va koʻp vaqtni.",
+              "Duragayni.",
+              "Allelni.",
+              "T.j.y .",
+            ],
+            correct: "Katta maydon va koʻp vaqtni.",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Yangi nav yaratish uchun qaysi jarayonni bir necha marta takrorlash zarur?",
+            options: [
+              "Tanlash jarayoni",
+              "Chatishtirish",
+              "Duragaylar",
+              "T.j.y",
+            ],
+            correct: "Tanlash jarayoni",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Genetika fani oʻsimliklarga qanday imkoniyat berdi?",
+            options: [
+              "Oʻsimliklar xususiy seleksiyasining rivojlanishi imkonini berdi",
+              "Sunʼiy chatishtirish",
+              "Bekkros",
+              "T.j.y",
+            ],
+            correct:
+              "Oʻsimliklar xususiy seleksiyasining rivojlanishi imkonini berdi",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Triploid formalar qayerda katta samara bergan",
+            options: [
+              "Qishloq xo’jaligida",
+              "Sanoatda",
+              "Qayta ishlashda",
+              "Konservalashda",
+            ],
+            correct: "Qishloq xo’jaligida",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "_______________ qishloq xo'jaligida katta samara bergan",
+            options: [
+              "Triploid formalar",
+              "Oddiy duragaylash",
+              "O'z o'zidan chatishtirish",
+              "Chetdan changlatish",
+            ],
+            correct: "Triploid formalar",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Xozirgi paytda qaysi chatishtirish bug'doy seleksiyasida asosiy usul xisoblanadi",
+            options: [
+              "Pog'onali chatishtirish",
+              "O'z o'zidan chatishtirish",
+              "Chetdan changlanish",
+              "Suniy chatishtirish",
+            ],
+            correct: "Pog'onali chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Xozirgi paytda pog'onali chatishtirish qaysi o'simlik seleksiyasida asosiy usul xisoblanadi",
+            options: ["Bug'doy", "Sholi", "Shaftoli", "Sholg’om"],
+            correct: "Bug'doy",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qaysi chatishtirishda duragay ota ona formasi bilan qayta chatishtiriladi",
+            options: [
+              "Qayta chatishtirishda",
+              "Pog'onali chatishtirish",
+              "Uzoqdan chatishtirish",
+              "Suniy chatishtirish",
+            ],
+            correct: "Qayta chatishtirishda",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Sistematikada bir-biridan bir qadar uzoqda o’rin olgan turlar va urug’larni o’zaro chatishtirish _____________ deyiladi",
+            options: [
+              "Uzoqdan chatishtirish",
+              "Chetdan chatishtirish",
+              "Suniy chatishtirish",
+              "Tabiiy chatishtirish",
+            ],
+            correct: "Uzoqdan chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Sistematikada bir-biridan bir qadar uzoqda o’rin olgan turlar va urug’larni o’zaro chatishtirish nima deyiladi",
+            options: [
+              "Uzoqdan chatishtirish",
+              "Chetdan chatishtirish",
+              "Suniy chatishtirish",
+              "Tabiiy chatishtirish",
+            ],
+            correct: "Uzoqdan chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "S.I.Isoeva tajribalarida oddiy antonovka navi va yana qanday nav bilan chatishtirilganda duragaylarning 38,9% qishga chidamli bo’lgan.",
+            options: [
+              "Razmarin navi",
+              "Antovka navi",
+              "Ayva navi",
+              "Abrikos navi",
+            ],
+            correct: "Razmarin navi",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qaysi olim tajribalarida oddiy antonovka nav razmarin bilan chatishtirilganda duragaylarning 38,9% qishga chidamli bo’lgan.",
+            options: [
+              "S.I.Isoeva",
+              "N. L.Berbank",
+              "N.P. Lukyonenko",
+              "S. D. Antonov",
+            ],
+            correct: "S.I.Isoeva",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "S.I.Isoeva tajribalarida oddiy antonovka a nav razmarin bilan chatishtirilganda duragaylarning necha % qishga chidamli bo’lgan.",
+            options: ["38,9%", "40,0", "42,2%", "45,8"],
+            correct: "38,9%",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Ikki gulli o’simliklarda chatishtirish qanday amalga oshiriladi.",
+            options: ["Bichishsiz", "Tartibsiz", "Tabiiy", "To’ldiruvchi"],
+            correct: "Bichishsiz",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qanday o’simliklarda chatishtish bichishsiz amalga oshiriladi",
+            options: [
+              "Ikki jinsli gulli o’simliklarda",
+              "Chetdan changlanuvchi o’simliklarda",
+              "O’zaro changlanuvchi o’simliklarda",
+              "Bir bargli o’simliklarda",
+            ],
+            correct: "Ikki jinsli gulli o’simliklarda",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "______________ --chatishtirishdagi o’simliklar ma’lum masofada alohida maydonlarda ekiladi",
+            options: [
+              "Masofa izolyatsiyasi",
+              "Vaqt izolyatsiyasi",
+              "Qarama qarshi izolyatsiyasi",
+              "T.j.yo’q",
+            ],
+            correct: "Masofa izolyatsiyasi",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "______________--keraksiz formalardan changlanishi mumkin o’simliklar bir-biri bilan changlanmasligi uchun har xil vaqtda ekilishi lozim",
+            options: [
+              "Vaqt izolyatsiyasi",
+              "Qarama qarshi izolyatsiyasi",
+              "Masofa izolyatsiyasi",
+              "T.j.yo’q",
+            ],
+            correct: "Vaqt izolyatsiyasi",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "CHatishtirish necha xil bo’lishi mumkin",
+            options: ["2", "4", "6", "7"],
+            correct: "2",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "CHatishtirish___________ va ____bo’lishi mumkin",
+            options: [
+              "Oddiy va murakkab",
+              "Suniy va tabiiy",
+              "Bil va bevosita",
+              "Muhum va amaliy",
+            ],
+            correct: "Oddiy va murakkab",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Bitta ota-ona juftlari o’rtasida bir marta chatishuv qanday chatishtirish deyiladi",
+            options: ["Oddiy", "Tabiiy", "Suniy", "O’z o’zidan"],
+            correct: "Oddiy",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Oddiy chatishtirishning bir xili bu-",
+            options: ["Resiprok (o’zaro)", "Daminant", "Ressessiv", "Murakkab"],
+            correct: "Resiprok (o’zaro)",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Sistematikada bir-biridan bir qadar uzoqda o’rin olgan turlar va urug’larni o’zaro chatishtirish__________deyiladi",
+            options: [
+              "Uzoqdan chatishtirish",
+              "Chetdan chatishtirish",
+              "Suniy chatishtirish",
+              "Tabiiy chatishtirish",
+            ],
+            correct: "Uzoqdan chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Yangi nav yaratishda tabiiy duragaylardan foydalanish nimani talab qiladi?",
+            options: [
+              "Katta maydon va koʻp vaqtni.",
+              "Duragayni.",
+              "Allelni.",
+              "T.j.y.",
+            ],
+            correct: "Katta maydon va koʻp vaqtni.",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Gul o’zidan changlanib qol,asligi uchun nimalari terib olinadi",
+            options: [
+              "Ona o’simlikdagi gulning changdonalari",
+              "Ona o’simlikning mevalari",
+              "Ona o’simlikning kurtaklari",
+              "T.j.y",
+            ],
+            correct: "Ona o’simlikdagi gulning changdonalari",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Yig’ib olingan changdonlar quyosh tushmaydigan sharoitda necha gradus haroratda saqlanadi",
+            options: ["18-22 C", "20-25 C", "22-24 C", "25-30 C"],
+            correct: "18-22 C",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "O’simlikdan yig’ib olingan__________quyosh tushmaydigan sharoitda 18-22 C haroratda saqlanadi",
+            options: ["Changdonlar", "Urug’lar", "Mevalar", "Novdalar"],
+            correct: "Changdonlar",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Changlash turlari necha xil",
+            options: ["3", "4", "5", "6"],
+            correct: "3",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Suniy chatishtirish tartibi bir biri bilan uzviy bog’liq ravishda va ketma-ket bajariladigan necha xil ishdan iborat",
+            options: ["3", "4", "5", "6"],
+            correct: "3",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Selleksiyada chatishtirish uchun ota-onalik juftlarini tanlash prinsiplari nechta",
+            options: ["5", "6", "7", "8"],
+            correct: "5",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Sunʼiy chatishtirish yoʻli bilan qaysi mevalar yangi navlari yaratildi?",
+            options: [
+              "Olma,nok,olcha,olxoʻri,qulupnay.",
+              "Banan,kivi.",
+              "Avakado,limon.",
+              "T.j.y.",
+            ],
+            correct: "Olma,nok,olcha,olxoʻri,qulupnay.",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qaysi olim 50 dan ortiq mamlakatlarda bo’lib, juda ko’p o’simliklar namunalarini to’pladi ?",
+            options: [
+              "N.I.Vavilov.",
+              "I.V. Michurin.",
+              "Ch.Darvin .",
+              "L.Berbank.",
+            ],
+            correct: "N.I.Vavilov.",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qaysi bosqich insonning faqat kundalik extiyojlarini qondirish uchungina olib borilgan",
+            options: [
+              "«Oddiy»",
+              "«Tanlash»",
+              "«Xalq seleksiyasi»",
+              "Sun’iy duragaylar yaratish",
+            ],
+            correct: "«Oddiy»",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "O’zbekistondaqanday navlar istiqbolli hisoblanadi.",
+            options: [
+              "Kuchsiz o’sadigan",
+              "Kuchli o’sadigan",
+              "O’rtacha o’sadigan",
+              "Baland o’sadigan",
+            ],
+            correct: "Kuchsiz o’sadigan",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Yangi navlar yaratishda mevasining nimasiga katta e’tibor beriladi.",
+            options: [
+              "Biokimyoviy tarkibiga",
+              "Fizikaviy xossasiga",
+              "Kimyoviy tarkibiga",
+              "Sifatiga",
+            ],
+            correct: "Biokimyoviy tarkibiga",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Danakli meva daraxtlari nima sababdan ko’p shikastlanadi.",
+            options: [
+              "Kechki bahor ayozlaridan",
+              "Kuzgi sug’orishdan",
+              "Ko’p shakl berishdan",
+              "Qishki sovuqdan",
+            ],
+            correct: "Kechki bahor ayozlaridan",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Ishlab- chiqarishdagi olmaning qaysi navlari ekib kelinmoqda.",
+            options: ["Oq rozmarin", "Zolotoy Yubiley", "Ayva", "Feruza"],
+            correct: "Oq rozmarin",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Bo’lajak navga nimasiga ko’ra baho berish seleksiya jarayonini jadallashtiradi.",
+            options: [
+              "Morfologik belgilariga ko’ra",
+              "Tam belgisiga ko’ra",
+              "Sifatiga ko’ra",
+              "Fizikaviy belgilariga ko’ra",
+            ],
+            correct: "Morfologik belgilariga ko’ra",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Nav deb ma’lum irsiy biologik xususiyatlarga, morfologik va muhim xo’jalik belgilarga ega bo’lgan …………aytiladi ?",
+            options: [
+              "Madaniy o’simliklarga",
+              "Yovvoyi o’simliklarga",
+              "Subtropik o’simliklarga",
+              "T.j.yo’q",
+            ],
+            correct: "Madaniy o’simliklarga",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Seleksiya fanining nazariy asosi nima hisoblanadi?",
+            options: [
+              "Genetika",
+              "Morfalogiya",
+              "Biologiya",
+              "O’simlik fiziologiyasi",
+            ],
+            correct: "Genetika",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Ingliz olimi T.E.Nayt (1759-1838) sun’iy chatishtirish usulini qo’llab qaysi o’simliklarning yangi navlarini yaratdi ?",
+            options: [
+              "Olma, nok, olxo’ri",
+              "Olma, Olcha, Behi",
+              "Olcha, Behi, Anor",
+              "T.J.yo’q",
+            ],
+            correct: "Olma, nok, olxo’ri",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qishloq xo’jaligi ekinlari seleksiyasining rivojlanishiga katga hissa qo’shgan olimlardan biri kim ?",
+            options: [
+              "N.I..Vavilov",
+              "I.V. Michurin",
+              "Ch.Darvin",
+              "L.Berbank",
+            ],
+            correct: "N.I..Vavilov",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qaysi olim 50 dan ortiq mamlakatlarda bo’lib, juda ko’p o’simliklar namunalarini to’pladi ?",
+            options: ["N.I.Vavilov", "I.V. Michurin", "Ch.Darvin", "L.Berbank"],
+            correct: "N.I.Vavilov",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Nechanchi yillarda mevali ekinlarning mahalliy navlari va yovvoyi ajdodlarini to’plash va o’rganish bo’yicha ilmiy ishlar davom ettirildi ?",
+            options: ["1950-1990", "1887-1943", "1759-1838", "t.j.yo’q."],
+            correct: "1950-1990",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Selleksiya jaroyoni necha bosqichdan iborat?",
+            options: ["4", "5", "7", "6"],
+            correct: "4",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Turli yo’llar bilan avval o’simliklar irsiyatini o’zgartirish va o’zgargan o’simliklar ichidan tanlash yo’li bilan nav yaratish qaysi usulga kiradi.",
+            options: [
+              "Sintetik usul",
+              "Suniy usul",
+              "Tabiiy usul",
+              "Analitik usul",
+            ],
+            correct: "Sintetik usul",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Duragaylash, amaliy mutagenez va poliploidiya, geterozis seleksiyaning qanday usullaridir",
+            options: [
+              "Sintetik usul",
+              "Suniy usul",
+              "Tabiiy usul",
+              "Analitik usul",
+            ],
+            correct: "Sintetik usul",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "O’simliklarning hamma navlari qanday yoli bilan yaratiladi",
+            options: [
+              "Tanlash yo’li bilan",
+              "Saralash yo’l bilan",
+              "Suniy yo’l bilan",
+              "Sintetik yo’l bilan",
+            ],
+            correct: "Tanlash yo’li bilan",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "___________ — populyasiyalardan eng yaxshi o’simliklarni tanlash bilan turli-tuman ekinlarning seleksion navlari yaratilgan",
+            options: [
+              "Mahalliy nav",
+              "Rayonlashtirilgan nav",
+              "Yangi nav",
+              "Turlararo navlar",
+            ],
+            correct: "Mahalliy nav",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Analitik seleksiya qaysi seleksiyaning birinchi bosqichi bo’lib qoldi.",
+            options: [
+              "Ilmiy seleksiya",
+              "Nazariy selleksiya",
+              "Xalq selleksiya",
+              "Amaliy selleksiya",
+            ],
+            correct: "Ilmiy seleksiya",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qanday seleksiya ilmiy seleksiyaning birinchi bosqichi bo’lib qoldi.",
+            options: [
+              "Analitik selleksiya",
+              "Nazariy selleksiya",
+              "Xalq selleksiya",
+              "Amaliy selleksiya",
+            ],
+            correct: "Analitik selleksiya",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Poliploid shakllardan nav olish uchun ularni, odatda, nima qilish lozim.",
+            options: [
+              "Chatishtirish lozim",
+              "Ajratish kerak",
+              "Duragaylash zarur",
+              "Tanlash yo’li zarur",
+            ],
+            correct: "Chatishtirish lozim",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Sun’iy mutagenlar ta’sirida foydali mutasiya hammadan ko’proq qanaqa navlarda ro’y beradi.",
+            options: [
+              "Duragay navlrda ro’y beradi",
+              "Tabiiy navlarda ro’y beradi",
+              "O’zaro chatishtirilga navlarda",
+              "Getorizigota navlarda ro’y beradi",
+            ],
+            correct: "Duragay navlrda ro’y beradi",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Yangi nav yaratish uchun qaysi jarayonini bir necha marta takrorlash zarur.",
+            options: [
+              "Tanlash jarayoni",
+              "Sinash jarayoni",
+              "Davlat sinash jarayoni",
+              "Registratsiya jarayoni",
+            ],
+            correct: "Tanlash jarayoni",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Nima uchun tanlash jarayonini bir necha marta takrorlash zarur.",
+            options: [
+              "Yangi nav yaratish",
+              "Saralab olish uchun ishlatiladi",
+              "Davlat sinovindan o’tgazish uchun",
+              "Mahalliy nav yaratish uchun",
+            ],
+            correct: "Yangi nav yaratish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Duragay populyasiyalarni ichidan tanlash yo’li bilan o’simliklarning nimasi yaratiladi.",
+            options: [
+              "Yangi navlari",
+              "Duragaylari",
+              "Populyatsiyalari",
+              "Avlad 2",
+            ],
+            correct: "Yangi navlari",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "______________, irsiyati ћar xil bo’lgan ikki yoki bir necha organizmlarni (o’simliklarni) chatishtirishiga aytiladi.",
+            options: ["Duragaylash deb", "Avlod 1", "Nav", "Turlar"],
+            correct: "Duragaylash deb",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Duragaylash natijasida vujudga kelgan organizm (o’simlik) _______ deyiladi.",
+            options: [
+              "Duragay",
+              "CHatishtirsh",
+              "Avlod tanlash",
+              "Sinashda jarayoni",
+            ],
+            correct: "Duragay",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "______________deb, ota-ona o’simliklarni birinchi marta ona, ikkinchi marta esa ota sifatida olib chatishtirishiga aytiladi.",
+            options: [
+              "Resiprok chatishtirish",
+              "O’z o’zidan chatishtirish",
+              "Suniy chatishtirish",
+              "Chetdan chatishtirish",
+            ],
+            correct: "Resiprok chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Resiprok chatishtirish qanday formula bilan ifodalanadi.",
+            options: [
+              "♀A x ♂B va ♀B x ♂A",
+              "(♀A x ♂B) x ♂A",
+              "(♀A x ♂B) x ♂B",
+              "♀B x ♂A",
+            ],
+            correct: "♀A x ♂B va ♀B x ♂A",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Bekkross chatishtirish (takroriy murakkab chatishtirish) qanday formula bilan ifodalanadi.",
+            options: [
+              "(♀A x ♂B) x ♂A yoki (♀A x ♂B) x ♂B",
+              "(♀A x ♂B) x ♂A",
+              "(♀A x ♂B) x ♂B",
+              "♀B x ♂A",
+            ],
+            correct: "(♀A x ♂B) x ♂A yoki (♀A x ♂B) x ♂B",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Bekkross chatishtirishning yana qanday nomlanadi.",
+            options: [
+              "Takroriy murakkab chatishtirish",
+              "Oddiy chatishtirish",
+              "Murakkab chatishtirish",
+              "Chetdan chatishtirish",
+            ],
+            correct: "Takroriy murakkab chatishtirish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Akademik P.F. Garkaviy qanaqa chatishtirish usulni ko’llab arpaning Chernomores navini yaratdi.",
+            options: [
+              "Pog’onali murakkab chatishtirishni",
+              "Diallel chatishtirish",
+              "Bekkross chatishtirish",
+              "Insuxt liniyalar",
+            ],
+            correct: "Pog’onali murakkab chatishtirishni",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "D.B.Babayev ingichka tolali g’o’zaning eng ko’p tarkalgan Ashxobod-25 navini yaratdi. Qanaqa chatishtirish usul bn yaratdi.",
+            options: [
+              "Pog’onali murakkab chatishtirishni",
+              "Diallel chatishtirish",
+              "Bekkross chatishtirish",
+              "Insuxt liniyalar",
+            ],
+            correct: "Pog’onali murakkab chatishtirishni",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Akademik P.P.Lukyanenko qaysi chatishtirish usili orqali bug’doyning Bezostaya-1 navini yaratdi.",
+            options: [
+              "Pog’onali murakkab chatishtirishni",
+              "Diallel chatishtirish",
+              "Bekkross chatishtirish",
+              "Insuxt liniyalar",
+            ],
+            correct: "Pog’onali murakkab chatishtirishni",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Chatishtirish natijasida ota-ona gaploid to’plamlari birlashib, zigota hosil qiladi va_______ to’plam yuzaga keladi.",
+            options: ["Diploid", "Somatik", "Poliploid", "Gaploid"],
+            correct: "Diploid",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "________ to’plam rezavor mevalar, texnik, sitrus, donli, manzarali va boshqa ekin turlarida uchraydi.",
+            options: ["Poliploid", "Diploid", "Somatik", "Gaploid"],
+            correct: "Poliploid",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Poliiloid o’simliklar kelib chiqishi bo’yicha nechaga bo’linadi",
+            options: ["2", "3", "4", "5"],
+            correct: "2",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "________ biror turdagi o’simlik xromosomalarining karrali ko’payishidan kelib chiqadi.",
+            options: ["Avtopoliploid", "Diploid", "Somatik", "Gaploid"],
+            correct: "Avtopoliploid",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Tabiatda yovvoyi poliploid o’simlik turlari asosan __________",
+            options: ["Avtopoliploid", "Diploid", "Somatik", "Gaploid"],
+            correct: "Avtopoliploid",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Hozirda kand lavlagi, tarvuz, sabzavot, poliz, yem-hashak va donli ekinlarning qanaqa navlari yaratilgan.",
+            options: ["Poliploid", "Diploid", "Somatik", "Gaploid"],
+            correct: "Poliploid",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Meva ekinlari turlarida________- hodisasi keng tarqalgan.",
+            options: ["Poliploid", "Diploid", "Somatik", "Gaploid"],
+            correct: "Poliploid",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "1889 yili I.I. Gerasimov hujayralarning bo’linish davri (metafaza) da haroratni -4,0°Cga pasaytirish yo’li bilan nima oldi",
+            options: ["Poliploid", "Diploid", "Somatik", "Gaploid"],
+            correct: "Poliploid",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "L. Randolf 1932 yilda urug’lanish paytida haroratni +47-48°S ga yetkazib, qanaqa o’simliklarni olishga erishdi.",
+            options: ["Poliploid", "Diploid", "Somatik", "Gaploid"],
+            correct: "Poliploid",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Issiqlik bilan ishlov berish usulidan foydalanib, bug’doy, javdar, arpa va boshqa ekinlardan nimalar yaratildi.",
+            options: ["Poliploidlar", "Diploidlar", "Somatiklar", "Gaploidlar"],
+            correct: "Poliploidlar",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "O’simliklar regenerasiyasida xromosomalar to’plamining necha marta ko’paynshini 1916 yilda G. Vinkler kuzatdi.",
+            options: ["2", "4", "6", "7"],
+            correct: "2",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Irsiy uzgaruvchanlikning birlamchi manbai qanday jarayondir.",
+            options: [
+              "Mutatsion",
+              "O’suvchanlik",
+              "Shakl o’zgarish",
+              "Moddalar almashinuv",
+            ],
+            correct: "Mutatsion",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Qaysi bosqich neolit davrida boshlangan",
+            options: [
+              "«Oddiy»",
+              "«Tanlash»",
+              "«Xalq seleksiyasi»",
+              "Sun’iy duragaylar yaratish",
+            ],
+            correct: "«Oddiy»",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qaysi bosqich «tanlash» jarayoni insonning faqat kundalik extiyojlarini qondirish uchungina olib borilgan.",
+            options: [
+              "«Oddiy»",
+              "«Tanlash»",
+              "«Xalq seleksiyasi»",
+              "Sun’iy duragaylar yaratish",
+            ],
+            correct: "«Oddiy»",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qaysi bosqich insonning faqat kundalik extiyojlarini qondirish uchungina olib borilgan",
+            options: [
+              "«Oddiy»",
+              "«Tanlash»",
+              "«Xalq seleksiyasi»",
+              "Sun’iy duragaylar yaratish",
+            ],
+            correct: "«Oddiy»",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "______________ bosqich ma’lum bir nav yaratish maqsadi bo’lmagan.",
+            options: [
+              "«Oddiy»",
+              "«Tanlash»",
+              "«Xalq seleksiyasi»",
+              "Sun’iy duragaylar yaratish",
+            ],
+            correct: "«Oddiy»",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Sun’iy duragaylar yaratish.Selleksiya jarayonining nechanchi bosqichi hisoblanadi",
+            options: ["2", "3", "4", "5"],
+            correct: "2",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Tanlash .Selleksiya jarayonining nechanchi bosqichi hisoblanadi",
+            options: ["3", "4", "5", "6"],
+            correct: "3",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Sinash Selleksiya jarayonining nechanchi bosqichi hisoblanadi",
+            options: ["4", "5", "6", "7"],
+            correct: "4",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Introduksiya _______________ bilan bog’liqdir.",
+            options: [
+              "Iqlimlashtirish va naturalizasiya",
+              "Introduction",
+              "Iqlimlashtirish",
+              "Yomg’ir",
+            ],
+            correct: "Iqlimlashtirish va naturalizasiya",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Chatishtirish natijasida__________paydo bo’ladi",
+            options: ["Duragaylar", "Avlod 1", "Nav", "Turlar"],
+            correct: "Duragaylar",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Duragaylar _______________organizmdir.",
+            options: [
+              "Sun’iy chatishtirish yoki tabiiy chatishish natijasida paydo bo’lgan yangi organizm",
+              "Navlar ma’lum bir xususiyati",
+              "Oddiy yoki jo’n seleksiya",
+              "Juda kam uchraydigan o’simlik",
+            ],
+            correct:
+              "Sun’iy chatishtirish yoki tabiiy chatishish natijasida paydo bo’lgan yangi organizm",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Sun’iy chatishtirish yoki tabiiy chatishish natijasida paydo bo’lgan yangi_______________ organizm",
+            options: ["Duragaylar", "Avlod 1", "Nav", "Turlar"],
+            correct: "Duragaylar",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Sun’iy chatishtirish natijasida __________ duragaylar paydo bo’ladi",
+            options: [
+              "Oddiy duragaylar",
+              "Tabiiy duragaylar",
+              "O’zaro duragaylar",
+              "T.J.yo’q",
+            ],
+            correct: "Oddiy duragaylar",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Seleksiya usullarini _____________ turkumga ajratish mumkin.",
+            options: [
+              "Ikki — analitik va sintetik turkumga",
+              "Uch-tabiiy va suniy va sintetik",
+              "Ikkita - tabiiy va suniy",
+              "Turkumga ajratilmaydi",
+            ],
+            correct: "Ikki — analitik va sintetik turkumga",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Arpaning Chernomores navini yaratgan olim kim",
+            options: [
+              "P.F. Garrkaviyy",
+              "I.V. Michurin",
+              "Ch.Darvin",
+              "L.Berbank",
+            ],
+            correct: "P.F. Garrkaviyy",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "I.V.Michurin duragaylashni __________ eng kudratli usuli deb ћisoblagan",
+            options: [
+              "Seleksiyaning",
+              "Suniy chatishtirish",
+              "Imiy selleksiyaning",
+              "Amaliy selleksiyaning",
+            ],
+            correct: "Seleksiyaning",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Danakli meva daraxtlari kechki bahor ayozlaridan ko’p shikastlanadi.",
+            options: [
+              "Danakli",
+              "Urug’li",
+              "Yongo’q mevali",
+              "Qattiq po’stli meva",
+            ],
+            correct: "Danakli",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "O’z o’zini changlashning yena bir nomi nima",
+            options: ["Insuxt", "Gipropon", "Oerazon", "Insult"],
+            correct: "Insuxt",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Qish oylarida saqlash uchun mo’ljallangan__________ navlari zamonaviy talablarga javob bermaydi",
+            options: [
+              "Olma, nok",
+              "Olcha , gilos",
+              "Anor , olma",
+              "Nok , bexi",
+            ],
+            correct: "Olma, nok",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Meva ekinlari selleksiyasi necha fan bilan bog’liq",
+            options: ["10", "11", "12", "13"],
+            correct: "10",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Tanlash uchun kerak bo’lgan birlamchi material-duragaylarga_________baho beriladi.",
+            options: ["Kech", "Erta", "Vaxtida", "Pishish davrida"],
+            correct: "Kech",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Mevali daraxtlar xususiy __________ kam o’rganilganligi meva o’simliklari seleksiyasiga salbiy ta’sir ko’rsatmoqda.",
+            options: [
+              "Genetikasining",
+              "Tuzulishining",
+              "Kimyoviy tarkibining",
+              "Fiziologyasining",
+            ],
+            correct: "Genetikasining",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "O’simliklarning biologik xususiyatlari, foydali xo’jalik belgilari ma’lum bir ekologik sharoitda shakllanadi, shu sharoitlarga ___________ bo’ladi",
+            options: ["Moslashgan", "Moslashmagan", "Ijobiy", "Salbiy"],
+            correct: "Moslashgan",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Yangi nav yaratishda birlamchi materialning ______________ e’tiborga olish muhim ahamiyatga ega.",
+            options: [
+              "Geografik kelib chiqishini",
+              "Bioligik kelib chiqishini",
+              "Kelib chiqish manziliga ko’ra",
+              "Avloddan paydo bo’lishiga",
+            ],
+            correct: "Geografik kelib chiqishini",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "_________________ izlanishlar navlar orasidagi hosildorligi orasidagi farqini tushuntirib berishda katga rol o’ynaydi",
+            options: [
+              "Fiziologik va biokimyoviy",
+              "Tarkibi va tuzulishi",
+              "Mazasi va sifati",
+              "Tashqi ko’rinishi va kimyoviyligi",
+            ],
+            correct: "Fiziologik va biokimyoviy",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Mevaning ____________ ham nav qiymatini aniqlaydigan belgilardan biri hisoblanadi.",
+            options: [
+              "Biokimyoviy tarkibi",
+              "Fizologik jarayoni",
+              "Kimyoviy tarkibi",
+              "Meva o’zgarishi",
+            ],
+            correct: "Biokimyoviy tarkibi",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "XVIII asrda ingliz o’simlikshunos olimi T.E. Nayt (1759-1838) _______________ yo’li bilan olma, nok, olcha, olxo’ri va qulupnayning yangi navlarini yaratdi",
+            options: [
+              "Sun’iy chatishti-rish",
+              "Oddiy duragaylar orqali foydalanib",
+              "Chetdan chatishtirish",
+              "Oz’ o’zidan chatishtirish",
+            ],
+            correct: "Sun’iy chatishti-rish",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Duragaylarda biror belgining ustunlik qilishi ___________- belgi",
+            options: ["Dominant", "Duragay", "Poliploid", "Goploid"],
+            correct: "Dominant",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Resessiv belgilar yo’qolmasdan, __________ saqlanadi.",
+            options: [
+              "Organizm genotipida",
+              "Maxsus kodlarda",
+              "DNK da",
+              "RNK da",
+            ],
+            correct: "Organizm genotipida",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Meva ekinlari seleksiyasida qaysi usuli juda kam qo’llaniladi.",
+            options: ["Insuxt", "Gipropon", "Oerazon", "Insult"],
+            correct: "Insuxt",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Meva ekinlari seleksiyasida ______________ usuli juda kam qo’llaniladi.",
+            options: ["Insuxt", "Gipropon", "Oerazon", "Insult"],
+            correct: "Insuxt",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "________________ ichida bitta vegetativ xujayra va bitta erkak jinsiy (generativ) xujayra joylashadi.",
+            options: [
+              "Intinaning",
+              "Gul g’unchaning",
+              "Tugunchaning",
+              "Urug’chining",
+            ],
+            correct: "Intinaning",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Har bir turdagi _____________ ma’lum xromosomalar soniga ega.",
+            options: [
+              "O’simlikning xujayralari",
+              "Geterozigota",
+              "Xromosoma",
+              "Gipropon",
+            ],
+            correct: "O’simlikning xujayralari",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question: "Har bir turdagi o’simlikning xujayralari nimaga ega.",
+            options: [
+              "Ma’lum xromosomalar",
+              "Geterozigota",
+              "Xromosoma",
+              "Gipropon",
+            ],
+            correct: "Ma’lum xromosomalar",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Olmaning triploid navlari ishtirokida dunyoga mashhur bo’lgan qanday navlari yaratildi",
+            options: [
+              "Renet oranjeviy, Koksa,",
+              "Feruza , Ayvo",
+              "Almurt , koksa",
+              "Semeranka , golden delishes",
+            ],
+            correct: "Renet oranjeviy, Koksa,",
+            source: "Meva ekinlar seleksiyasi",
+          },
+          {
+            question:
+              "Olma _______________ navlari sovuqqa chidamsiz, meva tarkibida kislotasi ko’p, chang sifati past bo’ladi.",
+            options: ["Triploid", "Oktoploid", "Gektaploid", "Geksaploid"],
+            correct: "Triploid",
+            source: "Meva ekinlar seleksiyasi",
+          },
+        ],
+      };
+      const ICONS = ["🌱", "🍎", "🍇", "🌿"];
+      const SRCS = Object.keys(QD);
+      let dark = true,
+        selSrc = null,
+        doShuffle = false;
+      let dQs = [],
+        dIdx = 0,
+        dAns = {},
+        dShuffledOpts = {};
+      let tQs = [],
+        tIdx = 0,
+        tAns = {},
+        tShuffledOpts = {},
+        tSec = 1800,
+        tTimer = null;
+      let curPage = "demo",
+        curView = "home";
+
+      function gid(id) {
+        return document.getElementById(id);
+      }
+      function sh(el) {
+        el.style.display = "block";
+      }
+      function hd(el) {
+        el.style.display = "none";
+      }
+      function escH(s) {
+        var d = document.createElement("div");
+        d.textContent = s;
+        return d.innerHTML;
+      }
+
+      /* ===== SHUFFLE ===== */
+      function shuffle(a) {
+        var arr = a.slice();
+        for (var i = arr.length - 1; i > 0; i--) {
+          var j = Math.floor(Math.random() * (i + 1));
+          var tmp = arr[i];
+          arr[i] = arr[j];
+          arr[j] = tmp;
+        }
+        return arr;
+      }
+
+      /* Har bir savol uchun variantlarni bir marta aralashtir, to'g'ri javob indeksini saqlama — matnga qarab topamiz */
+      function shuffleOpts(q) {
+        return shuffle(q.options.slice());
+      }
+
+      /* ===== BACK BUTTON ===== */
+      function updateBackBtn() {
+        var bb = gid("back-btn");
+        bb.style.display = curView !== "home" ? "flex" : "none";
+      }
+
+      function goBack() {
+        if (curPage === "demo") {
+          if (curView === "quiz" || curView === "score") {
+            backToFans();
+            return;
+          }
+        }
+        if (curPage === "test") {
+          if (curView === "run") {
+            showConfModal();
+            return;
+          }
+          if (curView === "result") {
+            hd(gid("t-result"));
+            sh(gid("t-home"));
+            curView = "home";
+            updateBackBtn();
+            return;
+          }
+        }
+      }
+
+      function showConfModal() {
+        var m = gid("conf-modal");
+        m.style.display = "flex";
+      }
+      function confYes() {
+        gid("conf-modal").style.display = "none";
+        clearInterval(tTimer);
+        tTimer = null;
+        hd(gid("t-run"));
+        sh(gid("t-home"));
+        curView = "home";
+        updateBackBtn();
+      }
+      function confNo() {
+        gid("conf-modal").style.display = "none";
+      }
+
+      /* ===== TABS ===== */
+      function goTab(t) {
+        document.querySelectorAll(".pg").forEach(function (p) {
+          p.classList.remove("on");
+        });
+        gid("pg-" + t).classList.add("on");
+        gid("tab-demo").classList.toggle("on", t === "demo");
+        gid("tab-test").classList.toggle("on", t === "test");
+        curPage = t;
+        curView = "home";
+        updateBackBtn();
+      }
+
+      /* ===== THEME ===== */
+      function toggleTheme() {
+        dark = !dark;
+        document.body.classList.toggle("lm", !dark);
+        gid("tbtn").innerHTML = dark ? "&#127769;" : "&#9728;";
+      }
+
+      /* ===== DEMO ===== */
+      function buildGrid() {
+        var g = gid("sgrid");
+        g.innerHTML = "";
+        SRCS.forEach(function (src, i) {
+          var d = document.createElement("div");
+          d.className = "scard";
+          d.innerHTML =
+            '<div class="si">' +
+            ICONS[i] +
+            '</div><div class="sn">' +
+            escH(src) +
+            '</div><div class="sc">' +
+            QD[src].length +
+            " savol</div>";
+          d.onclick = function () {
+            selectSrc(src, d);
+          };
+          g.appendChild(d);
+        });
+      }
+
+      function selectSrc(src, el) {
+        document.querySelectorAll(".scard").forEach(function (c) {
+          c.classList.remove("sel");
+        });
+        el.classList.add("sel");
+        selSrc = src;
+        gid("d-start").disabled = false;
+      }
+
+      function toggleShuffle() {
+        doShuffle = !doShuffle;
+        var b = gid("shuf-btn");
+        b.textContent = doShuffle
+          ? "Aralashtirish: Yoqiq"
+          : "Aralashtirish: O'chiq";
+        b.classList.toggle("on", doShuffle);
+      }
+
+      function startDemo() {
+        if (!selSrc) return;
+        dQs = doShuffle ? shuffle(QD[selSrc]) : QD[selSrc].slice();
+        dIdx = 0;
+        dAns = {};
+        dShuffledOpts = {};
+        /* Barcha savollar uchun variantlarni oldindan aralashtir */
+        dQs.forEach(function (q, i) {
+          dShuffledOpts[i] = shuffle(q.options.slice());
+        });
+        hd(gid("d-home"));
+        sh(gid("d-quiz"));
+        gid("d-stag").textContent = selSrc;
+        curView = "quiz";
+        updateBackBtn();
+        renderD();
+      }
+
+      function renderD() {
+        var q = dQs[dIdx],
+          tot = dQs.length,
+          ans = dAns[dIdx];
+        gid("d-qnum").textContent = "SAVOL " + (dIdx + 1);
+        gid("d-qtxt").textContent = q.question;
+        gid("d-ptxt").textContent = dIdx + 1 + " / " + tot;
+        gid("d-pbar").style.width = ((dIdx + 1) / tot) * 100 + "%";
+        gid("d-prev").disabled = dIdx === 0;
+        gid("d-next").textContent =
+          dIdx === tot - 1 ? "Yakunlash" : "Keyingi \u2192";
+
+        var opts = gid("d-opts");
+        opts.innerHTML = "";
+        var ltrs = ["A", "B", "C", "D"];
+        var shuffled = dShuffledOpts[dIdx];
+        shuffled.forEach(function (opt, i) {
+          var btn = document.createElement("button");
+          btn.className = "opt";
+          var ltr = ltrs[i] || String.fromCharCode(65 + i);
+          if (ans !== undefined) {
+            btn.classList.add("done");
+            if (opt === q.correct) btn.classList.add("cor");
+            else if (ans === opt) btn.classList.add("wrn");
+          }
+          btn.innerHTML =
+            '<span class="olet">' +
+            ltr +
+            "</span><span>" +
+            escH(opt) +
+            "</span>";
+          btn.onclick = function () {
+            pickD(opt);
+          };
+          opts.appendChild(btn);
+        });
+
+        var fb = gid("d-fb");
+        fb.className = "fb";
+        if (ans !== undefined) {
+          if (ans === q.correct) {
+            fb.className = "fb show cfb";
+            fb.textContent = "To'g'ri javob!";
+          } else {
+            fb.className = "fb show wfb";
+            fb.innerHTML =
+              "Xato! To'g'ri javob: <strong style='margin-left:4px'>" +
+              escH(q.correct) +
+              "</strong>";
+          }
+        }
+      }
+
+      function pickD(opt) {
+        if (dAns[dIdx] !== undefined) return;
+        dAns[dIdx] = opt;
+        renderD();
+      }
+
+      function demoNav(dir) {
+        if (dir === 1 && dIdx === dQs.length - 1) {
+          showDScore();
+          return;
+        }
+        dIdx = Math.max(0, Math.min(dQs.length - 1, dIdx + dir));
+        renderD();
+      }
+
+      function showDScore() {
+        hd(gid("d-quiz"));
+        sh(gid("d-score"));
+        curView = "score";
+        updateBackBtn();
+        var cor = 0,
+          wrn = 0,
+          tot = dQs.length;
+        dQs.forEach(function (q, i) {
+          if (dAns[i] !== undefined) {
+            if (dAns[i] === q.correct) cor++;
+            else wrn++;
+          }
+        });
+        var pct = tot > 0 ? Math.round((cor / tot) * 100) : 0;
+        gid("d-snum").textContent = cor + "/" + tot;
+        gid("d-scirc").style.setProperty("--pct", pct + "%");
+        gid("d-cchr").textContent = cor + " to'g'ri";
+        gid("d-wchr").textContent = wrn + " xato";
+        gid("d-tchr").textContent = tot + " savol";
+        var em, sub;
+        if (pct >= 90) {
+          em = "Ajoyib!";
+          sub = "Siz mutaxassissiz!";
+        } else if (pct >= 75) {
+          em = "Barakalla!";
+          sub = "Yaxshi natija!";
+        } else if (pct >= 50) {
+          em = "Yaxshi!";
+          sub = "Davom eting";
+        } else {
+          em = "Mashq qiling";
+          sub = "Ko'proq o'rganing";
+        }
+        gid("d-semoji").textContent = em;
+        gid("d-ssub").textContent = pct + "% to'g'ri \u2014 " + sub;
+      }
+
+      function restartDemo() {
+        hd(gid("d-score"));
+        startDemo();
+      }
+      function backToFans() {
+        hd(gid("d-score"));
+        hd(gid("d-quiz"));
+        sh(gid("d-home"));
+        curView = "home";
+        updateBackBtn();
+      }
+
+      /* ===== TEST ===== */
+      function startTest() {
+        var all = [];
+        SRCS.forEach(function (s) {
+          QD[s].forEach(function (q) {
+            all.push(q);
+          });
+        });
+        tQs = shuffle(all).slice(0, 50);
+        tIdx = 0;
+        tAns = {};
+        tShuffledOpts = {};
+        tSec = 1800;
+        /* Barcha test savollari uchun variantlarni oldindan aralashtir */
+        tQs.forEach(function (q, i) {
+          tShuffledOpts[i] = shuffle(q.options.slice());
+        });
+        hd(gid("t-home"));
+        sh(gid("t-run"));
+        curView = "run";
+        updateBackBtn();
+        renderT();
+        runTimer();
+      }
+
+      function runTimer() {
+        if (tTimer) clearInterval(tTimer);
+        tTimer = setInterval(function () {
+          tSec--;
+          var m = Math.floor(tSec / 60)
+            .toString()
+            .padStart(2, "0");
+          var s = (tSec % 60).toString().padStart(2, "0");
+          var el = gid("t-timer");
+          el.textContent = m + ":" + s;
+          el.classList.toggle("warn", tSec <= 120);
+          if (tSec <= 0) {
+            clearInterval(tTimer);
+            showTResult(true);
+          }
+        }, 1000);
+      }
+
+      function renderT() {
+        var q = tQs[tIdx],
+          tot = tQs.length;
+        var ansCnt = Object.keys(tAns).length;
+        var cor = 0;
+        tQs.forEach(function (qq, ii) {
+          if (tAns[ii] === qq.correct) cor++;
+        });
+        gid("t-qnum").textContent = "SAVOL " + (tIdx + 1);
+        gid("t-qtxt").textContent = q.question;
+        gid("t-stag").textContent = q.source;
+        gid("t-pinfo").textContent = "Savol " + (tIdx + 1) + " / " + tot;
+        gid("t-pbar").style.width = ((tIdx + 1) / tot) * 100 + "%";
+        gid("t-live").textContent = cor + " / " + ansCnt;
+        gid("t-prev").disabled = tIdx === 0;
+        gid("t-next").disabled = tIdx === tot - 1;
+        var finBtn = gid("t-finish");
+        if (finBtn) {
+          finBtn.style.display = tIdx === tot - 1 ? "inline-flex" : "none";
+        }
+
+        var opts = gid("t-opts");
+        opts.innerHTML = "";
+        var ltrs = ["A", "B", "C", "D"];
+        var myAns = tAns[tIdx];
+        var shuffled = tShuffledOpts[tIdx];
+        shuffled.forEach(function (opt, i) {
+          var btn = document.createElement("button");
+          btn.className = "opt";
+          var ltr = ltrs[i] || String.fromCharCode(65 + i);
+          if (myAns !== undefined) {
+            btn.classList.add("done");
+            if (opt === q.correct) {
+              btn.classList.add("cor");
+            } else if (myAns === opt) {
+              btn.classList.add("wrn");
+            }
+          }
+          btn.innerHTML =
+            '<span class="olet">' +
+            ltr +
+            "</span><span>" +
+            escH(opt) +
+            "</span>";
+          btn.onclick = function () {
+            pickT(opt);
+          };
+          opts.appendChild(btn);
+        });
+      }
+
+      function pickT(opt) {
+        if (tAns[tIdx] !== undefined) return;
+        tAns[tIdx] = opt;
+        renderT();
+        setTimeout(function () {
+          if (tIdx < tQs.length - 1) {
+            tIdx++;
+            renderT();
+          }
+        }, 500);
+      }
+
+      function testNav(dir) {
+        tIdx = Math.max(0, Math.min(tQs.length - 1, tIdx + dir));
+        renderT();
+      }
+
+      function finishTest() {
+        var left = tQs.length - Object.keys(tAns).length;
+        if (left > 0) {
+          if (!confirm(left + " ta savol javobsiz qolgan. Yakunlaysizmi?"))
+            return;
+        }
+        clearInterval(tTimer);
+        showTResult(false);
+      }
+
+      function showTResult(tUp) {
+        hd(gid("t-run"));
+        sh(gid("t-result"));
+        curView = "result";
+        updateBackBtn();
+        var tot = tQs.length,
+          cor = 0;
+        tQs.forEach(function (q, i) {
+          if (tAns[i] === q.correct) cor++;
+        });
+        var wrn = Object.keys(tAns).length - cor;
+        var skip = tot - Object.keys(tAns).length;
+        var pct = Math.round((cor / tot) * 100);
+        gid("t-snum").textContent = cor + "/" + tot;
+        gid("t-scirc").style.setProperty("--pct", pct + "%");
+        gid("t-cchr").textContent = cor + " to'g'ri";
+        gid("t-wchr").textContent = wrn + " xato";
+        gid("t-schr").textContent = skip + " o'tkazilgan";
+        var em, sub;
+        if (tUp) {
+          em = "Vaqt tugadi!";
+          sub = pct + "% \u2014 " + cor + " ta to'g'ri";
+        } else if (pct >= 90) {
+          em = "Ajoyib!";
+          sub = pct + "% \u2014 Mukammal natija!";
+        } else if (pct >= 75) {
+          em = "Barakalla!";
+          sub = pct + "% \u2014 Yaxshi natija!";
+        } else if (pct >= 60) {
+          em = "Yaxshi!";
+          sub = pct + "% \u2014 Davom eting!";
+        } else {
+          em = "Mashq qiling!";
+          sub = pct + "% \u2014 Ko'proq o'rganing";
+        }
+        gid("t-semoji").textContent = em;
+        gid("t-ssub").textContent = sub;
+      }
+
+      function restartTest() {
+        hd(gid("t-result"));
+        sh(gid("t-home"));
+        curView = "home";
+        updateBackBtn();
+      }
+
+      buildGrid();
